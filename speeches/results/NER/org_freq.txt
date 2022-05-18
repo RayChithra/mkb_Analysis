@@ -1,0 +1,1597 @@
+MyGov : 34
+Ministry : 32
+Army : 32
+Republic : 31
+NarendraModiApp : 26
+Parliament : 25
+Unity : 25
+NCC : 21
+Nation : 20
+GST : 20
+Red Fort : 19
+United Nations : 19
+FIFA : 18
+UN : 17
+New India : 16
+International : 15
+Fit India : 15
+ISRO : 14
+International Yoga : 14
+Amrit Mahotsav : 14
+DIVYANG : 12
+State : 11
+Narendra Modi App : 10
+Cleanliness Campaign : 10
+Local : 10
+Central : 9
+Election Commission : 9
+World : 9
+Muslim : 9
+Atal : 9
+Himalayas : 9
+Padma : 9
+New Year : 8
+Yoga : 8
+MNREGA : 8
+RIO : 8
+WhatsApp : 8
+Champaran Satyagraha : 8
+Cleanliness : 8
+Prakash Parv : 8
+AYUSH : 8
+Mann Ki Baat : 7
+Lord Buddha : 7
+PM : 7
+ASHA : 7
+National Science : 7
+Gandhi : 7
+Armed Forces : 7
+Corona : 7
+Sant Ravidas : 7
+YesWeCan : 6
+IIT : 6
+Bangladesh : 6
+TB : 6
+Honourable : 6
+Almighty : 6
+National Sports : 6
+Teachers : 6
+BSF : 6
+CRPF : 6
+National Anthem : 6
+NGOs : 6
+Artificial Intelligence : 6
+National : 6
+Freedom Struggle : 6
+Constituent Assembly : 6
+Namo App : 6
+Country : 6
+HRD : 5
+SAARC : 5
+Sun : 5
+MUDRA : 5
+Football : 5
+NGO : 5
+UPI : 5
+Rio Olympics : 5
+Gita : 5
+All India Radio : 5
+Paralympics : 5
+ODF : 5
+Soldiers : 5
+RuPay Card : 5
+No : 5
+VIP : 5
+Lord Jagannath : 5
+NDRF : 5
+Padma Awards : 5
+Padma Shri : 5
+NHRC : 5
+Social Media : 5
+National Soldiers : 5
+Ravidas : 5
+Himachal Pradesh : 5
+House : 4
+Sisters : 4
+First : 4
+Haryana : 4
+Incredible India : 4
+Nobel Prize : 4
+Hospital : 4
+CBSE : 4
+Incubation Centres : 4
+MPs : 4
+Compost : 4
+ITBP : 4
+NSS : 4
+Mantra : 4
+National Unity : 4
+Vasant Panchami : 4
+BHIM App : 4
+CISF : 4
+YouTube : 4
+Navy : 4
+Gandhiji : 4
+Nivedita : 4
+Ayurveda : 4
+ASEAN : 4
+Technology : 4
+UNESCO : 4
+MSP : 4
+Jallianwala Bagh : 4
+Sufi : 4
+SardarVallabhbhai Patel : 4
+Mahakumbh : 4
+BirsaMunda : 4
+Supreme Court : 4
+Constitution : 4
+Lord Krishna : 4
+Fit India Movement : 4
+Lakshmi : 4
+Sikh : 4
+Delhi : 4
+Hunar Haat : 4
+Ayush : 4
+Namo : 4
+Atmanirbhar Bharat : 4
+International Video Blog : 4
+Environment : 4
+NamoApp : 4
+Prasad : 4
+Nepal : 3
+Cricket : 3
+XII : 3
+Farmer : 3
+PPP : 3
+God : 3
+NOTO : 3
+News : 3
+African : 3
+Central Government : 3
+Niti Aayog : 3
+Media : 3
+International Yog : 3
+Beti Bachao : 3
+Tilak : 3
+SURAAJ : 3
+Poor : 3
+SHAKTI : 3
+Defecation Free : 3
+AMUL : 3
+Lok Sabha : 3
+Ram Navami : 3
+Emergency : 3
+PMO : 3
+Nature : 3
+Centre : 3
+Quit India Movement : 3
+Lokmanya Tilak : 3
+Sanitation : 3
+Pradhan Mantri Jan : 3
+Ecological Protection Organization : 3
+Democracy : 3
+NDMA : 3
+Ganges : 3
+Buddhist : 3
+Iron : 3
+KallarMajra : 3
+Azad Hind : 3
+SulagittiNarsamma : 3
+Kumbh Mela : 3
+Engineers : 3
+BhagwanBirsaMunda : 3
+Institute : 3
+Moon : 3
+Amarnath Yatra : 3
+Discovery : 3
+Single Use Plastic : 3
+Tricolour : 3
+NaMo : 3
+Rang : 3
+Ranglo : 3
+Bhagirathi Amma : 3
+Corona Warriors : 3
+Lord Basaveshwara : 3
+Ayushman : 3
+VandeMataram : 3
+National Handloom : 3
+National Education Policy : 3
+GI Tag : 3
+Tricolor : 3
+Doctor : 3
+PPE Kit : 3
+Tokyo Olympics : 3
+AmbuRx : 3
+ILBS : 3
+WHO : 3
+Swachh Bharat Abhiyan : 3
+Residency : 3
+ONGC : 3
+Vivekananda : 2
+All : 2
+Progress : 2
+Brothers : 2
+Mothers : 2
+UK : 2
+Land Acquisition Act : 2
+Akashvani : 2
+Kendriya Vidyalaya : 2
+IIM : 2
+Central Universities : 2
+NIT : 2
+Guinness Book : 2
+LPG : 2
+Subhash Babu : 2
+Banaras Hindu University : 2
+Akashwani : 2
+SC : 2
+ST : 2
+Hind : 2
+Devi : 2
+Railways : 2
+State Governments : 2
+Savaner : 2
+Digital India : 2
+Kannur : 2
+UP : 2
+ETV : 2
+Clean India : 2
+Lord Vishweshwara : 2
+Jan Dhan : 2
+RuPay : 2
+Girl Child : 2
+Chandrakant Kulkarni : 2
+Anushasan Parv : 2
+Mahabharta : 2
+Pradesh : 2
+Parliament Session : 2
+Quit India : 2
+Rio : 2
+High Jump : 2
+Cleanliness Mission : 2
+Welfare : 2
+Universe : 2
+Deepawali : 2
+Chhathh Pooja : 2
+Goddess : 2
+OFD : 2
+Gram Sabha : 2
+SARDAR : 2
+PRAKASH : 2
+ALL : 2
+BHU : 2
+Varanasi : 2
+USSD : 2
+RuPay Cards : 2
+GNFC : 2
+World Bank : 2
+Divyangjan : 2
+Divyaang : 2
+Net : 2
+Nations : 2
+Third International Yoga : 2
+Swachch Bharat Campaign : 2
+EPI : 2
+Rath Yatra : 2
+Mubarakpur : 2
+UAE : 2
+Foundation : 2
+Pundits : 2
+ParyushanParva : 2
+Samvatsari : 2
+Sports Ministry : 2
+Pooja : 2
+Chatth Pooja : 2
+Rupees : 2
+NarendramodiApp : 2
+Britishers : 2
+Chandrapur Fort : 2
+LANGAR : 2
+New : 2
+Surgical Strike : 2
+Islamic : 2
+Minority Affairs : 2
+INSV Tarini : 2
+USA : 2
+Maoist : 2
+Narendra Modi : 2
+European Union : 2
+NOT : 2
+Purusharth : 2
+APMC : 2
+Bharat : 2
+Television : 2
+MBBS : 2
+Commonwealth : 2
+Commonwealth Games : 2
+Department : 2
+Good News India : 2
+Rs : 2
+Yamuna : 2
+DGP : 2
+Three D : 2
+DrugsFreeIndia : 2
+Cashless : 2
+PSLV : 2
+IAS : 2
+Kolkata University : 2
+MSME : 2
+Yuva : 2
+GST Council : 2
+Bodh Gaya : 2
+Ahmedabad : 2
+Infantry : 2
+Para : 2
+DTC : 2
+Men : 2
+Central India : 2
+Nilgiri : 2
+LalBahadurShastriji : 2
+SardarSaheb : 2
+International Solar Alliance : 2
+National Integration : 2
+Guru : 2
+Monsoon : 2
+OBC Commission : 2
+Century : 2
+Pulwama : 2
+National War Memorial : 2
+Padmashree : 2
+ParikshaPeCharcha : 2
+PURUSHARTH : 2
+Meghalaya : 2
+Chandrayaan : 2
+Tapasya : 2
+Panchayats : 2
+Agriculture : 2
+Amarnath : 2
+Sudarshan : 2
+Sabarmati Ashram : 2
+Venice Biennale : 2
+Congress Session : 2
+Sanskrit Subhashit : 2
+Laxmi : 2
+BHARAT : 2
+Pradhan Sevak : 2
+NPK : 2
+Mudaliar : 2
+Hari : 2
+NCC Cadet : 2
+Brahmaputra Pushkar : 2
+Man Ki Baat : 2
+Prashant : 2
+Fit India School : 2
+COP : 2
+Innovation : 2
+Mission Saahas : 2
+Lord Shiva : 2
+Navaraatri : 2
+ANM : 2
+Raju : 2
+NAMO : 2
+Rajendra Yadav : 2
+Kapalbhati : 2
+Pranayamas : 2
+Valli : 2
+Agriculture Department : 2
+Administration : 2
+Nizam : 2
+Panchayat : 2
+Handloom : 2
+Nutrition Month : 2
+IED : 2
+Freedom Movement : 2
+Bangalore : 2
+CSR : 2
+JP : 2
+Cellular Jail : 2
+Earth : 2
+Hon : 2
+Incubation : 2
+CEO : 2
+CEOs : 2
+ABC : 2
+Soft Stones : 2
+National Yoga : 2
+Chilean Parliament : 2
+PARAS : 2
+RAIN : 2
+SABH : 2
+SAT : 2
+Kaziranga National Park : 2
+MitaaliRaaj : 2
+Second Wave : 2
+COVID : 2
+ICU : 2
+INA : 2
+LakhimpurKheri : 2
+Oxygen Express : 2
+Metric Tonnes : 2
+Shahi Litchi : 2
+Kisan Rail : 2
+National Doctors : 2
+Sukhet : 2
+Culture Ministry : 2
+Universal : 2
+Siachen Glacier : 2
+Dayal : 2
+Antyodaya : 2
+Azadi Ka Amrit Mahotsav : 2
+Regional Transport Corporation : 2
+Hastinapur Foundation : 2
+Azadi : 2
+Parohi : 2
+App : 2
+ShivaKumar : 2
+Siddhganga Mutt : 2
+National Army : 2
+FM Radio : 2
+NarendraModi App : 2
+Vasudhaiva Kutumbakam : 1
+Civil Rights Movement : 1
+Communist : 1
+Foreign Affairs : 1
+Domestic Affairs : 1
+Eliminate Poverty : 1
+Sundays : 1
+External Affairs : 1
+Victoria Cross : 1
+United Nation : 1
+International Centre : 1
+Congress : 1
+National Highway : 1
+Social Impact Assessment : 1
+SIA : 1
+Jawan : 1
+Authority : 1
+Corridor : 1
+Land Acquisition Bill : 1
+Title : 1
+Special Scholarships : 1
+Kendriya Vidyalays : 1
+Siachin : 1
+Article : 1
+Parikh : 1
+Merry : 1
+Happy New Year : 1
+International Yoga Diwas : 1
+Capital : 1
+Market : 1
+National Youth Festival : 1
+Development Skill : 1
+Youth Festival : 1
+Accessible India Campaign : 1
+Aadhar Card Scheme : 1
+Jan Dhan Account : 1
+Happy New : 1
+Acharya : 1
+Swachhta Abhiyan : 1
+Cleaniness : 1
+Honorable Bapu Mahatma Gandhi : 1
+Subhash : 1
+Bhargavi Kande : 1
+Bhagvada Geeta : 1
+Azad Hind Radio : 1
+Nadu : 1
+Agricultural Ministry : 1
+Lakhwinder Singh : 1
+Organ Donation : 1
+Disability : 1
+Sansad Aadarsh Gram Yojana : 1
+VIII : 1
+IX : 1
+National Energy : 1
+Zee News : 1
+Solar Energy : 1
+Zee : 1
+OBC : 1
+MUDRA Yojana : 1
+Rashtram Jagryam : 1
+Civil Society : 1
+admit-card : 1
+Agarwal : 1
+Ram : 1
+ShriSushant Kumar : 1
+ShriAbhijeet : 1
+Nagar : 1
+Srinivas Ramanujam : 1
+Harry : 1
+Vaishnav : 1
+Jindal : 1
+LIGO : 1
+Rajghat : 1
+Police Department : 1
+Postal Department : 1
+Citizens : 1
+Swachta Abhiyan : 1
+Rights : 1
+Dignesh Pathak : 1
+Hazaribagh : 1
+Sohrai : 1
+English : 1
+Super League : 1
+Indians : 1
+Coalfields Limited : 1
+Kukke : 1
+Less : 1
+Beat Diabetes : 1
+Microscopy Centres : 1
+DOTS : 1
+National Organ : 1
+National Capital : 1
+African Nations : 1
+Indo Africa : 1
+Gupta : 1
+Continent : 1
+Diaspora Happy : 1
+Indus Valley : 1
+HRD Ministry : 1
+Sansad Adarsh Gram Yojana : 1
+Dwarapudi Gram Panchayat : 1
+Ruwala : 1
+Sugarcane Festival : 1
+Rai : 1
+Clean India Awards : 1
+ABP : 1
+NDTV : 1
+Jagaran : 1
+Gold Coin : 1
+Gold Bullion Bars : 1
+Gold Gunion : 1
+Telangana : 1
+Mission Bhagirathi : 1
+Water Campaign : 1
+Pradhan Mantri Jan Dhan Yojana : 1
+Assam : 1
+Netaji Subhash National Institute : 1
+NarendraModi Mobile App : 1
+Giri Goswami : 1
+Giriji : 1
+Shehnai : 1
+Pranayam : 1
+Smart City Project : 1
+Pune College : 1
+Satyabhama University : 1
+SathyabamaSAT : 1
+United Nations Organisation : 1
+Srivastava : 1
+Rural Employment Scheme : 1
+Revenue : 1
+Income Tax : 1
+Smart City : 1
+Kulkarni : 1
+Chandrkant Kulkarni : 1
+Garhwal : 1
+Punjab Central University : 1
+Gold : 1
+AIM : 1
+Atal Innovation Mission : 1
+Atal Incubation Centres : 1
+Peepal Tree : 1
+Sonal : 1
+CAMPA : 1
+SMS : 1
+Aligarh : 1
+Thakur : 1
+NarednraModiApp : 1
+Ganeshji : 1
+POP : 1
+External : 1
+Ganga : 1
+Satyagrah : 1
+Kolkata : 1
+Bangladesh Betaar : 1
+Padma Shree : 1
+GST Act : 1
+Eleventh Class : 1
+Uri : 1
+Thangavelu : 1
+Paralympic : 1
+Mega Camp : 1
+Dang District : 1
+ODF Campaign : 1
+Commissioners : 1
+Jagran Abhiyan : 1
+Awereness Campaign : 1
+Sanitation Department : 1
+Rural Development Department : 1
+Consumer Affairs : 1
+Donation Festival : 1
+Daan Utsav : 1
+GARIB : 1
+US Postal Service : 1
+Singapore Parliament : 1
+Sarees : 1
+Diwali : 1
+Upasana : 1
+Himalayan : 1
+ITBP Jawan : 1
+Municipal Councils : 1
+Mission Indradhanush : 1
+Great India : 1
+Shreshtha Bharat : 1
+Development : 1
+Mahamana Madan Mohan Malviyaji : 1
+Mahamana Madan Mohan Malviya Cancer Centre : 1
+Digi Dhan Vyapaar Yojana : 1
+Digi Dhan Vyapar Yojana : 1
+AEPS : 1
+Rural Banks : 1
+Digital Krishak Shiromani : 1
+PoS : 1
+UNCTAD : 1
+Top : 1
+Global : 1
+Global Innovation : 1
+Logistics Performance : 1
+Divyaangjan : 1
+Divyaangs : 1
+ICC : 1
+Junior Hockey Team : 1
+Junior Hockey : 1
+Bronze Medal : 1
+Kumbh Melas : 1
+Kalam : 1
+ANUSPARDHA : 1
+Board Exams : 1
+Observers : 1
+RITURAJ : 1
+Mera Rang : 1
+Jallianwallah Massacre : 1
+Empire : 1
+Batukeshwar Dutt : 1
+Digimela : 1
+Rispana Bridge : 1
+Cleanliness Movement : 1
+HABIT : 1
+Awadh Region : 1
+Mithila : 1
+Roti Banks : 1
+Prashant Kumar Mishra : 1
+Sparrows : 1
+Guinness : 1
+Mahaatmya : 1
+Social : 1
+Shrameva Jayate : 1
+Dignity : 1
+Bharatiya Mazdoor Sangh : 1
+Dattopant Thengdi : 1
+Lord Budha : 1
+Car : 1
+Car Festival : 1
+Vizianagaram District : 1
+Tripathi : 1
+Great Wall : 1
+Eiffel Tower : 1
+Queen : 1
+Minimum Government : 1
+Mars Mission : 1
+Synthetic Track : 1
+Council : 1
+Ministers : 1
+Chartered Accountants : 1
+Services Tax : 1
+Management : 1
+GST App : 1
+Sankalp Parva : 1
+Corruption : 1
+Communalism : 1
+Die : 1
+Quit India Quiz : 1
+Sarvjanik Ganeshotsav : 1
+Ganesh : 1
+Community Ganesh Festivals : 1
+Samvatsari Parva : 1
+KshamavaniParva : 1
+Merchant of Venice : 1
+Ganesh Festival : 1
+Navaratri : 1
+Ganesh Visarjan : 1
+Banaskantha District : 1
+Donate : 1
+Sundaysand Holidays : 1
+Swachch Sankalp : 1
+Gandhi Jayanti : 1
+INS Tarini : 1
+Educate : 1
+Harvard University : 1
+Jan : 1
+Pradhan Mantri Jan Dhan Yojna : 1
+Maharashtra Shriman : 1
+Tourism Department : 1
+Pampore : 1
+Cleanliness Festival : 1
+Cleanliness Campagin : 1
+Jai Prakash Narain : 1
+Gramodaya Movement : 1
+Run : 1
+Diversity : 1
+Internalize : 1
+Lieutenant Swati : 1
+Navratra : 1
+Khadi Gramodyog Bhavan : 1
+UN Peacekeepers : 1
+Human Rights : 1
+United Nations Peace Mission : 1
+Param Veer : 1
+Force : 1
+NIVEDITA : 1
+Scientist Jagdish : 1
+Denmark Open : 1
+Gurbani : 1
+Christmas : 1
+Bible : 1
+NishKaam Karma : 1
+Ramkrishna Paramhans : 1
+Caravan : 1
+SOUND : 1
+Kashmir Administrative Examination : 1
+Sabrimala : 1
+Lord Ayyappa Swami : 1
+Lord : 1
+Cleanliness App : 1
+Haj : 1
+Skand : 1
+Vedic Period : 1
+Merchant Navy Captain : 1
+Antarctica : 1
+Narendra Modi Website : 1
+District Administration : 1
+Pradhan Mantri Jan Aushadhi Yojana : 1
+Jan Aushadhi Kendra : 1
+Jan Aushadhi Centres : 1
+Pradhan Mantri Bharatiya Jan Aushadhi Centres : 1
+Quality : 1
+Swachh Bharat : 1
+Mission Clean Morna : 1
+Clean Morna : 1
+IIT Kanpur : 1
+Devdasis : 1
+Subhasini Mistri : 1
+Mistri : 1
+Raman Effect : 1
+BOSON : 1
+Wadhwani Institute : 1
+Artificial : 1
+Alva Edison : 1
+Maharshi Arvind : 1
+National Safety : 1
+National Disaster Management Authority : 1
+Volunteers : 1
+National Disaster Response Forces Armed Forces : 1
+Paramilitary : 1
+Swachch Bharat Mission : 1
+Gobardhan Scheme : 1
+Elephanta : 1
+Elephanta Island : 1
+Lord Ram : 1
+Ramayan : 1
+Punri Village : 1
+DD Kisan : 1
+Krishi Unnati Mela : 1
+Health Ministry : 1
+Sanitation Ministry : 1
+Ayush Ministry : 1
+Consumer Affairs Ministry : 1
+International Yoga Days : 1
+FDI : 1
+Second : 1
+Team India : 1
+Center : 1
+Bhagwan Mahavir Jayanti : 1
+Baisakhi : 1
+Lord Mahavirji : 1
+Lord Jesus : 1
+Jud : 1
+Para Power : 1
+Devnath : 1
+YOG : 1
+Summer Internship : 1
+UGC : 1
+National Livelihood Mission : 1
+Pudukottai : 1
+Fatehpur : 1
+Inter Department Coordination : 1
+Nobel Laureate Rabindra Nath : 1
+Prophet Saab : 1
+Prophet : 1
+Purnima : 1
+Philosophy : 1
+Buddhist Tourism : 1
+Friends : 1
+Atal Pension Yojna : 1
+United Nations Assembly : 1
+Kutumbakam : 1
+Pradhan Sewak : 1
+Blind Cricket Team : 1
+Team Spirit : 1
+International Toilet : 1
+Non Violence : 1
+Taj : 1
+Merry Christmas : 1
+Local Radio : 1
+IRCTC : 1
+Save : 1
+Hoshakote Akshay : 1
+Safety : 1
+Emergency Care : 1
+National Road Safety Policy : 1
+Mundiya : 1
+TTE Vijay Biswal : 1
+Deka : 1
+Atal Bihari Vajpayee : 1
+DONER Ministry : 1
+DONER Department : 1
+DNA : 1
+Human Resource Development : 1
+National Discovery Campaign : 1
+IPL : 1
+European Parliament : 1
+Das : 1
+Compassion : 1
+Forgiveness : 1
+University : 1
+Independent India : 1
+All India Handloom Board : 1
+Village Industries Board : 1
+Jan Dhan Yojana : 1
+Bank Mitra : 1
+Bank Mitras : 1
+Poor People : 1
+Tricolor Flag : 1
+Parimal Shah : 1
+Infant : 1
+Swachh Bharat Campaign : 1
+Public Education : 1
+Indu Mill : 1
+BardoliSatyagrah : 1
+Dominion : 1
+samManekshaw : 1
+Colonel : 1
+Science : 1
+Para Athletes : 1
+Summer : 1
+Summer Youth : 1
+Hockey : 1
+Team : 1
+Sun Temple : 1
+Society : 1
+Bhil : 1
+Kol : 1
+Gond : 1
+Central Indai : 1
+ShrimanGurbachan : 1
+Agriculture Organisation : 1
+BhaiyaDooj : 1
+ParaakramParva : 1
+ParaakaramPrava : 1
+Jodhpur : 1
+Supreme : 1
+Battle : 1
+Jodhpur Lancers : 1
+United Nations Peace : 1
+Air Warriors : 1
+Bangladesh Freedom Struggle : 1
+Tiger Hill : 1
+Permanent Commission : 1
+Short Service Commission : 1
+AbhilashTomy : 1
+Golden Globe : 1
+Farmers : 1
+People : 1
+Mahatma Gandhi : 1
+Mahatma Gandhi International Sanitation Convention : 1
+NyayamoolamSwarajyamSyat : 1
+Commission : 1
+ShriAtalBihari Vajpayee : 1
+National Human Rights Commission : 1
+Sab : 1
+RajmataVijayarajeScindiaji : 1
+HOW India : 1
+SardarVallabhbhai : 1
+General Assembly : 1
+Nuclear Triad : 1
+NavikaSagarParikrama : 1
+Blind Cricket : 1
+Municipal Corporation : 1
+Karate : 1
+Junior Women : 1
+MakrSankranti : 1
+MaghBihu : 1
+Makardasha : 1
+PoilaBoisakh : 1
+MakarSankranti : 1
+Intangible : 1
+Mela : 1
+Integrated Command : 1
+Control Center : 1
+Phoenix : 1
+BrajBhasha : 1
+Safe : 1
+ShravanPoornima : 1
+यद : 1
+RAF : 1
+AtalBehari Vajpayee : 1
+Anti Defection Law : 1
+Budget : 1
+Flag Code : 1
+Triple Talaq Bill : 1
+Rajya Sabha : 1
+WUSHU : 1
+ROWING : 1
+KailashNathMandir : 1
+Krishna Raj Sagar Dam : 1
+National War : 1
+Memorial : 1
+Amar : 1
+Tyag : 1
+Rakshak : 1
+AtishMukhopadhyayji : 1
+valourousBhagwanBirsaMunda : 1
+Tata Institute : 1
+Janata Party : 1
+Legislative Assemblies : 1
+Cabinet : 1
+Newspaper : 1
+Srimadbhagvad Gita : 1
+DaitariNayak : 1
+Life : 1
+ShabbirSayyed : 1
+Marathwada : 1
+Kalanjiyam : 1
+MuktabenPankajkumarDagali : 1
+ChakshuMahilaSevakunj : 1
+Farmer Aunty : 1
+PMJAY : 1
+Town Hall : 1
+Shivratri : 1
+Jammu : 1
+Board : 1
+Board Examinations : 1
+Gram Pradhans : 1
+Maaroo : 1
+ATMs : 1
+Credit Card : 1
+POS : 1
+Credit Cards : 1
+Cashless Society : 1
+GITA : 1
+YOUR : 1
+HELP : 1
+Apps : 1
+NaarendraModiApp : 1
+Ormanjhi : 1
+CANCER : 1
+LIFE : 1
+Fearlessness : 1
+Technical : 1
+Quiz Competition : 1
+Quiz : 1
+Saini : 1
+Swachchata Abhiyan : 1
+Horticulture Department : 1
+Kanwad Yatra : 1
+Kedarnath Shrine : 1
+RAAS : 1
+Charkha : 1
+Mohan : 1
+Phoenix Farm : 1
+Tolstoy Farm : 1
+Community : 1
+Karyanjali : 1
+Ladies : 1
+Ashram : 1
+Wardha : 1
+Haripura Panels : 1
+Haripura : 1
+Haripura Session : 1
+Bose : 1
+Venice : 1
+Red : 1
+Anganwadis : 1
+Ji : 1
+Asiatic Lion : 1
+Tiger : 1
+St. Petersburg : 1
+Asiatic : 1
+DIDI : 1
+Didi : 1
+Navaratri Mahotsava : 1
+Chirag Tale Andhera : 1
+Delivery Out : 1
+Exam : 1
+Peer Company : 1
+Holiness Pope Francis : 1
+Congregation : 1
+Holy Family : 1
+Travel : 1
+Swachhata Abhiyan : 1
+PATJHAD : 1
+Jungle Flame : 1
+Ritu : 1
+Interceptor Missile : 1
+Cartosat : 1
+Ballistic : 1
+Foreign Ministry : 1
+Digital : 1
+Lucky Grahak Yojana : 1
+SANTOSH : 1
+Warangal : 1
+Cleanliness News : 1
+Cleanliness Fortnight : 1
+Tribal Affairs : 1
+Water Resources : 1
+Rio Paralympics : 1
+Blind : 1
+Convergence Model : 1
+Diaspora : 1
+Ramesh : 1
+CLAT : 1
+Gwalior Railway Station : 1
+Lakshmis : 1
+Penninda : 1
+Guru Nanak Dev : 1
+Gaya : 1
+Golden : 1
+Partition : 1
+Liberty : 1
+Children : 1
+Nutrition Park : 1
+Time : 1
+FIT India : 1
+Allahabad High Court : 1
+NCC Cadets : 1
+National Cadet Corps : 1
+NER : 1
+Bhelpuri : 1
+Water Polo : 1
+St. Joseph : 1
+Autonomous : 1
+Sazolie College : 1
+howI : 1
+Armed Forces Flag : 1
+Fit India Week : 1
+Schools : 1
+Fit : 1
+Pushkaram : 1
+TaamirabaraNi : 1
+Brahmaputra : 1
+Tungabhadra : 1
+Exam Warriors : 1
+Ayodhya : 1
+Great Poet : 1
+uDai : 1
+yaaL : 1
+इवळ : 1
+padineTTuDaiyaaL : 1
+onDruDaiyaaL And : 1
+Himalaya : 1
+Gen Zee : 1
+Social Media Generation : 1
+Vivekanand : 1
+National Youth : 1
+Rock Memorial : 1
+Desert Festival : 1
+Bhairavganj Health Centre : 1
+Public Health Awareness : 1
+Garment Unit : 1
+Parveen Fatima : 1
+Retail Team Leader : 1
+Jantar Mantars : 1
+meter-wave : 1
+ASTROSAT : 1
+Sankraanti : 1
+UttaraayaN : 1
+Festival : 1
+Digital Economy : 1
+Bhadraayun : 1
+Jal Shakti Campaign : 1
+Saraahi Lake : 1
+Yogananthan : 1
+Gold Medal : 1
+International Footballer : 1
+Youth Games : 1
+Sports Department : 1
+Jawaharlal Nehru Stadium : 1
+Gaganyaan : 1
+Tree : 1
+Peoples : 1
+Goodbye : 1
+Phulkari : 1
+Uttar Pradesh : 1
+Principals : 1
+CSIR : 1
+Didis : 1
+Farmer Didis : 1
+Andes Mountains : 1
+Amma : 1
+Ajrak Print : 1
+Chaitra Shukla Pratipada : 1
+Gas Subsidy : 1
+Digital Platform : 1
+Pradhan Mantri Gareeb Kalyan Package : 1
+THAT : 1
+Pandavas : 1
+Lord Suryadev : 1
+Akshaya Tritiya : 1
+Odia New Year : 1
+Illness : 1
+Corona Global Pandemic : 1
+Italy… : 1
+Safdarjung Hospital : 1
+Agra Doctors : 1
+ICSE : 1
+B.J.Medical College : 1
+Muncipal Corporation Hospital : 1
+Nurse : 1
+BengaLuuru : 1
+Pareekshit : 1
+Vasudha : 1
+Aatmnirbhar Bharat : 1
+Creation : 1
+Kalyani : 1
+Financial Times : 1
+VamanGuntlu : 1
+likeKamegowdaji : 1
+Ayurvedic : 1
+ShriPV Narasimha Rao : 1
+Rao : 1
+Kargil Victory : 1
+Gram Panchayats : 1
+Zaitoona Begum : 1
+Begum : 1
+Municipal : 1
+Six Lakh Rupees : 1
+Bamboo : 1
+Muzaffarpur : 1
+Josh : 1
+Delhi University : 1
+Vedic Mathematics : 1
+JEE Mains : 1
+Bachelor Degree : 1
+Civil Services : 1
+Anjaneyar : 1
+Congratulations : 1
+Person : 1
+PIO : 1
+Corona Virus : 1
+BARNA : 1
+Children University : 1
+Toy : 1
+Global Toy Industry : 1
+MSMEs : 1
+Aatma Nirbhar Bharat App : 1
+KOO : 1
+Beed : 1
+Disaster Management : 1
+National Disaster Response Force : 1
+NSG : 1
+Garba : 1
+Pearl City : 1
+Pandyan Empire : 1
+Rayo : 1
+Holiness Adi Shankaracharya : 1
+Bhakti : 1
+Kashmir Valley : 1
+Pencil Slats : 1
+Pencil Village : 1
+Patidar : 1
+Sanskar : 1
+Parivrajak : 1
+Hitopadesh : 1
+Vyas : 1
+IIM Ahmedabad : 1
+Veer Raghavan : 1
+Bengaluru : 1
+Navrasas : 1
+Electrical Engineer : 1
+Come : 1
+Dembele : 1
+APMC Act : 1
+Tamil Nadu Banana : 1
+Bhai : 1
+Shanti : 1
+Lotus : 1
+ChandraShekhar Azad : 1
+Aatmanirbhar Bharat Abhiyaan : 1
+Democratic : 1
+Jayaprakash Narayan : 1
+Savarkarji : 1
+Pradhan : 1
+Versova : 1
+VRV : 1
+UNEP : 1
+Riyasi Block : 1
+Rashtrapati Bhavan : 1
+Lok : 1
+Devi Annapurna : 1
+Annapoorna : 1
+National Museum : 1
+Vishwanath : 1
+Arsha Vidya Gurukulam : 1
+Oath : 1
+Prakash Parva : 1
+Lakhpat Gurudwara Sahib : 1
+Award : 1
+UNESCO Asia Pacific Heritage Award : 1
+Kartarpur Sahib : 1
+JNU : 1
+Lucknow University : 1
+Mini India : 1
+Conference Centres : 1
+Management Centres : 1
+Sri Aurobindo : 1
+SriAurobindo : 1
+Vocal : 1
+Local Mantra : 1
+Bhoi : 1
+SDM : 1
+Aslam : 1
+Whatsapp : 1
+FPO : 1
+Agricultural : 1
+Rupees Two : 1
+NAMO App : 1
+CORONA : 1
+Martyrdom : 1
+Coimbatore : 1
+Diksha Portal : 1
+Education Ministry : 1
+Hiramanji : 1
+Sinjo : 1
+AbulFazl : 1
+Kashmiri Saffron : 1
+Geographical Indication Tag : 1
+Globally Popular Brand : 1
+GI Tagged Saffron : 1
+Trading Center : 1
+PARAKRAM : 1
+Address : 1
+Budget Session : 1
+Atmanirbhar Bharat Campaign : 1
+Priyanka Pandey : 1
+Beti Priyanka : 1
+Ram Viplava : 1
+Tarapur Martyr : 1
+Terrace Garden : 1
+Naya Pingla : 1
+Incredible India Weekend Getaway : 1
+Handicraft : 1
+Incredible India Weekend Getaways : 1
+Bhagyashree Sahu : 1
+Pattchitra : 1
+Deputies : 1
+Chilean Congress : 1
+Chilean : 1
+Senate : 1
+Border Road Organization : 1
+Late : 1
+Toll Plaza : 1
+Toll : 1
+MAGHE : 1
+VIMUKTAPAAPAAHA : 1
+KALPVAAS : 1
+KUMBH : 1
+Thiruvannamalai : 1
+Kuniyal : 1
+Jal Shakti Ministry : 1
+CATCH : 1
+WHERE : 1
+WHEN : 1
+EKAI : 1
+SIRJANHAAR : 1
+BHEETAR : 1
+DEENHI : 1
+KARAM : 1
+PHAL : 1
+BHAAKHAI : 1
+Phal : 1
+LED : 1
+NaMo App : 1
+Census : 1
+Central Asia : 1
+Majuli Island : 1
+Plantation : 1
+Hayagriva Madheb Temple : 1
+Hajo : 1
+Nagashankar Temple : 1
+Sonitpur : 1
+Ugratara Temple : 1
+Guwahati : 1
+Kamalakant : 1
+Shastharth College : 1
+Naveen : 1
+Raj : 1
+ISSF : 1
+Gold Medals : 1
+Silver Medal : 1
+BWF Swiss Open : 1
+Maritime India Summit : 1
+MahendraVerman First : 1
+Jinjhuwada : 1
+Sunderbans : 1
+Banaskantha : 1
+Natural Health Products : 1
+Goraiya : 1
+theGoraiya : 1
+AmreshSamantji : 1
+Reusable Toys : 1
+Anganwadi : 1
+Automobile Metal Scrap : 1
+Electronic : 1
+Vijayawada : 1
+Tissau : 1
+Boishakh : 1
+Lord Rama : 1
+Christian : 1
+Dean : 1
+Physicians : 1
+Remdesivir : 1
+City Hospital : 1
+SOPs : 1
+Covishield : 1
+Corporate : 1
+Namaskaar Bhavana : 1
+Nursing : 1
+CATS Ambulance : 1
+Control : 1
+Drivers : 1
+Covid : 1
+PochisheBoishak : 1
+Flag : 1
+Mahotsav : 1
+Swadeshi Andolan : 1
+MyHandloomMyPride : 1
+Bharat Jodo Andolan : 1
+Praneeth : 1
+Software Engineer : 1
+Munda : 1
+IIT Madras : 1
+House Projects : 1
+Architects : 1
+Ukhrul : 1
+Chandigarh : 1
+COVID Vaccine : 1
+Holy Relic : 1
+Saint : 1
+Old Goa : 1
+Goa : 1
+Churches : 1
+Convents : 1
+Parjanya Suktam : 1
+Srimad Bhagavata : 1
+Express : 1
+All Mighty : 1
+DRDO : 1
+Namastey Modi : 1
+Beta : 1
+Biliary Sciences : 1
+Virology : 1
+Road To Tokyo Quiz : 1
+Road : 1
+Archery : 1
+Priyanka Goswami : 1
+Tokyo : 1
+KishorilalDurve : 1
+Ufrainkhal : 1
+Paritosh : 1
+Nainital : 1
+Boat Ambulance Service : 1
+Dal Lake : 1
+Houseboat Owner : 1
+Ambulance Service : 1
+Oxygen : 1
+KarmaYogi : 1
+Guruprasad : 1
+Struggle : 1
+Major Dhyanchand : 1
+Bhalka Teerth : 1
+Somnath Trust : 1
+ISKCON : 1
+ISKCON Shri Prabhupaad Swami : 1
+Dasi : 1
+Goswami : 1
+Lord Brahma : 1
+TCR : 1
+iPhones : 1
+Vaikunth : 1
+Krishna : 1
+Saraswati : 1
+Gram Panchayat : 1
+RJ Ganga : 1
+RJ Neelam : 1
+RJ Guru : 1
+RJ Hetal : 1
+Community Radio Initiative : 1
+Moscow : 1
+Chaani Koraali Centre : 1
+ANM Sir : 1
+DUE : 1
+Lauh Purush : 1
+Lakhpat Fort : 1
+Bike Rally : 1
+Information : 1
+Broadcasting Ministry : 1
+National Competition : 1
+Amritkaal : 1
+Ulgulan : 1
+Bhagwan Birsa Munda : 1
+Gender Equality : 1
+Traditional Medicine : 1
+Bureau : 1
+Central Armed : 1
+Specialized Jungle Warfare Commandos : 1
+New Age : 1
+Drone Technology : 1
+VOCAL FOR : 1
+LOCAL : 1
+Shlok : 1
+Rain : 1
+Namami Gange Mission : 1
+Namami Gange Campaign : 1
+Vellore : 1
+Naagnadi : 1
+Sabarmati : 1
+Kumar Post : 1
+Siachen : 1
+Divyang : 1
+Healthcare : 1
+Wellness : 1
+Sahu : 1
+Lal Bahadur Shastri : 1
+Chebrolu : 1
+Aromatic Plants Incubator : 1
+Medicinal : 1
+Professor : 1
+Sheikh : 1
+Ayushman Bharat : 1
+Maa Bharati : 1
+CDS : 1
+General Bipin Rawat : 1
+Instrumental : 1
+VandeMatram : 1
+SujalanSuphalanMalayajsheetlam : 1
+Drone Show : 1
+Telugu : 1
+Ramannapet Division : 1
+Puneet Sagar : 1
+Swachh : 1
+Civil Aviation Ministry : 1
+Tarini : 1
+Noon : 1
+ShriRam Murthy : 1
+Hospital Modi : 1
+Can Do Spirit : 1
+Unicorn : 1
+Atal New India : 1
+Patil : 1
+AmritKaal : 1
+Pradhan Mantri Rashtriya Baal Puraskaar : 1
+Lorembam Beino Devi : 1
+Liba : 1
+Singh : 1
+Shirish Kumar : 1
+Unsung Heroes : 1
+School : 1
+Forest Department : 1
+Commandant : 1
+COAS Commendation Card : 1
+Moonga : 1
+Upanishads : 1
+Advaitwadi Dhyan : 1
+Corona Vaccine : 1
+Atma Nirbhar Bharat : 1
+GeM : 1
+GeM Portal : 1
+Nandi Mudra : 1
+Ayush Industry : 1
+Ayurveda Healthcare Ecosystem : 1
+Holistic Wellness : 1
+Holistic Life : 1
+Health : 1
+Godavari : 1
+Sri Narayanan : 1
+Water Warriors : 1
+MYGOV : 1
+Madhavpur Mela : 1
+Madhavpur Fair : 1
+Biplobi Bharat Gallery : 1
+Victoria Memorial : 1
+Savitribai Phule : 1
+Satyashodhak : 1
+Kanya Shiksha Pravesh Utsav : 1
+Deeksha Bhoomi : 1
+Lord Anjaneyaar : 1
+Mission : 1
+Lip Sync : 1
+Embassy : 1
+International Mother Language : 1
+Surjan Parohi : 1
+Mission Jal Thal : 1
+Water Ambassadors : 1
+Somaiya College : 1
+International Women : 1
+CV : 1
+Scientific : 1
+Commanders : 1
+Darjeeling : 1
+Mission Shaurya : 1
+Shivangi Pathak : 1
+Bajaj : 1
+Everest : 1
+Fitness : 1
+Yadav : 1
+Business Management : 1
+Videos : 1
+Beat Plastic : 1
+Cop : 1
+First Struggle : 1
+Atal Bihari Vajpayee Ji : 1
+AIIMS : 1
+Prince Kumar : 1
+Sweetness : 1
+Technology Hub : 1
+CDO : 1
+Digital Revolution : 1
+FACT : 1
+Pandharpur Wari : 1
+Pandharpur Yatra : 1
+Vitthal : 1
+Gyaneshwar : 1
+vHkax : 1
+Lok Manya Tilak : 1
+Lok Manya Tilakji : 1
+Junior : 1
+Ekta Bhyan : 1
+Sundar Singh Ji : 1
+ShivaKumar Swamiji : 1
+District Tumukur : 1
+Social Service : 1
+Basaveshwar : 1
+Centenary : 1
+Sri Sri Sri Shivakumar Swamiji : 1
+Fellow Citizens : 1
+Formation : 1
+National Voters : 1
+Election Commissions : 1
+Lok Sabha Elections : 1
+Jalianwala Bagh : 1
+Sardar Patel : 1
+Kranti Mandir : 1
+Absolute : 1
+Maharana : 1
+Odisha : 1
+NAVIC : 1
+Khelo India Youth Games : 1
+Maharashtra : 1
+Khelo : 1
+Sarpanchs : 1
+MylzzatGhar : 1
+Sharma : 1
+Golden Jubilee Episode : 1
+Kumar : 1
+WHY : 1
+Bharatiya Janata Party : 1
+Passion : 1
+Metro : 1
+UNITY : 1
+Politics : 1
+Time Management : 1
+Elections : 1
+Election : 1
+RETURNED : 1
+Election Campaign : 1
+EVM : 1
+VVPAT : 1
+LahaulSpiti : 1
+Hamid : 1
+Ameena : 1
+ShahabAltaf : 1
+Sarpanch of LupungPanchayat : 1
+Kabirdham : 1
+Nag : 1
+KirtiMandir : 1
+JanShakti4JalShakti : 1
+Yoga Niketan : 1
+Bihar Yoga Vidyalaya : 1
+ : 1

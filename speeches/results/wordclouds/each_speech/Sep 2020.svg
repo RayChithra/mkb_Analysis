@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:black"></rect>
+<text transform="translate(41,121)" font-size="80" style="fill:rgb(72, 22, 104)">stories</text>
+<text transform="translate(63,181)" font-size="75" style="fill:rgb(38, 130, 142)">farmer</text>
+<text transform="translate(46,51)" font-size="66" style="fill:rgb(210, 226, 27)">india</text>
+<text transform="translate(257,33)" font-size="47" style="fill:rgb(56, 88, 140)">story</text>
+<text transform="translate(264,61)" font-size="35" style="fill:rgb(55, 90, 140)">today</text>
+<text transform="translate(305,191)" font-size="34" style="fill:rgb(210, 226, 27)">life</text>
+<text transform="translate(29,103) rotate(-90)" font-size="34" style="fill:rgb(244, 230, 30)">king</text>
+<text transform="translate(114,67)" font-size="19" style="fill:rgb(71, 46, 124)">storytelling</text>
+<text transform="translate(133,133)" font-size="14" style="fill:rgb(69, 5, 89)">prime minister</text>
+<text transform="translate(272,133)" font-size="14" style="fill:rgb(45, 113, 142)">family</text>
+<text transform="translate(60,195) rotate(-90)" font-size="14" style="fill:rgb(55, 184, 120)">country</text>
+<text transform="translate(12,133)" font-size="14" style="fill:rgb(53, 94, 141)">cook</text>
+<text transform="translate(41,62)" font-size="13" style="fill:rgb(47, 180, 124)">aparna</text>
+<text transform="translate(328,157)" font-size="13" style="fill:rgb(202, 225, 31)">brinjal</text>
+<text transform="translate(370,67)" font-size="12" style="fill:rgb(63, 188, 115)">time</text>
+<text transform="translate(2,171)" font-size="12" style="fill:rgb(44, 115, 142)">people</text>
+<text transform="translate(328,139)" font-size="12" style="fill:rgb(48, 105, 142)">vegetable</text>
+<text transform="translate(131,191)" font-size="11" style="fill:rgb(63, 72, 137)">children</text>
+<text transform="translate(220,191)" font-size="11" style="fill:rgb(72, 193, 110)">bhagat singh</text>
+<text transform="translate(274,71)" font-size="10" style="fill:rgb(181, 222, 43)">thank</text>
+<text transform="translate(2,8)" font-size="10" style="fill:rgb(152, 216, 62)">farming</text>
+<text transform="translate(198,9)" font-size="9" style="fill:rgb(66, 63, 133)">countrymen</text>
+<text transform="translate(12,142)" font-size="9" style="fill:rgb(223, 227, 24)">great</text>
+<text transform="translate(2,151)" font-size="9" style="fill:rgb(72, 31, 112)">directly</text>
+<text transform="translate(75,7)" font-size="7" style="fill:rgb(34, 140, 141)">fruits vegetables</text>
+<text transform="translate(78,189)" font-size="7" style="fill:rgb(64, 70, 136)">ismail bhai</text>
+<text transform="translate(14,19)" font-size="7" style="fill:rgb(208, 225, 28)">period</text>
+<text transform="translate(263,83)" font-size="7" style="fill:rgb(44, 114, 142)">felt</text>
+<text transform="translate(174,161)" font-size="7" style="fill:rgb(34, 141, 141)">mother</text>
+<text transform="translate(59,67)" font-size="7" style="fill:rgb(58, 83, 139)">way</text>
+<text transform="translate(71,196)" font-size="7" style="fill:rgb(33, 144, 141)">work</text>
+<text transform="translate(78,93)" font-size="7" style="fill:rgb(42, 120, 142)">entire</text>
+<text transform="translate(28,175)" font-size="7" style="fill:rgb(67, 61, 132)">name</text>
+<text transform="translate(19,116)" font-size="7" style="fill:rgb(44, 114, 142)">good</text>
+<text transform="translate(390,120) rotate(-90)" font-size="7" style="fill:rgb(37, 132, 142)">tenali rama</text>
+<text transform="translate(12,193)" font-size="6" style="fill:rgb(33, 145, 140)">friends</text>
+<text transform="translate(207,100)" font-size="6" style="fill:rgb(70, 192, 111)">part</text>
+<text transform="translate(301,106)" font-size="6" style="fill:rgb(117, 208, 84)">tradition</text>
+<text transform="translate(90,165)" font-size="6" style="fill:rgb(132, 212, 75)">heard</text>
+<text transform="translate(194,16)" font-size="6" style="fill:rgb(49, 103, 142)">mann</text>
+<text transform="translate(370,50)" font-size="6" style="fill:rgb(52, 182, 121)">baat</text>
+<text transform="translate(43,101) rotate(-90)" font-size="6" style="fill:rgb(149, 216, 64)">namaste</text>
+<text transform="translate(129,196)" font-size="6" style="fill:rgb(200, 224, 32)">another</text>
+<text transform="translate(243,27)" font-size="6" style="fill:rgb(53, 183, 121)">mali</text>
+<text transform="translate(90,136)" font-size="6" style="fill:rgb(132, 212, 75)">namaskar</text>
+<text transform="translate(209,109)" font-size="6" style="fill:rgb(244, 230, 30)">world</text>
+<text transform="translate(365,166)" font-size="6" style="fill:rgb(173, 220, 48)">together</text>
+<text transform="translate(190,29)" font-size="6" style="fill:rgb(53, 95, 141)">form</text>
+<text transform="translate(76,19)" font-size="6" style="fill:rgb(36, 134, 142)">art</text>
+<text transform="translate(51,133)" font-size="6" style="fill:rgb(39, 173, 129)">power</text>
+<text transform="translate(190,187)" font-size="6" style="fill:rgb(36, 134, 142)">telling</text>
+<text transform="translate(262,108)" font-size="6" style="fill:rgb(72, 38, 119)">lives</text>
+<text transform="translate(168,72)" font-size="6" style="fill:rgb(45, 112, 142)">interesting</text>
+<text transform="translate(357,196)" font-size="6" style="fill:rgb(58, 84, 140)">indian</text>
+<text transform="translate(231,90)" font-size="6" style="fill:rgb(162, 218, 55)">field</text>
+<text transform="translate(3,181)" font-size="6" style="fill:rgb(70, 7, 90)">storyteller</text>
+<text transform="translate(313,69)" font-size="6" style="fill:rgb(71, 17, 100)">shailaja</text>
+<text transform="translate(331,127)" font-size="6" style="fill:rgb(117, 208, 84)">fellow</text>
+<text transform="translate(133,112) rotate(-90)" font-size="6" style="fill:rgb(71, 44, 122)">lavanya</text>
+<text transform="translate(358,72)" font-size="6" style="fill:rgb(39, 173, 129)">remember</text>
+<text transform="translate(88,196)" font-size="6" style="fill:rgb(30, 155, 138)">incident</text>
+<text transform="translate(88,155)" font-size="6" style="fill:rgb(122, 209, 81)">pride</text>
+<text transform="translate(380,90) rotate(-90)" font-size="6" style="fill:rgb(71, 44, 122)">love</text>
+<text transform="translate(249,132)" font-size="6" style="fill:rgb(31, 148, 140)">father</text>
+<text transform="translate(325,38)" font-size="6" style="fill:rgb(213, 226, 26)">bharat</text>
+<text transform="translate(174,169)" font-size="6" style="fill:rgb(33, 142, 141)">market</text>
+<text transform="translate(222,96)" font-size="6" style="fill:rgb(33, 145, 140)">produce</text>
+<text transform="translate(171,195)" font-size="5" style="fill:rgb(50, 182, 122)">farmers village</text>
+<text transform="translate(8,157)" font-size="4" style="fill:rgb(48, 106, 142)">corona</text>
+<text transform="translate(78,32)" font-size="4" style="fill:rgb(39, 128, 142)">going</text>
+<text transform="translate(355,30)" font-size="4" style="fill:rgb(57, 86, 140)">families</text>
+<text transform="translate(37,48)" font-size="4" style="fill:rgb(38, 130, 142)">sleep</text>
+<text transform="translate(345,110)" font-size="4" style="fill:rgb(54, 93, 141)">place</text>
+<text transform="translate(63,181) rotate(-90)" font-size="4" style="fill:rgb(61, 188, 116)">went</text>
+<text transform="translate(360,125)" font-size="4" style="fill:rgb(108, 205, 90)">minister</text>
+<text transform="translate(360,21)" font-size="4" style="fill:rgb(92, 200, 99)">huge</text>
+<text transform="translate(115,73)" font-size="4" style="fill:rgb(127, 211, 78)">listening</text>
+<text transform="translate(164,11)" font-size="4" style="fill:rgb(31, 151, 139)">started</text>
+<text transform="translate(162,42)" font-size="4" style="fill:rgb(149, 216, 64)">soumya</text>
+<text transform="translate(88,64)" font-size="4" style="fill:rgb(42, 176, 127)">growing</text>
+<text transform="translate(331,97) rotate(-90)" font-size="4" style="fill:rgb(189, 223, 38)">organization</text>
+<text transform="translate(235,14)" font-size="4" style="fill:rgb(54, 93, 141)">something</text>
+<text transform="translate(137,72)" font-size="4" style="fill:rgb(239, 229, 28)">cooked</text>
+<text transform="translate(295,37)" font-size="4" style="fill:rgb(33, 145, 140)">gourd</text>
+<text transform="translate(339,179)" font-size="4" style="fill:rgb(234, 229, 26)">week</text>
+<text transform="translate(157,171) rotate(-90)" font-size="4" style="fill:rgb(34, 168, 132)">definitely</text>
+<text transform="translate(25,159)" font-size="4" style="fill:rgb(31, 159, 136)">whatever</text>
+<text transform="translate(4,121)" font-size="4" style="fill:rgb(72, 37, 118)">sell</text>
+<text transform="translate(149,138)" font-size="4" style="fill:rgb(57, 85, 140)">village</text>
+<text transform="translate(220,118)" font-size="4" style="fill:rgb(70, 10, 93)">producer</text>
+<text transform="translate(93,111) rotate(-90)" font-size="4" style="fill:rgb(50, 182, 122)">corn</text>
+<text transform="translate(243,31)" font-size="4" style="fill:rgb(52, 182, 121)">company</text>
+<text transform="translate(65,157)" font-size="4" style="fill:rgb(66, 65, 134)">youth</text>
+<text transform="translate(164,29)" font-size="4" style="fill:rgb(72, 24, 106)">potatoes</text>
+<text transform="translate(155,103)" font-size="4" style="fill:rgb(32, 146, 140)">mission</text>
+<text transform="translate(115,153)" font-size="4" style="fill:rgb(144, 215, 67)">october</text>
+<text transform="translate(146,177)" font-size="4" style="fill:rgb(63, 71, 136)">rajmata</text>
+<text transform="translate(120,12)" font-size="4" style="fill:rgb(71, 42, 122)">family member</text>
+<text transform="translate(52,126)" font-size="4" style="fill:rgb(144, 215, 67)">veer bhagat</text>
+<text transform="translate(306,196)" font-size="4" style="fill:rgb(70, 8, 92)">birth anniversary</text>
+<text transform="translate(351,5)" font-size="4" style="fill:rgb(70, 7, 90)">nanaji deshmukh</text>
+<text transform="translate(91,180)" font-size="4" style="fill:rgb(70, 48, 126)">social</text>
+<text transform="translate(61,161)" font-size="4" style="fill:rgb(45, 112, 142)">course</text>
+<text transform="translate(168,35)" font-size="4" style="fill:rgb(205, 225, 29)">dearth</text>
+<text transform="translate(268,90)" font-size="4" style="fill:rgb(34, 140, 141)">little</text>
+<text transform="translate(72,26)" font-size="4" style="fill:rgb(72, 193, 110)">member</text>
+<text transform="translate(243,46)" font-size="4" style="fill:rgb(64, 69, 136)">human</text>
+<text transform="translate(76,37)" font-size="4" style="fill:rgb(71, 14, 97)">major</text>
+<text transform="translate(238,104)" font-size="4" style="fill:rgb(49, 103, 142)">joke</text>
+<text transform="translate(90,173)" font-size="4" style="fill:rgb(103, 204, 92)">bengaluru</text>
+<text transform="translate(5,32) rotate(-90)" font-size="4" style="fill:rgb(70, 10, 93)">making</text>
+<text transform="translate(119,110) rotate(-90)" font-size="4" style="fill:rgb(144, 215, 67)">culture</text>
+<text transform="translate(39,28)" font-size="4" style="fill:rgb(160, 218, 57)">network</text>
+<text transform="translate(38,197)" font-size="4" style="fill:rgb(72, 40, 120)">bapu</text>
+<text transform="translate(216,73)" font-size="4" style="fill:rgb(35, 136, 142)">working</text>
+<text transform="translate(260,196)" font-size="4" style="fill:rgb(40, 125, 142)">sister</text>
+<text transform="translate(179,174)" font-size="4" style="fill:rgb(46, 110, 142)">society</text>
+<text transform="translate(206,27)" font-size="4" style="fill:rgb(72, 41, 121)">learn</text>
+<text transform="translate(293,154) rotate(-90)" font-size="4" style="fill:rgb(48, 106, 142)">speaking</text>
+<text transform="translate(270,99)" font-size="4" style="fill:rgb(42, 118, 142)">team</text>
+<text transform="translate(49,72)" font-size="4" style="fill:rgb(31, 159, 136)">running</text>
+<text transform="translate(269,5)" font-size="4" style="fill:rgb(63, 188, 115)">decided</text>
+<text transform="translate(49,42)" font-size="4" style="fill:rgb(68, 2, 86)">goal</text>
+<text transform="translate(372,98)" font-size="4" style="fill:rgb(129, 211, 77)">night</text>
+<text transform="translate(47,106)" font-size="4" style="fill:rgb(72, 33, 115)">special</text>
+<text transform="translate(71,74)" font-size="4" style="fill:rgb(61, 188, 116)">introduced</text>
+<text transform="translate(278,118)" font-size="4" style="fill:rgb(49, 103, 142)">rai</text>
+<text transform="translate(23,106)" font-size="4" style="fill:rgb(50, 100, 142)">kingdom</text>
+<text transform="translate(11,112) rotate(-90)" font-size="4" style="fill:rgb(70, 51, 127)">food</text>
+<text transform="translate(188,154)" font-size="4" style="fill:rgb(44, 113, 142)">plate</text>
+<text transform="translate(334,145)" font-size="4" style="fill:rgb(47, 107, 142)">poor</text>
+<text transform="translate(178,182)" font-size="4" style="fill:rgb(58, 84, 140)">dish</text>
+<text transform="translate(38,18)" font-size="4" style="fill:rgb(33, 143, 141)">sweet</text>
+<text transform="translate(4,196)" font-size="4" style="fill:rgb(105, 205, 91)">crown</text>
+<text transform="translate(294,138)" font-size="4" style="fill:rgb(42, 120, 142)">pleased</text>
+<text transform="translate(362,92)" font-size="4" style="fill:rgb(200, 224, 32)">house</text>
+<text transform="translate(71,66)" font-size="4" style="fill:rgb(71, 45, 123)">urge</text>
+<text transform="translate(367,55)" font-size="4" style="fill:rgb(71, 17, 100)">public</text>
+<text transform="translate(267,170)" font-size="4" style="fill:rgb(71, 44, 122)">listen</text>
+<text transform="translate(219,196)" font-size="4" style="fill:rgb(41, 122, 142)">bravery</text>
+<text transform="translate(191,37)" font-size="4" style="fill:rgb(55, 91, 141)">carried</text>
+<text transform="translate(56,111)" font-size="4" style="fill:rgb(66, 64, 134)">strive</text>
+<text transform="translate(382,152)" font-size="4" style="fill:rgb(34, 167, 133)">dembele</text>
+<text transform="translate(1,66)" font-size="4" style="fill:rgb(49, 181, 123)">opportunity</text>
+<text transform="translate(383,127)" font-size="4" style="fill:rgb(55, 91, 141)">kumbh</text>
+<text transform="translate(359,143)" font-size="4" style="fill:rgb(63, 72, 137)">program</text>
+<text transform="translate(250,37)" font-size="4" style="fill:rgb(70, 8, 92)">seduji</text>
+<text transform="translate(369,103)" font-size="4" style="fill:rgb(92, 200, 99)">feel</text>
+<text transform="translate(115,128)" font-size="4" style="fill:rgb(61, 188, 116)">visited</text>
+<text transform="translate(210,88)" font-size="4" style="fill:rgb(30, 155, 138)">past</text>
+<text transform="translate(303,26)" font-size="4" style="fill:rgb(244, 230, 30)">free</text>
+<text transform="translate(253,74)" font-size="4" style="fill:rgb(37, 132, 142)">face</text>
+<text transform="translate(339,184)" font-size="4" style="fill:rgb(49, 102, 142)">mandi</text>
+<text transform="translate(351,37)" font-size="4" style="fill:rgb(39, 127, 142)">earning</text>
+<text transform="translate(299,5)" font-size="4" style="fill:rgb(47, 107, 142)">innovation</text>
+<text transform="translate(94,71)" font-size="4" style="fill:rgb(31, 161, 136)">tale</text>
+<text transform="translate(377,143)" font-size="4" style="fill:rgb(72, 36, 117)">british</text>
+<text transform="translate(29,71)" font-size="4" style="fill:rgb(208, 225, 28)">boy</text>
+<text transform="translate(208,118)" font-size="4" style="fill:rgb(72, 26, 108)">rule</text>
+<text transform="translate(382,5)" font-size="4" style="fill:rgb(45, 113, 142)">empire</text>
+<text transform="translate(331,162)" font-size="4" style="fill:rgb(48, 105, 142)">jp</text>
+<text transform="translate(257,51)" font-size="4" style="fill:rgb(33, 165, 133)">yatra</text>
+<text transform="translate(287,74)" font-size="4" style="fill:rgb(37, 132, 142)">stay</text>
+<text transform="translate(38,70)" font-size="4" style="fill:rgb(200, 224, 32)">milk</text>
+<text transform="translate(210,137)" font-size="4" style="fill:rgb(45, 178, 125)">good fortune</text>
+<text transform="translate(247,137)" font-size="4" style="fill:rgb(36, 170, 131)">agricultural sector</text>
+<text transform="translate(165,137)" font-size="4" style="fill:rgb(184, 222, 41)">jallianwala bagh</text>
+<text transform="translate(90,55)" font-size="4" style="fill:rgb(139, 214, 70)">shahid veer</text>
+<text transform="translate(45,12)" font-size="4" style="fill:rgb(33, 144, 141)">great personalities</text>
+</svg>

@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:black"></rect>
+<text transform="translate(49,140)" font-size="99" style="fill:rgb(38, 130, 142)">today</text>
+<text transform="translate(222,61)" font-size="73" style="fill:rgb(46, 110, 142)">time</text>
+<text transform="translate(1,36)" font-size="62" style="fill:rgb(71, 47, 125)">corona</text>
+<text transform="translate(22,177)" font-size="48" style="fill:rgb(41, 122, 142)">personnel</text>
+<text transform="translate(85,75)" font-size="48" style="fill:rgb(72, 29, 111)">mask</text>
+<text transform="translate(283,180)" font-size="19" style="fill:rgb(157, 217, 59)">government</text>
+<text transform="translate(2,61)" font-size="19" style="fill:rgb(251, 231, 35)">society</text>
+<text transform="translate(373,143) rotate(-90)" font-size="19" style="fill:rgb(34, 140, 141)">working</text>
+<text transform="translate(160,192)" font-size="19" style="fill:rgb(231, 228, 25)">festival</text>
+<text transform="translate(38,191)" font-size="18" style="fill:rgb(165, 219, 54)">pandemic</text>
+<text transform="translate(3,103)" font-size="18" style="fill:rgb(39, 127, 142)">help</text>
+<text transform="translate(239,77)" font-size="18" style="fill:rgb(72, 29, 111)">something</text>
+<text transform="translate(393,158) rotate(-90)" font-size="18" style="fill:rgb(72, 41, 121)">lives</text>
+<text transform="translate(301,191)" font-size="15" style="fill:rgb(72, 32, 113)">countrymen</text>
+<text transform="translate(339,12)" font-size="15" style="fill:rgb(32, 147, 140)">common</text>
+<text transform="translate(15,181) rotate(-90)" font-size="15" style="fill:rgb(56, 88, 140)">strength</text>
+<text transform="translate(21,79)" font-size="15" style="fill:rgb(61, 78, 138)">part</text>
+<text transform="translate(354,156) rotate(-90)" font-size="15" style="fill:rgb(139, 214, 70)">friends</text>
+<text transform="translate(59,148) rotate(-90)" font-size="15" style="fill:rgb(71, 46, 124)">police</text>
+<text transform="translate(232,102) rotate(-90)" font-size="15" style="fill:rgb(43, 117, 142)">culture</text>
+<text transform="translate(305,12)" font-size="14" style="fill:rgb(59, 187, 117)">mann</text>
+<text transform="translate(250,40)" font-size="14" style="fill:rgb(137, 213, 72)">baat</text>
+<text transform="translate(287,153) rotate(-90)" font-size="14" style="fill:rgb(78, 195, 107)">battle</text>
+<text transform="translate(34,148) rotate(-90)" font-size="14" style="fill:rgb(39, 128, 142)">fight</text>
+<text transform="translate(319,161)" font-size="10" style="fill:rgb(50, 101, 142)">person</text>
+<text transform="translate(95,44)" font-size="10" style="fill:rgb(42, 119, 142)">entire</text>
+<text transform="translate(251,12)" font-size="10" style="fill:rgb(71, 14, 97)">way</text>
+<text transform="translate(80,82)" font-size="10" style="fill:rgb(72, 35, 116)">workers</text>
+<text transform="translate(185,44)" font-size="10" style="fill:rgb(33, 142, 141)">crisis</text>
+<text transform="translate(136,81)" font-size="7" style="fill:rgb(37, 132, 142)">opportunity</text>
+<text transform="translate(98,126) rotate(-90)" font-size="7" style="fill:rgb(66, 64, 134)">change</text>
+<text transform="translate(249,193)" font-size="7" style="fill:rgb(170, 220, 50)">thought</text>
+<text transform="translate(138,129) rotate(-90)" font-size="7" style="fill:rgb(76, 194, 108)">nature</text>
+<text transform="translate(132,44)" font-size="7" style="fill:rgb(71, 47, 125)">always</text>
+<text transform="translate(229,146)" font-size="7" style="fill:rgb(124, 210, 80)">matter</text>
+<text transform="translate(51,43)" font-size="7" style="fill:rgb(72, 31, 112)">important</text>
+<text transform="translate(106,144) rotate(-90)" font-size="7" style="fill:rgb(63, 71, 136)">fight corona</text>
+<text transform="translate(168,147)" font-size="6" style="fill:rgb(70, 7, 90)">lockdown</text>
+<text transform="translate(307,89)" font-size="6" style="fill:rgb(40, 125, 142)">heart</text>
+<text transform="translate(92,17)" font-size="6" style="fill:rgb(39, 126, 142)">place</text>
+<text transform="translate(122,146)" font-size="6" style="fill:rgb(61, 78, 138)">fighting</text>
+<text transform="translate(97,29)" font-size="6" style="fill:rgb(56, 88, 140)">food</text>
+<text transform="translate(247,47)" font-size="6" style="fill:rgb(96, 202, 96)">ensuring</text>
+<text transform="translate(4,193)" font-size="6" style="fill:rgb(41, 122, 142)">ensure</text>
+<text transform="translate(290,196)" font-size="6" style="fill:rgb(41, 175, 127)">others</text>
+<text transform="translate(135,193)" font-size="6" style="fill:rgb(72, 28, 110)">making</text>
+<text transform="translate(95,165)" font-size="6" style="fill:rgb(66, 64, 134)">seen</text>
+<text transform="translate(247,182)" font-size="6" style="fill:rgb(57, 86, 140)">railway</text>
+<text transform="translate(322,166)" font-size="6" style="fill:rgb(68, 57, 131)">level</text>
+<text transform="translate(6,44)" font-size="6" style="fill:rgb(66, 190, 113)">state</text>
+<text transform="translate(27,66)" font-size="6" style="fill:rgb(70, 8, 92)">aware</text>
+<text transform="translate(320,17)" font-size="6" style="fill:rgb(47, 108, 142)">medicines</text>
+<text transform="translate(357,162)" font-size="6" style="fill:rgb(53, 95, 141)">colleagues</text>
+<text transform="translate(378,129) rotate(-90)" font-size="6" style="fill:rgb(60, 80, 139)">similarly</text>
+<text transform="translate(242,82)" font-size="6" style="fill:rgb(31, 160, 136)">critical</text>
+<text transform="translate(306,102)" font-size="6" style="fill:rgb(63, 188, 115)">role</text>
+<text transform="translate(160,89)" font-size="6" style="fill:rgb(155, 217, 60)">poor</text>
+<text transform="translate(373,88)" font-size="6" style="fill:rgb(139, 214, 70)">health</text>
+<text transform="translate(308,33) rotate(-90)" font-size="6" style="fill:rgb(34, 139, 141)">look</text>
+<text transform="translate(201,59)" font-size="6" style="fill:rgb(72, 41, 121)">words</text>
+<text transform="translate(59,196)" font-size="6" style="fill:rgb(170, 220, 50)">another</text>
+<text transform="translate(313,196)" font-size="6" style="fill:rgb(71, 16, 99)">understand</text>
+<text transform="translate(233,103)" font-size="6" style="fill:rgb(59, 187, 117)">changed</text>
+<text transform="translate(378,70)" font-size="6" style="fill:rgb(38, 173, 129)">mean</text>
+<text transform="translate(88,196)" font-size="6" style="fill:rgb(34, 139, 141)">celebrate</text>
+<text transform="translate(294,142) rotate(-90)" font-size="6" style="fill:rgb(110, 206, 88)">ramazan</text>
+<text transform="translate(362,196)" font-size="6" style="fill:rgb(55, 90, 140)">service</text>
+<text transform="translate(356,149)" font-size="5" style="fill:rgb(72, 28, 110)">episode</text>
+<text transform="translate(293,44)" font-size="5" style="fill:rgb(239, 229, 28)">course</text>
+<text transform="translate(344,85)" font-size="5" style="fill:rgb(66, 65, 134)">share</text>
+<text transform="translate(21,23)" font-size="5" style="fill:rgb(46, 109, 142)">sense</text>
+<text transform="translate(225,7)" font-size="5" style="fill:rgb(160, 218, 57)">citizen</text>
+<text transform="translate(186,81)" font-size="5" style="fill:rgb(51, 99, 141)">driven</text>
+<text transform="translate(166,131) rotate(-90)" font-size="5" style="fill:rgb(37, 132, 142)">neighbourhood</text>
+<text transform="translate(128,182)" font-size="5" style="fill:rgb(69, 55, 129)">medical</text>
+<text transform="translate(28,84)" font-size="5" style="fill:rgb(223, 227, 24)">together</text>
+<text transform="translate(364,15)" font-size="5" style="fill:rgb(65, 66, 135)">everyone</text>
+<text transform="translate(2,75)" font-size="5" style="fill:rgb(117, 208, 84)">hand</text>
+<text transform="translate(82,147)" font-size="5" style="fill:rgb(32, 146, 140)">mind</text>
+<text transform="translate(322,149)" font-size="5" style="fill:rgb(69, 53, 129)">crore</text>
+<text transform="translate(202,145)" font-size="5" style="fill:rgb(69, 53, 129)">platform</text>
+<text transform="translate(2,67)" font-size="5" style="fill:rgb(38, 129, 142)">social</text>
+<text transform="translate(281,83)" font-size="5" style="fill:rgb(50, 100, 142)">doctors</text>
+<text transform="translate(262,18)" font-size="5" style="fill:rgb(46, 110, 142)">warrior</text>
+<text transform="translate(377,47)" font-size="5" style="fill:rgb(53, 95, 141)">resolve</text>
+<text transform="translate(326,140)" font-size="5" style="fill:rgb(181, 222, 43)">sector</text>
+<text transform="translate(42,148) rotate(-90)" font-size="5" style="fill:rgb(241, 229, 29)">department</text>
+<text transform="translate(339,66)" font-size="5" style="fill:rgb(71, 45, 123)">special</text>
+<text transform="translate(201,48)" font-size="5" style="fill:rgb(72, 23, 105)">corner</text>
+<text transform="translate(157,42)" font-size="5" style="fill:rgb(41, 121, 142)">face</text>
+<text transform="translate(174,196)" font-size="5" style="fill:rgb(86, 198, 103)">essential</text>
+<text transform="translate(339,74)" font-size="5" style="fill:rgb(108, 205, 90)">realise</text>
+<text transform="translate(184,111)" font-size="5" style="fill:rgb(70, 51, 127)">fulfill</text>
+<text transform="translate(184,116)" font-size="5" style="fill:rgb(65, 68, 135)">various</text>
+<text transform="translate(7,88)" font-size="5" style="fill:rgb(103, 204, 92)">needs</text>
+<text transform="translate(26,42)" font-size="5" style="fill:rgb(96, 202, 96)">earlier</text>
+<text transform="translate(21,15)" font-size="5" style="fill:rgb(223, 227, 24)">aspect</text>
+<text transform="translate(225,138) rotate(-90)" font-size="5" style="fill:rgb(65, 66, 135)">perversion</text>
+<text transform="translate(63,137) rotate(-90)" font-size="5" style="fill:rgb(178, 221, 45)">rightfully</text>
+<text transform="translate(100,87)" font-size="5" style="fill:rgb(37, 131, 142)">beyond</text>
+</svg>

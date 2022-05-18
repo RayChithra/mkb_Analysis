@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:black"></rect>
+<text transform="translate(43,79)" font-size="64" style="fill:rgb(165, 219, 54)">india</text>
+<text transform="translate(102,164)" font-size="61" style="fill:rgb(64, 189, 114)">country</text>
+<text transform="translate(229,86)" font-size="47" style="fill:rgb(66, 65, 134)">netaji</text>
+<text transform="translate(10,110)" font-size="37" style="fill:rgb(61, 78, 138)">countrymen</text>
+<text transform="translate(292,42)" font-size="35" style="fill:rgb(59, 82, 139)">life</text>
+<text transform="translate(2,150)" font-size="29" style="fill:rgb(231, 228, 25)">people</text>
+<text transform="translate(208,188)" font-size="28" style="fill:rgb(68, 59, 132)">voter</text>
+<text transform="translate(11,172)" font-size="28" style="fill:rgb(162, 218, 55)">young</text>
+<text transform="translate(99,181)" font-size="28" style="fill:rgb(61, 78, 138)">museum</text>
+<text transform="translate(99,23)" font-size="28" style="fill:rgb(31, 149, 139)">students</text>
+<text transform="translate(282,119)" font-size="26" style="fill:rgb(41, 122, 142)">time</text>
+<text transform="translate(297,194)" font-size="19" style="fill:rgb(32, 147, 140)">dedicated</text>
+<text transform="translate(13,19)" font-size="19" style="fill:rgb(31, 160, 136)">january</text>
+<text transform="translate(234,45)" font-size="19" style="fill:rgb(55, 90, 140)">today</text>
+<text transform="translate(384,170) rotate(-90)" font-size="19" style="fill:rgb(53, 94, 141)">place</text>
+<text transform="translate(159,125)" font-size="19" style="fill:rgb(137, 213, 72)">radio</text>
+<text transform="translate(20,195)" font-size="17" style="fill:rgb(58, 83, 139)">election commission</text>
+<text transform="translate(2,123)" font-size="17" style="fill:rgb(71, 42, 122)">sant ravidas</text>
+<text transform="translate(3,65)" font-size="16" style="fill:rgb(74, 193, 109)">great</text>
+<text transform="translate(233,16)" font-size="15" style="fill:rgb(72, 40, 120)">tagore</text>
+<text transform="translate(71,36)" font-size="15" style="fill:rgb(72, 26, 108)">painting</text>
+<text transform="translate(382,44)" font-size="14" style="fill:rgb(72, 24, 106)">dr</text>
+<text transform="translate(230,110)" font-size="14" style="fill:rgb(253, 231, 37)">social</text>
+<text transform="translate(332,8)" font-size="10" style="fill:rgb(197, 224, 33)">opportunity</text>
+<text transform="translate(302,162)" font-size="10" style="fill:rgb(57, 86, 140)">visit</text>
+<text transform="translate(192,30)" font-size="10" style="fill:rgb(72, 35, 116)">share</text>
+<text transform="translate(366,140) rotate(-90)" font-size="10" style="fill:rgb(205, 225, 29)">heart</text>
+<text transform="translate(37,32)" font-size="10" style="fill:rgb(41, 123, 142)">pay</text>
+<text transform="translate(270,94)" font-size="10" style="fill:rgb(42, 118, 142)">world</text>
+<text transform="translate(229,56)" font-size="10" style="fill:rgb(43, 116, 142)">vote</text>
+<text transform="translate(290,9)" font-size="10" style="fill:rgb(41, 175, 127)">fact</text>
+<text transform="translate(6,46)" font-size="10" style="fill:rgb(31, 158, 137)">subhash</text>
+<text transform="translate(307,49)" font-size="10" style="fill:rgb(71, 42, 122)">gurudev</text>
+<text transform="translate(217,115)" font-size="10" style="fill:rgb(45, 112, 142)">message</text>
+<text transform="translate(344,104)" font-size="10" style="fill:rgb(30, 157, 137)">children</text>
+<text transform="translate(218,195)" font-size="10" style="fill:rgb(51, 99, 141)">satellites</text>
+<text transform="translate(181,38)" font-size="10" style="fill:rgb(56, 89, 140)">contest</text>
+<text transform="translate(281,125)" font-size="7" style="fill:rgb(134, 213, 73)">shivakumar swamiji</text>
+<text transform="translate(396,157) rotate(-90)" font-size="7" style="fill:rgb(46, 179, 124)">kranti mandir</text>
+<text transform="translate(19,83)" font-size="7" style="fill:rgb(37, 132, 142)">ज त</text>
+<text transform="translate(4,127)" font-size="7" style="fill:rgb(72, 35, 116)">space program</text>
+<text transform="translate(1,74)" font-size="6" style="fill:rgb(52, 182, 121)">occasion</text>
+<text transform="translate(191,70) rotate(-90)" font-size="6" style="fill:rgb(33, 144, 141)">kalam</text>
+<text transform="translate(248,94)" font-size="6" style="fill:rgb(68, 2, 86)">part</text>
+<text transform="translate(354,14)" font-size="6" style="fill:rgb(67, 62, 133)">democracy</text>
+<text transform="translate(51,84)" font-size="6" style="fill:rgb(132, 212, 75)">citizen</text>
+<text transform="translate(249,155) rotate(-90)" font-size="6" style="fill:rgb(48, 105, 142)">ensure</text>
+<text transform="translate(215,124)" font-size="6" style="fill:rgb(47, 180, 124)">polling</text>
+<text transform="translate(358,176)" font-size="6" style="fill:rgb(32, 146, 140)">journey</text>
+<text transform="translate(37,182)" font-size="6" style="fill:rgb(82, 197, 105)">nation</text>
+<text transform="translate(300,93)" font-size="6" style="fill:rgb(49, 103, 142)">always</text>
+<text transform="translate(193,151) rotate(-90)" font-size="6" style="fill:rgb(178, 221, 45)">happy</text>
+<text transform="translate(244,122)" font-size="6" style="fill:rgb(90, 200, 100)">art</text>
+<text transform="translate(297,172)" font-size="6" style="fill:rgb(223, 227, 24)">works</text>
+<text transform="translate(160,84)" font-size="6" style="fill:rgb(37, 172, 130)">unique</text>
+<text transform="translate(119,86)" font-size="6" style="fill:rgb(72, 26, 108)">countries</text>
+<text transform="translate(321,54)" font-size="6" style="fill:rgb(36, 134, 142)">program</text>
+<text transform="translate(307,144)" font-size="6" style="fill:rgb(244, 230, 30)">youth</text>
+<text transform="translate(267,25)" font-size="6" style="fill:rgb(176, 221, 47)">toilet</text>
+<text transform="translate(288,47)" font-size="6" style="fill:rgb(60, 80, 139)">bapu</text>
+<text transform="translate(158,77) rotate(-90)" font-size="6" style="fill:rgb(70, 192, 111)">examinations</text>
+<text transform="translate(121,124)" font-size="6" style="fill:rgb(39, 126, 142)">shri shri</text>
+<text transform="translate(369,93) rotate(-90)" font-size="6" style="fill:rgb(147, 215, 65)">chandra bose</text>
+<text transform="translate(193,85)" font-size="6" style="fill:rgb(44, 177, 126)">azad hind</text>
+<text transform="translate(200,169)" font-size="6" style="fill:rgb(31, 161, 136)">khelo india</text>
+<text transform="translate(23,23)" font-size="5" style="fill:rgb(74, 193, 109)">service</text>
+<text transform="translate(20,52)" font-size="5" style="fill:rgb(47, 180, 124)">follower</text>
+<text transform="translate(371,91)" font-size="5" style="fill:rgb(78, 195, 107)">ensuring</text>
+<text transform="translate(258,51)" font-size="5" style="fill:rgb(70, 8, 92)">sri</text>
+<text transform="translate(115,152)" font-size="5" style="fill:rgb(31, 148, 140)">revered</text>
+<text transform="translate(119,143)" font-size="5" style="fill:rgb(168, 219, 52)">tribute</text>
+<text transform="translate(1,28)" font-size="5" style="fill:rgb(72, 38, 119)">republic</text>
+<text transform="translate(230,28)" font-size="5" style="fill:rgb(32, 163, 134)">celebrated</text>
+<text transform="translate(355,165)" font-size="5" style="fill:rgb(124, 210, 80)">pride</text>
+<text transform="translate(272,149)" font-size="5" style="fill:rgb(234, 229, 26)">aspect</text>
+<text transform="translate(314,100)" font-size="5" style="fill:rgb(41, 122, 142)">important</text>
+<text transform="translate(8,33)" font-size="5" style="fill:rgb(41, 122, 142)">election</text>
+<text transform="translate(23,5)" font-size="5" style="fill:rgb(47, 107, 142)">national</text>
+<text transform="translate(83,129)" font-size="5" style="fill:rgb(176, 221, 47)">leaves</text>
+<text transform="translate(374,24)" font-size="5" style="fill:rgb(92, 200, 99)">station</text>
+<text transform="translate(265,169)" font-size="5" style="fill:rgb(41, 123, 142)">remote</text>
+<text transform="translate(64,5)" font-size="5" style="fill:rgb(253, 231, 37)">heard</text>
+<text transform="translate(75,40)" font-size="5" style="fill:rgb(72, 36, 117)">contribute</text>
+<text transform="translate(133,111)" font-size="5" style="fill:rgb(57, 86, 140)">free</text>
+<text transform="translate(132,59)" font-size="5" style="fill:rgb(30, 156, 137)">fair</text>
+<text transform="translate(229,155) rotate(-90)" font-size="5" style="fill:rgb(35, 136, 142)">dream</text>
+<text transform="translate(314,149)" font-size="5" style="fill:rgb(58, 83, 139)">land</text>
+<text transform="translate(231,91)" font-size="5" style="fill:rgb(56, 185, 119)">birth</text>
+<text transform="translate(262,118)" font-size="5" style="fill:rgb(66, 65, 134)">bose</text>
+<text transform="translate(253,56)" font-size="5" style="fill:rgb(37, 171, 130)">anniversary</text>
+<text transform="translate(393,71) rotate(-90)" font-size="5" style="fill:rgb(34, 140, 141)">special</text>
+<text transform="translate(181,43)" font-size="5" style="fill:rgb(41, 175, 127)">heroes</text>
+<text transform="translate(5,198) rotate(-90)" font-size="5" style="fill:rgb(33, 142, 141)">independence</text>
+<text transform="translate(52,41)" font-size="5" style="fill:rgb(66, 63, 133)">indian</text>
+<text transform="translate(270,140)" font-size="5" style="fill:rgb(53, 95, 141)">inspire</text>
+<text transform="translate(278,30)" font-size="5" style="fill:rgb(42, 119, 142)">family</text>
+<text transform="translate(111,40)" font-size="5" style="fill:rgb(47, 180, 124)">october</text>
+<text transform="translate(79,82)" font-size="5" style="fill:rgb(40, 125, 142)">everyone</text>
+<text transform="translate(71,64)" font-size="5" style="fill:rgb(67, 62, 133)">role</text>
+<text transform="translate(46,23)" font-size="5" style="fill:rgb(149, 216, 64)">associated</text>
+<text transform="translate(5,105) rotate(-90)" font-size="5" style="fill:rgb(72, 20, 103)">developed</text>
+<text transform="translate(318,167)" font-size="5" style="fill:rgb(112, 207, 87)">mann</text>
+<text transform="translate(19,101)" font-size="5" style="fill:rgb(173, 220, 48)">baat</text>
+<text transform="translate(213,155) rotate(-90)" font-size="5" style="fill:rgb(67, 62, 133)">broadcast</text>
+<text transform="translate(311,31) rotate(-90)" font-size="5" style="fill:rgb(45, 178, 125)">painted</text>
+<text transform="translate(32,85)" font-size="5" style="fill:rgb(69, 5, 89)">human</text>
+<text transform="translate(350,90) rotate(-90)" font-size="5" style="fill:rgb(38, 130, 142)">thoughts</text>
+<text transform="translate(277,155)" font-size="5" style="fill:rgb(236, 229, 27)">saint</text>
+<text transform="translate(175,138)" font-size="5" style="fill:rgb(69, 56, 130)">त</text>
+<text transform="translate(30,92)" font-size="5" style="fill:rgb(40, 125, 142)">ग</text>
+<text transform="translate(309,176)" font-size="5" style="fill:rgb(49, 104, 142)">mygov</text>
+<text transform="translate(277,195)" font-size="5" style="fill:rgb(56, 88, 140)">safety</text>
+<text transform="translate(70,49)" font-size="5" style="fill:rgb(72, 22, 104)">lakh</text>
+<text transform="translate(330,30) rotate(-90)" font-size="5" style="fill:rgb(122, 209, 81)">sports</text>
+<text transform="translate(244,127)" font-size="5" style="fill:rgb(71, 44, 122)">best</text>
+<text transform="translate(366,110)" font-size="5" style="fill:rgb(69, 5, 89)">player</text>
+<text transform="translate(3,50)" font-size="5" style="fill:rgb(168, 219, 52)">state</text>
+<text transform="translate(66,69)" font-size="5" style="fill:rgb(96, 202, 96)">medal</text>
+<text transform="translate(101,74) rotate(-90)" font-size="5" style="fill:rgb(53, 183, 121)">father</text>
+<text transform="translate(36,70)" font-size="5" style="fill:rgb(57, 85, 140)">kabaddi</text>
+<text transform="translate(354,146)" font-size="5" style="fill:rgb(41, 121, 142)">sonali</text>
+<text transform="translate(66,54)" font-size="5" style="fill:rgb(72, 22, 104)">farmer</text>
+<text transform="translate(159,41)" font-size="5" style="fill:rgb(47, 107, 142)">clean</text>
+<text transform="translate(341,82) rotate(-90)" font-size="5" style="fill:rgb(132, 212, 75)">village</text>
+<text transform="translate(374,29)" font-size="5" style="fill:rgb(99, 203, 95)">friends</text>
+<text transform="translate(7,186)" font-size="5" style="fill:rgb(66, 65, 134)">open</text>
+<text transform="translate(160,27)" font-size="4" style="fill:rgb(54, 93, 141)">defecation</text>
+<text transform="translate(349,158)" font-size="4" style="fill:rgb(71, 46, 124)">exam</text>
+<text transform="translate(278,98)" font-size="4" style="fill:rgb(48, 105, 142)">teachers</text>
+<text transform="translate(138,4)" font-size="4" style="fill:rgb(234, 229, 26)">programme</text>
+<text transform="translate(85,5)" font-size="4" style="fill:rgb(139, 214, 70)">right vote</text>
+<text transform="translate(166,5)" font-size="4" style="fill:rgb(70, 48, 126)">freedom struggle</text>
+<text transform="translate(82,183)" font-size="4" style="fill:rgb(71, 17, 100)">red fort</text>
+<text transform="translate(28,154)" font-size="4" style="fill:rgb(35, 169, 131)">subhash babu</text>
+<text transform="translate(313,84) rotate(-90)" font-size="4" style="fill:rgb(31, 161, 136)">space technology</text>
+<text transform="translate(251,5)" font-size="4" style="fill:rgb(45, 112, 142)">clean beautiful</text>
+<text transform="translate(70,154)" font-size="4" style="fill:rgb(165, 219, 54)">beautiful toilet</text>
+<text transform="translate(193,56)" font-size="4" style="fill:rgb(103, 204, 92)">social media</text>
+</svg>

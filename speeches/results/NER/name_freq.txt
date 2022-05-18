@@ -1,0 +1,2641 @@
+Mann Ki Baat : 139
+Mahatma Gandhi : 72
+Sir : 69
+Yoga : 62
+Namaskar : 51
+Modi : 47
+Bapu : 35
+Rajesh : 35
+Mann : 34
+Khadi : 34
+Kashmir : 34
+Diwali : 32
+Gujarat : 29
+Sardar Patel : 28
+Mother India : 26
+Gandhi : 25
+Tamil Nadu : 24
+Baba Saheb Ambedkar : 22
+Guru : 21
+Shri : 19
+Amrit Mahotsav : 19
+Babasaheb Ambedkar : 18
+Poonam : 18
+Mr. : 17
+Madhya Pradesh : 17
+Delhi : 17
+Jammu : 17
+Sardar : 17
+Vinayak : 17
+Guru Nanak Dev : 16
+Kritika : 16
+Don : 15
+Mahatma : 15
+Sardar Saheb : 15
+Kishorilal : 15
+Baat : 14
+Karnataka : 14
+Atalji : 14
+Mayur : 14
+Gandhiji : 13
+Haryana : 13
+Yog : 13
+Shriman : 13
+Bhagat Singh : 13
+Corona : 13
+Vrindavan : 13
+Patil : 13
+Uttar Pradesh : 12
+Andhra Pradesh : 12
+Khelo India : 12
+Barack : 11
+Babasaheb : 11
+Namaste : 11
+Hari : 11
+Gandhi Jayanti : 10
+Raksha Bandhan : 10
+Ganesh Utsav : 10
+Arunachal Pradesh : 10
+Mohan : 10
+Khan : 10
+Nitesh Gupta : 10
+Covid : 10
+God : 9
+Swami Vivekananda : 9
+Twitter : 9
+Holi : 9
+Someone : 9
+Rajasthan : 9
+Akashvani : 9
+Singh : 9
+Mann Ki : 9
+Saheb : 9
+Kerala : 9
+Air Force : 9
+Sardar Vallabhbhai Patel : 9
+Ashok : 9
+Baba Saheb : 9
+Shyama Prasad Mukherjee : 9
+Tarannum : 9
+Prajapati : 9
+Divyang : 8
+Ganesh Chaturthi : 8
+Navy : 8
+Hindi : 8
+Diabetes : 8
+Patel : 8
+Deepawali : 8
+Assam : 8
+Sanskrit : 8
+Rajani : 8
+Jeeva : 8
+Savarkar : 8
+Netaji : 7
+Sikkim : 7
+Nelson Mandela : 7
+Sukhdev : 7
+Rajguru : 7
+Fit India : 7
+Buddha : 7
+Sant : 7
+Namo App : 7
+Ayurveda : 7
+Kapoor : 7
+Tenali Rama : 7
+Sir Modi : 7
+Vijay Dashami : 6
+Lal Bahadur Shastri : 6
+Sardar Vallabh Bhai Patel : 6
+Tamil : 6
+Geeta : 6
+Himachal Pradesh : 6
+Water : 6
+Abdul Kalamji : 6
+Lokmanya Tilak : 6
+Durga Puja : 6
+Coast Guard : 6
+Nanak Dev : 6
+Bihar : 6
+Gurudev Rabindranath Tagore : 6
+Gurudev : 6
+Guru Gobind Singh : 6
+Hon : 6
+Swachh Bharat Abhiyan : 6
+Lord Buddha : 6
+Guru Nanak Dev Ji : 6
+Hyderabad : 6
+Kumbh : 6
+Swamiji : 6
+Pariksha Pe Charcha : 6
+Bhai : 6
+Rajesh Prajapati : 6
+Mahatma Phule : 6
+Swachh Bharat : 5
+Jai : 5
+Christmas : 5
+Shreshtha Bharat : 5
+Mygov : 5
+Easter : 5
+Baba : 5
+Andhra : 5
+Mandela : 5
+Dhyan Chand : 5
+Hockey Team : 5
+Lokmanya : 5
+Ganga : 5
+Varun : 5
+Lord : 5
+Deen Dayal : 5
+Nanaji : 5
+Which : 5
+Tripura : 5
+Jai Hind Sir : 5
+Vinole : 5
+Kamya : 5
+Salman : 5
+Netaji Subhash Chandra Bose : 5
+Strawberry : 5
+Aditi : 5
+Major Dhyanchand : 5
+Virat : 5
+Swami : 4
+Brother : 4
+Isn : 4
+Bengali : 4
+Punjab : 4
+Narendra Modi App : 4
+Raman Effect : 4
+Narendra Modi : 4
+Cricket : 4
+Eid : 4
+Sardar Sahab : 4
+Bhagwan Shri Krishna : 4
+Sonal : 4
+Pune : 4
+Jeevan Jyoti Bima Yojna : 4
+Ganesh : 4
+Mariyappan : 4
+Pandit Deen Dayal Upadhyay : 4
+Deen : 4
+Panchayat : 4
+Kerosene : 4
+Gandhi Ji : 4
+Marathi : 4
+Badminton : 4
+Abhiyan : 4
+Swami Vivekanand : 4
+Sister Nivedita : 4
+Buddha Purnima : 4
+Kargil Vijay Diwas : 4
+Road Safety : 4
+Doctor : 4
+Such : 4
+Odisha : 4
+Shanti : 4
+Babu : 4
+Kumbh Mela : 4
+Ayushman Bharat : 4
+Pulwama : 4
+Poshan Abhiyaan : 4
+Tarannum Khan : 4
+Yuvika : 4
+Space Technology : 4
+Bhagirathi Amma : 4
+Ayurved : 4
+Kelansang : 4
+Amurtha : 4
+Doctors : 4
+Pranaam : 4
+Usman : 4
+Brown : 4
+Pon : 4
+Ismail Bhai : 4
+Ismail : 4
+Freedom : 4
+Guru Sahib : 4
+Ravidas : 4
+Nayak Sir : 4
+Shashank : 4
+Jadurani Ji : 4
+Bhagwan Vishwakarma : 4
+Baba Sivanand : 4
+Rosemary : 4
+Veer Savarkar : 4
+Benjamin Franklin : 3
+Mars : 3
+Nepal : 3
+Ambedkar : 3
+Bill : 3
+Card : 3
+Bharat : 3
+Till : 3
+Jai Prakash Narayan : 3
+Kolkata : 3
+Subhash : 3
+Urdu : 3
+Jawed Ahmed : 3
+Noor Jehan : 3
+Best India : 3
+Rajat : 3
+Murari Bapu : 3
+Bharat Ratna : 3
+Pradhan Mantri Fasal Beema Yojana : 3
+Kabaddi : 3
+Gudi Padva : 3
+Adarsh Gram : 3
+Sri : 3
+Dhanteras : 3
+Run : 3
+Pradesh : 3
+Jan Dhan : 3
+Beti Padhao : 3
+Hashtag Yoga Fights Diabetes : 3
+Democracy : 3
+Van Mahotsav : 3
+Vikas : 3
+Mother : 3
+Mallamma : 3
+Pradhan : 3
+Jai Kisan : 3
+Navratri : 3
+Shakti : 3
+Open Defecation Free : 3
+Sardars : 3
+Jesus : 3
+Lucky Grahak Yojana : 3
+March : 3
+Rajya Sabha : 3
+Srishti : 3
+Saint Ramanujacharya : 3
+Prakash Tripathi : 3
+Good : 3
+Kranti : 3
+Onam : 3
+Teacher : 3
+Daughter : 3
+Nanaji Deshmukh : 3
+Sister : 3
+Smt : 3
+Haj : 3
+Kalpana Chawla : 3
+Bhai Prakash : 3
+Parade : 3
+Narendra Modi Mobile App : 3
+Sri Lanka : 3
+Yojana : 3
+Ram : 3
+Swasth Bharat : 3
+Tamilnadu : 3
+Rabindra Sangeet : 3
+Prophet : 3
+Abdul Kalam : 3
+World Yoga : 3
+Radio : 3
+Maghar : 3
+Kabir : 3
+Gurbachan Singh : 3
+Tomy : 3
+Sardar Sahib : 3
+Mahayagya : 3
+Jasmer Singh : 3
+Lohri : 3
+Lok Sabha : 3
+Jamsetji Tata : 3
+Self Help Group : 3
+Harivansh Rai Ji : 3
+Nandlal Bose : 3
+Bear Grylls : 3
+Laxmi : 3
+Aleena Taayang : 3
+Fit : 3
+Shobha Ji : 3
+Santosh Ji : 3
+Pongal : 3
+Lakshmi : 3
+Nanak Dev Ji : 3
+Jai Hind : 3
+Kiso : 3
+Akhil : 3
+Maalam : 3
+Kareena : 3
+Corona Warriors : 3
+Manipur : 3
+Kaniga : 3
+Oaxaca : 3
+Pon Mariyappan : 3
+Maharishi : 3
+Valmiki : 3
+Shahid Veer Bhagat Singh : 3
+Nature : 3
+Afroz : 3
+Jonas : 3
+Sri Aurobindo : 3
+Shri Aurobindo : 3
+Minusha : 3
+Sant Ravidas : 3
+Saint Queen Ketevan : 3
+Oxygen : 3
+Shirisha : 3
+Group : 3
+Deepika : 3
+Bhavani : 3
+Prayas : 3
+Krishna : 3
+Dharti Aaba : 3
+Sabarmati : 3
+Aloe Vera : 3
+Ayushman : 3
+Amar Jawan Jyoti : 3
+Niranjoy Singh : 3
+Everest : 3
+Tilak : 3
+Lok Manya Tilak : 3
+Lok Manya Tilakji : 3
+Chandrasekhar Azad : 3
+Kranti Mandir : 3
+Toilet : 3
+Barack Obama : 2
+Michelle : 2
+Education : 2
+Terrorism : 2
+Mr. Gautam Pal : 2
+Maharashtra : 2
+Dileep Singh Malviya : 2
+Dileep Singh : 2
+Akashwani : 2
+Shouldn : 2
+Kutch : 2
+Haji Pir : 2
+Chandra Bose : 2
+Subhash Babu : 2
+Organ Donation : 2
+Jamuna Manisingh : 2
+Jamuna Mani : 2
+Climate : 2
+Solar Energy : 2
+Sachin Tendulkar : 2
+Board Exams : 2
+Arjun : 2
+Vijay : 2
+Raman : 2
+Albert Einstein : 2
+Charkha : 2
+Bachao Beti Padhao : 2
+Sawai Madhopur : 2
+Abhi Chaturvedi : 2
+Abhi : 2
+Kisan Suvidha App : 2
+Mhow : 2
+Alipur Road : 2
+Nav Samvatsar : 2
+Tain Tyakten Bhunjhita : 2
+Africa : 2
+Garima : 2
+Maoism : 2
+Scheme : 2
+Ashok Chakra : 2
+Daud : 2
+Ekta : 2
+Aadhar : 2
+Mobile : 2
+Gaurav : 2
+Santosh : 2
+Sound Byte : 2
+Emergency : 2
+Pauri Garhwal : 2
+Mother Earth : 2
+Shilpi Varma : 2
+Pradhan Mantri Ji : 2
+Pradhan Mantri Suraksha Bima Yojna : 2
+Sachin : 2
+Usha : 2
+Pulela Gopi Chand : 2
+Durga Pooja : 2
+Teresa : 2
+Mother Ganga : 2
+Mohammad Shafi : 2
+Lal : 2
+Campaign : 2
+Week : 2
+Pandit : 2
+Govardhan Puja : 2
+Bhai Dooj : 2
+Kartik Purnima : 2
+Assam Rifles : 2
+Rangolis : 2
+Shivani : 2
+Vikas Thakur : 2
+Badhana : 2
+Pradhan Mantriji : 2
+Indira Gandhi : 2
+Assam Government : 2
+Benami Property : 2
+Virat Kohli : 2
+Shaurya Chakra : 2
+Richa Ji : 2
+Guard : 2
+Rabindranath Tagore : 2
+Gayatri : 2
+Mobile Apps : 2
+Mahavir Jayanti : 2
+Ugadi : 2
+Google Guru : 2
+Gujarati : 2
+Ramanujacharya : 2
+Karma : 2
+Budha Purnima : 2
+Sabka Saath : 2
+Lord Jagannath : 2
+Queen Elizabeth : 2
+Rupees : 2
+Mars Mission : 2
+Pradhan Mantri : 2
+Tapasya : 2
+Freedom Movement : 2
+Pradhan Sewak : 2
+Sarvajanik Ganeshotsav : 2
+Swachchata Hi Seva : 2
+Pradhan Mantri Mudra Yojna : 2
+Bilal Dar : 2
+Srinagar Municipal Corporation : 2
+Bilal : 2
+Deshmukh : 2
+Nidhi : 2
+Chhath Pooja : 2
+Bhagini Nivedita : 2
+Bhagini : 2
+Subramanya Bharati : 2
+Kidambi Srikanth : 2
+Swachch Bharat : 2
+Guru Nanak Jayanti : 2
+Vallabhbhai Patel : 2
+Jesus Christ : 2
+Parmo Dharmah : 2
+Gobind Singh : 2
+Punyan Poonkavanam : 2
+Nari Shakti : 2
+Gargi : 2
+Rani Lakshmibai : 2
+Shriman Darshan : 2
+Jan Aushadhi Kendras : 2
+Padma Awards : 2
+Padma : 2
+Bhajju Shyam : 2
+Pravasi Bharatiya Divas : 2
+Mauritius : 2
+Satyendranath Bose : 2
+Science : 2
+Myanmar : 2
+Raipur Municipal Corporation : 2
+Varanasi : 2
+Jayesh : 2
+Saidul : 2
+Meghalaya : 2
+Baba Sahib Ambedkar : 2
+Chaulai : 2
+Tagore : 2
+Bangla : 2
+Shri Atal Bihari Vajpayee : 2
+Action : 2
+Suraksha Bima Yojna : 2
+Paanch Varsh Laaw Lijiye Dass Laaw Tadan : 2
+Rashid Khan : 2
+Sant Kabir Das : 2
+Samadhi : 2
+Kabir Das : 2
+Jagatguru : 2
+Economy : 2
+Islam : 2
+Narmada : 2
+Tabaabi Devi : 2
+Gurbachan : 2
+Kargil : 2
+Revered : 2
+Swaraj : 2
+Climate Change : 2
+Gobind Singh Ji : 2
+Patna : 2
+Tata : 2
+Morarji Desai : 2
+Madurai : 2
+Jan Dhan Yojana : 2
+Mudra Yojana : 2
+Rupay Cards : 2
+Mera Parichay : 2
+Shriman Amitabh Ji : 2
+How : 2
+Shri Krishna : 2
+Sabarmati Ashram : 2
+Subhash Chandra Bose : 2
+Ann Praashan Sanskar : 2
+Wild : 2
+Lata Didi : 2
+Startups : 2
+Daniil Medvedev : 2
+Nadal : 2
+Medvedev : 2
+Sister MariamThresia : 2
+Ripudaman Belviji : 2
+Amir : 2
+Khusro : 2
+Space Science : 2
+Women : 2
+Padhao : 2
+Whereas : 2
+Guru Nanak : 2
+Darshan : 2
+Lakshadweep : 2
+Ram Janmabhoomi : 2
+Junior : 2
+Taranum : 2
+Tourism : 2
+Festival : 2
+Man Ki Baat : 2
+Alumni Meet : 2
+Sankalp Ninety Five : 2
+Himayat Programme : 2
+Rakib : 2
+Pradeep : 2
+David Beckham : 2
+David : 2
+Khelo India University : 2
+Bamboo : 2
+Hunar Haat : 2
+Ladakh : 2
+Lord Shiva : 2
+Akshay : 2
+Gautam Das : 2
+Brother Raju : 2
+Shriman Himanshu : 2
+My Yoga : 2
+Puducherry : 2
+Valli : 2
+Amurtha Valli : 2
+Super Cyclone Amfan : 2
+Eastern India : 2
+State Government : 2
+Bio Diversity : 2
+Amphan : 2
+Narasimha Rao : 2
+Balbir Kaur : 2
+Neem : 2
+Vanakkam : 2
+Chandrika Prasad Santokhi : 2
+Team : 2
+Bhavana : 2
+Mudhol Hound : 2
+Valmiki Jayanti : 2
+Pon Marriyappan : 2
+Puri : 2
+Maharishi Valmiki : 2
+Pencil Slats : 2
+Manzoor : 2
+Network : 2
+Aparna Athare : 2
+Shailaja Sampath : 2
+Namaste Sir : 2
+Maharaja : 2
+Seduji : 2
+Rajmata Sahab : 2
+Andaman : 2
+Savarkarji : 2
+Versova : 2
+Riyasi Block : 2
+Madam Speaker : 2
+Akbar Sahab : 2
+Akbar : 2
+Mata : 2
+Cherry Blossoms : 2
+Vedanta : 2
+Gaurav Sharma : 2
+Lakhpat Gurudwara : 2
+Darbaar Sahib : 2
+Swadeshi : 2
+Jitendra : 2
+Virendra Yadav : 2
+Virendra : 2
+Sahibzade : 2
+Guru Gobind Singhji : 2
+Shri Guru Gobind Singhji : 2
+Kashmiri Saffron : 2
+Arjuna : 2
+Brahm : 2
+Anudeep : 2
+Strawberry Festival : 2
+Jhansi : 2
+Bhagyashree : 2
+Magh Poornima : 2
+Venkat Reddy : 2
+Silu Nayak : 2
+Dandi Yatra : 2
+Andaman Nicobar : 2
+Sikari Tissau : 2
+Gudi Padwa : 2
+Mr. Modi : 2
+Moirang : 2
+Amrit : 2
+Light House : 2
+Sanjay Rana : 2
+Goa : 2
+Patnaik : 2
+Dubai : 2
+Alright : 2
+Team India : 2
+Milkha Singh : 2
+Chartered Accountants : 2
+Kannada : 2
+Jadurani : 2
+Instagram : 2
+Poonam Nautiyal : 2
+Rangoli : 2
+Bhagwan Birsa Munda : 2
+Birsa Munda : 2
+Equal : 2
+Varun Singh : 2
+Sagar Mule : 2
+Kaavi : 2
+Rani Laxmibai : 2
+Son : 2
+Will : 2
+Sukhdevi : 2
+Bhikaji Cama : 2
+Shyamji Krishna Varma : 2
+Peace : 2
+Ayush : 2
+Narayanan : 2
+Madhavpur Mela : 2
+Phule : 2
+Savitribai Phule : 2
+Nima : 2
+Kili : 2
+Surjan : 2
+Ashram School : 2
+Pandharpur Wari : 2
+Ashadhi Ekadashi : 2
+Vithoba : 2
+Vallabh Bhai Patel : 2
+Victoria Garden : 2
+Azad : 2
+Yogesh Qathuniaji : 2
+Kalam Saheb : 2
+Red Fort : 2
+Netaji Subhash Bose : 2
+Azad Hind Radio : 2
+Gurudev Tagore : 2
+Vikram Sarabhai : 2
+Vineeta : 2
+Kartarpur : 2
+Sabha Election : 2
+Hamid : 2
+Shri Barack Obama : 1
+Henry Thoreau : 1
+Martin Luther : 1
+Obama : 1
+Public Health : 1
+Ebola : 1
+Polio : 1
+Kennedy : 1
+Ganesh Venkatadari : 1
+Khaadi : 1
+Facebook : 1
+Municipal Corporation : 1
+Small Scale : 1
+Gallantry Award : 1
+Nehwal : 1
+Sania Mirza : 1
+Sergei Bubka : 1
+Desire : 1
+Uppa Deepo Bhavahah : 1
+Victory : 1
+Mama : 1
+Uncle : 1
+Arnav : 1
+Mohta : 1
+Vinita : 1
+Tiwari : 1
+Nation : 1
+Railway : 1
+Khadidhari : 1
+Whom : 1
+Siachin : 1
+Cambrian Patrol : 1
+Sri Abhishek Pareekh : 1
+Mann Ki Baat Akashvani Sansad Marg New Delhi : 1
+Ganesh V. Savleshwarkar : 1
+Dileep : 1
+Singh Malviya : 1
+Yashoda : 1
+Harmony : 1
+Dilip Chauhan : 1
+Sugamya India : 1
+Sugamya Bharat : 1
+Braille : 1
+Sugamya : 1
+Direct Benefit Transfer Scheme : 1
+Aadhar Card : 1
+Benefit Transfer Scheme : 1
+Direct Benefit : 1
+Siachen : 1
+Alwar : 1
+Pawan Acharya : 1
+Shri Narendra Modi : 1
+Pawan : 1
+Chaminda : 1
+Asal Uttar : 1
+Panchayats : 1
+Gulshan Arora : 1
+Pandit Deendayal Upadhaya : 1
+Bhargavi Kande : 1
+Bhargavi : 1
+Kshitij : 1
+Sonam Patel : 1
+Sadavrat Patel : 1
+Geetha : 1
+Sonam : 1
+Sandeep : 1
+Marathi Punjabi : 1
+Nawaz Sharif : 1
+Lakhwinder Singh : 1
+Lakhwinder : 1
+Disabilities : 1
+Raveena Tandon : 1
+Javed Ahmed : 1
+Melinda Gates : 1
+Padma Vibhushan : 1
+Tenda Gaon : 1
+Swatch Bharat : 1
+Noor Jahan : 1
+Noor : 1
+Jehan : 1
+Mr. Abhishek Kumar Pandey : 1
+Abhishek Kumar Pandey : 1
+Pradhan Mantri Mudra Yojana : 1
+Shailesh Bhonsle : 1
+Mamta Sharma : 1
+Shrey : 1
+Gupta : 1
+Shri Prabhakar Reddy : 1
+Prabhakar Reddy : 1
+Modiji : 1
+Vishwanathan Anand : 1
+Hello : 1
+Viswanathan Anand : 1
+Shri Kunal Gupta : 1
+Yash : 1
+Yash Nagar : 1
+Shri Rao : 1
+Shri Raofor : 1
+Ruchika : 1
+Dabas : 1
+Thomas Alva Edison : 1
+Keshav : 1
+Budget : 1
+Sardarji : 1
+Railway Ministry : 1
+Komal Devi : 1
+Sadhna Devi : 1
+Beti : 1
+Samman Abhiyan : 1
+Fasal Beema Yojana : 1
+Maan Ki Baat : 1
+Anurag Agarwal : 1
+Sidhi Karnani : 1
+Vishwas Dwivedi : 1
+Manoj : 1
+Kohbar Art : 1
+Matunga : 1
+Borivali : 1
+Fleet Review : 1
+Udhi : 1
+Chatrapati Shivaji : 1
+Chola Dynasty : 1
+Naval : 1
+Asian Federation : 1
+Coal India : 1
+Sound : 1
+Mahadevi Verma : 1
+Mahadevi Ji : 1
+Shilpa : 1
+Suvidha App : 1
+Kisan Mela : 1
+Invest : 1
+Reap More : 1
+Tuberculosis : 1
+Baba Saheb Bhimrao Ambedkar : 1
+Deeksha : 1
+Vikram Samvat : 1
+Shraddha Thamban : 1
+Kannur : 1
+Centre : 1
+Saint Mary Upper : 1
+Vasantrao Sudke Guru : 1
+Tissue : 1
+Him : 1
+Pant : 1
+Africa Foreign Summit : 1
+Porbandar : 1
+Nile : 1
+Red : 1
+Huge : 1
+River Nile : 1
+Johannesburg : 1
+Zimbabwe : 1
+Shri Karia Munda : 1
+Parsi Gram Panchayat : 1
+Andhra Sri Ashok Gajapati Raju : 1
+Dwarapudi Gram Panchayat : 1
+Sri C. : 1
+Khwalahilung : 1
+Savita : 1
+Sri Ramoji Rao : 1
+Hai Mera : 1
+Swachh India : 1
+Dainik : 1
+Zee : 1
+Savita Rai : 1
+Mr. Shanmuganthan : 1
+Shreshtha : 1
+Baba Bhimrao Ambedkar : 1
+Chaitya Bhoomi : 1
+Lord Vishweshwara : 1
+Zero Tolerance : 1
+Illegal Wildlife Trade : 1
+Pragati Mission : 1
+Shivir : 1
+Madhya : 1
+Balram Talaab Yojana : 1
+Kapil Dhara Koop : 1
+Mukhya Mantri Jal Bachao Abhiyaan : 1
+Kalyani Yojana : 1
+Jal Swawalamban Abhiyan : 1
+Check Dams : 1
+August September : 1
+Business : 1
+Bank : 1
+Universal Payment Interface : 1
+Shri Sarbanand Sonowal : 1
+Patiala : 1
+Mr. Gaurav : 1
+Gaurav Patel : 1
+Pandit Shiv Kumar : 1
+Ustad Bismillah Khan : 1
+Avni Chaturvedi : 1
+Bhawna Kanth : 1
+Officer Avni : 1
+Officer Bhawana : 1
+Officer Mohana : 1
+Avni : 1
+Bhawana : 1
+Mohana : 1
+Swati : 1
+Face Book : 1
+Yoga Gurus : 1
+Jai Prakash Narain : 1
+Customs : 1
+Excise Departments : 1
+Shri Chandrakant Damodar Kulkarni : 1
+Shri Chandrakant Kulkarni : 1
+Santosh Negi : 1
+Pauri : 1
+Live : 1
+Blossom : 1
+Suraj Prakash Upadhyay : 1
+Suraj Ji : 1
+Mr. Ankit : 1
+Ankit : 1
+Centres : 1
+Dengue : 1
+Safe Motherhood Campaign : 1
+Gita : 1
+Shukracharya Niti : 1
+Anushasan Parv : 1
+Khandu Maruti Mhatre : 1
+Junner Taluka : 1
+Mhatre Ji : 1
+Kesar : 1
+Shriman Mhatre Ji : 1
+Mata Ambaji : 1
+Green India Mission : 1
+Railways : 1
+Aamra Van : 1
+Ekata Van : 1
+Shaheed Van : 1
+Phoenix : 1
+Sarvodaya : 1
+Shriman Ahmed Kathrada : 1
+Shriman Laloo Chiba : 1
+Shriman George Bizos : 1
+Ronnie Kasrils : 1
+Shilpi : 1
+Varma : 1
+Aligarh : 1
+Raksha Bandhan Pradhan Mantri Suraksha Bima Yojna : 1
+Pradhan Sevak : 1
+Tomorrow : 1
+Hockey Gold Medals : 1
+Bradman : 1
+Dhyan : 1
+Betis : 1
+Saakshi : 1
+Deepa Karmakar : 1
+Shikhar : 1
+Abhinav Bindra : 1
+Dipa : 1
+Karmakar : 1
+Rohan Bopanna : 1
+Gold Medalist Argentina : 1
+Krishna Yadav : 1
+Bronze : 1
+Aditi Ashok : 1
+Dattu Bhokanal : 1
+Atanu Das : 1
+Rio Olympics : 1
+Gopi Chand : 1
+Sarvapalli Radhakrishnan : 1
+Ganeshotsav : 1
+Shankar Narayan Prashant : 1
+Shri Abhijit Dhondphale : 1
+Vigyan Prabodhini : 1
+Nisarg Katta : 1
+Gyan Prabodhini : 1
+Girgaoncha Raja : 1
+Bharat Ratna Mother Teresa : 1
+Mother Teresa : 1
+Sainthood : 1
+Sushma Swaraj : 1
+Allahabad : 1
+Pradhan Mohammad Shafi : 1
+Swachha Bharat : 1
+Swachhata Abhiyan : 1
+Pranab Mukherjee : 1
+Akashvani Maitree Channel : 1
+Radio Channel : 1
+Akashvani Maitree : 1
+Harshvardhan : 1
+Shastri Ji : 1
+Lal Bahadur Shashtri Ji : 1
+Bahadur Shashtri Ji : 1
+Varun Vishwanathan : 1
+Deepa Malik : 1
+Devendra Jhajharia : 1
+Devendra : 1
+Athlete Deepa Malik : 1
+Bhati : 1
+Abdellatif Baka : 1
+Gauri Shardul : 1
+Swachha Bharat Mission : 1
+Swachchhata App : 1
+Swachchhata Mission : 1
+Swachchha Bharat Fellows : 1
+Shrimaan Amitabh Bachchan Ji : 1
+Wealth : 1
+Gujarat Technological University : 1
+Param Veer Singh : 1
+Dev Prayag : 1
+Ganga Sagar : 1
+Drinking Water : 1
+Panchayati Raj Department : 1
+Farmer Welfare : 1
+Food Processing : 1
+Lal Bahadur Shastri Ji : 1
+Swachchh : 1
+Bharat Mission : 1
+Pandit Deen Dayal Upadhyay Ji : 1
+Deen Dayal Upadhyay : 1
+Sarvajan Hitay : 1
+Sarvajan Sukhay : 1
+Race Course Road : 1
+Pandit Deen Dayal Updhyay : 1
+Kalyan Marg : 1
+Dayal Upadhyay : 1
+Deepavali : 1
+Amavasya : 1
+Full Moon : 1
+Poornima : 1
+Laabh Panchmi : 1
+Chhathh Pooja : 1
+Chhathh : 1
+Indo Tibetan Border : 1
+Saraswati : 1
+Pinchhi : 1
+Shriman Ashwani Kumar : 1
+Hello Mr. : 1
+Shivani Mohan : 1
+Army Officers : 1
+Thakur : 1
+Idmalakudi : 1
+Haryana Kerosene : 1
+Jasdeep : 1
+Milk Producers Union : 1
+Kaira : 1
+Bhai Laalo : 1
+Sab Ka Vikas : 1
+Saint Luke : 1
+Venerable Atal Bihari Vajpayee Ji : 1
+Income Tax : 1
+Mr. Chandrababu Naidu : 1
+Gujarat Narmada Valley Fertilizers : 1
+Chemicals Limited : 1
+Gurumani Kewal : 1
+Military : 1
+Gurumani Kewalji : 1
+Parkinson : 1
+Karun Nair : 1
+Rahul : 1
+Ashwin : 1
+Best Test : 1
+Kirti Chakra : 1
+Vishisht Seva Medal : 1
+Param Vishisht Seva Medal : 1
+April : 1
+Smile : 1
+Man : 1
+Abdul : 1
+Richa Anand Ji : 1
+Mr. Sachin Tendulkar : 1
+Purushottam Mavlankar : 1
+Ganesh Dada Mavlankar : 1
+Monica : 1
+Coast Guards : 1
+Vayam : 1
+Hovercrafts : 1
+Saraswati Pooja : 1
+Vasant Panchmi : 1
+Vidya : 1
+Basanti Chola : 1
+Knighthood : 1
+Bhagat Singh Ji : 1
+Kheda Satyagraha : 1
+Rajendra Babu : 1
+Acharya Kripalani Ji : 1
+Sarvyajan Hitaay : 1
+Sarvajan Sukhaay : 1
+Suraaj : 1
+Digidhan : 1
+Esteemed Principal : 1
+World Health : 1
+Chaitra Shukla Pratipada : 1
+Varsh Pratipada : 1
+Vasant Ritu : 1
+Cheti Chand : 1
+Samvatsar Pooja : 1
+Roti Banks : 1
+Shri T. S. Kartik : 1
+Shri Mr. Jagat Bhai : 1
+Syedna Sahib : 1
+Dawoodi Bohra Community : 1
+Burhani Foundation : 1
+Parents : 1
+Namaskar Pradhan Mantri : 1
+Shivaa Choubey : 1
+Every Indian : 1
+Mahaatmya : 1
+Karnataka Jagat Guru Basaveshwar : 1
+Vachana Amrit : 1
+Kailas : 1
+Kailash : 1
+Swarga : 1
+Shiva : 1
+Shriman Dattopant Thengdi : 1
+Lord Budha : 1
+Sabka : 1
+Sabka Vikas : 1
+Jagannath : 1
+Car Festival : 1
+Prakash : 1
+Atal : 1
+Bihari Vajpayee : 1
+Shall : 1
+Machu Picchu : 1
+Salma Dam : 1
+Yoga Session : 1
+Yoga Masters : 1
+Panicker : 1
+Month : 1
+Arulmozhi Sarvanan : 1
+Arulmozhi Madam : 1
+Had : 1
+Arulmozhi : 1
+Maximum Governance : 1
+Minimum Price : 1
+Maximum Ease : 1
+Efficiency : 1
+Nano Satellite Mission : 1
+Kidambi Shrikant : 1
+Usha School : 1
+Flood : 1
+Aapada : 1
+Neetu Garg : 1
+Goods : 1
+Simple Tax : 1
+Pundits : 1
+Jaiprakash Narain : 1
+Agast Kranti : 1
+Filth : 1
+Poverty : 1
+Casteism : 1
+Sankalp : 1
+Siddhi : 1
+Chauth Chandra : 1
+Anant Chaturdashi : 1
+Ganesha : 1
+Saadar Namaskar : 1
+Ahimsa Parmo Dharmah : 1
+Bal Gangadhar : 1
+Durga Utsav : 1
+Ganpati : 1
+Holy Basil : 1
+Swachchata Hi Sewa : 1
+Jal Seva Yahi Prabhu Seva : 1
+Navaratri : 1
+Swachcha Siddhi Pratiyogita : 1
+Swachch Do Aktoobar : 1
+Major Dhyan Chand : 1
+Play : 1
+Navika Sagar Parikrama : 1
+Learn : 1
+Teach : 1
+Pranam Pradhan Mantri : 1
+Financial Inclusion : 1
+Financial Pundits : 1
+Thirty : 1
+Pradhan Mantri Jeewan Jyoti Bima Yojna : 1
+Mantri Mudra Yojna : 1
+Start Up Yojna : 1
+Stand Up Yojna : 1
+Dalits : 1
+Jan DhanYojna : 1
+Acharya Vinoba Bhave : 1
+Asarkari : 1
+Sewapuri : 1
+Khadi Ashram : 1
+Gramodyog : 1
+Sankalp Se Siddhi : 1
+Sankalp Siddhi : 1
+Swachhata Hi Sewa Abhiyan : 1
+Service : 1
+Dar : 1
+Aisa : 1
+Jai Prakashji : 1
+Deen Dayalji : 1
+Sarv Jan Hitay : 1
+Sarv Jan Sukhay : 1
+Gramodaya : 1
+Shriman Abdul Kalamji : 1
+Deen Dayal Upadhyayji : 1
+Dayalji : 1
+Swati Mahadik : 1
+Santosh Mahadik : 1
+Nidhi Dubey : 1
+Mukesh Dubey : 1
+Matri Shakti : 1
+Ma Durga : 1
+Shakti Sadhana : 1
+Sharadiya Navratri : 1
+Ma Shakti : 1
+Jal : 1
+Sanskar : 1
+Prasad : 1
+Arghya : 1
+Rajan Bhatt : 1
+Tejas Gaikwad : 1
+Hansa Mehta : 1
+Peace Missions : 1
+Gautam Budha : 1
+Gurbachan Singh Salaria : 1
+Margret Elizabeth : 1
+Nivedita : 1
+Sanatan Dharma : 1
+Pudhumai Penn : 1
+Jagdish Chandra Basu : 1
+Basu : 1
+Jawaharlal Nehru : 1
+Young India : 1
+Heartiest : 1
+Shiv Seva : 1
+Positive India : 1
+Meenu Bhatia : 1
+Jyoti Rajendra Waade : 1
+Santosh Jadhav : 1
+Bhinnar : 1
+Deepanshu Ahuja : 1
+Saharanpur : 1
+Satish Bewani : 1
+Anjum Bashir Khan Khattak : 1
+Anjum : 1
+Vijayan : 1
+Punyam Poonkavanam : 1
+Clean India : 1
+Haj Pilgrimage : 1
+Ten : 1
+Khichdi : 1
+Shriman Prakash Tripathi : 1
+Akka Mahadevi : 1
+Ahilyabai Holkar : 1
+Nirmala Seetharaman : 1
+Vartika Joshi : 1
+Bhavna Kanth : 1
+Mohana Singh : 1
+Avani Chaturvedi : 1
+Kshamata Vajpayee : 1
+Bus Driver : 1
+Mount : 1
+Railway Police : 1
+Gandhi Maidan : 1
+Shri Mangesh : 1
+Akola : 1
+Mission Clean Morna : 1
+Mission : 1
+Arvind Gupta : 1
+Sitavaa Jodatti : 1
+Shri Bhajju Shyam : 1
+Lakshmi Ji : 1
+Subhasini : 1
+Phone : 1
+Bharat Ratna Sir : 1
+Bodhayan : 1
+Bhaskar : 1
+Brahmagupt : 1
+Sushrut : 1
+Sir Jagdish Chandra Bose : 1
+Hargobind Khurana : 1
+Bots : 1
+Thomas : 1
+Edison : 1
+Shriman Ravindra Singh : 1
+Aapada Mitra : 1
+Bio Gas : 1
+Bio : 1
+Trash Mahotsav : 1
+Raipur : 1
+Shakti Puraskar : 1
+Elephanta : 1
+Rajbunder : 1
+Morbandar : 1
+Ramayan : 1
+Komal Thakkar : 1
+Komalji : 1
+Ghanshyam Kumar : 1
+Village Baraakar : 1
+District Nalanda : 1
+Sakal Shastriji : 1
+Ayushman Bhoomi : 1
+Yogesh Bhadresha Ji : 1
+Shriman Prashant Kumar : 1
+Anagha : 1
+Kisan Melas : 1
+Farmer Carnivals : 1
+Mann Ki Batein : 1
+Ahmed Ali : 1
+Mohan Choudhary : 1
+Saidul Laskar : 1
+Lohia : 1
+Chaudhari Charan Singh : 1
+Chaudhari Devi Lal : 1
+Lal Bahadur Shastriji : 1
+Chaudhari : 1
+Charan Singh : 1
+Swachch : 1
+Child Welfare Ministry : 1
+Health Wellness Centres : 1
+Jan Anshadhi Kendras : 1
+Start Up India : 1
+Stand Up India : 1
+Hanuman Jayanti : 1
+Poila Vaisakh : 1
+Table Tennis : 1
+Manika : 1
+Batra : 1
+Deepak : 1
+Anish Bhanwala : 1
+Saina Nehwal : 1
+Mohammad Anas : 1
+Hema Das : 1
+Shriman Shashikant Bhonsale : 1
+Rooma : 1
+Dhawal Prajapati : 1
+Akshay Kumar : 1
+Swachch Bharat Summer : 1
+Nehru Yuva Kendra : 1
+Swachch Bharat Summer Internship : 1
+Geeta Colony : 1
+Mandwa : 1
+Corn : 1
+Barley : 1
+Kg : 1
+Kousani : 1
+Kovilpatti : 1
+Patan Ki Raniki Vaav : 1
+Baodi : 1
+Chand Baodi : 1
+Remote Sensing Imagery : 1
+Sasur Khaderi : 1
+Aayan : 1
+Kumar Banerjee : 1
+Devi Tola : 1
+Rabindra Jayanti : 1
+Aayanji : 1
+Rabindra : 1
+Nath : 1
+Anandloke : 1
+Aaguner : 1
+Rabindra Nath Tagore : 1
+Mohammad Sahib : 1
+Muhammad Sahib : 1
+Infrastructure : 1
+Southeast Asia : 1
+Anand Temple : 1
+Well : 1
+Shri A. : 1
+Vasudhaiv : 1
+Fellow Countrymen : 1
+Darkness : 1
+Sut Hi Solah Varsh Mein Mitra Sarij Gani Dei : 1
+Mr. Dutt : 1
+Mumbai : 1
+Mr. Nelson Mandela : 1
+Mann Ki Baat Post Box : 1
+Akashvani New Delhi : 1
+Mr. Akhilesh Vajpayee : 1
+Akhilesh Vajpayee : 1
+Suchitra Raghavachari : 1
+Clean Ganges : 1
+Ameya Joshi : 1
+Prasanna Kakunje : 1
+Road Transport : 1
+Safety Bill : 1
+Jaipur : 1
+Rangaon : 1
+Karma Yogis : 1
+Biswal : 1
+Vijay Biswal : 1
+Malyuddh : 1
+Swachh Bharat Abhiyaan : 1
+Brother Number One : 1
+Keshla : 1
+Bhavesh : 1
+Afghanistan : 1
+Shriman Ashraf Ghani : 1
+Arabia : 1
+Vasudhaiva Kutumbakam : 1
+Kabirwad : 1
+Sant Kabirdas : 1
+Saakhis : 1
+Nanak Devji : 1
+Raman Kumar : 1
+Board : 1
+Damodar Valley Corporation : 1
+Anjan Prakash : 1
+Samridhi : 1
+Inspector Raj : 1
+Sufism : 1
+Various : 1
+Bodh Gaya : 1
+Jai Jawan Jai Kisan : 1
+Mantra : 1
+Skill Development : 1
+Maternal Mortality : 1
+Race Across America : 1
+Tribals : 1
+Cycle : 1
+Henry Road : 1
+Time : 1
+Magazine : 1
+Whether Junagadh : 1
+Marshal Sam Manekshaw : 1
+Field : 1
+Marshal Manekshaw : 1
+Para Athlete Narayan Thakur : 1
+Narayan : 1
+Hitherto : 1
+Hockey : 1
+Balbeer Singh Senior : 1
+Leslie Claudius : 1
+Mohammad Shahid : 1
+Udham Singh : 1
+Dhan Raj Pillai : 1
+Lord Jagannath Temple : 1
+Supreme : 1
+Shri Manish Mahapatra : 1
+Peepal : 1
+Warli Community : 1
+Bhai Gurbachan Singh : 1
+Lokas : 1
+Policy Gold Award : 1
+Chhatth : 1
+Haifa : 1
+Pakistani : 1
+Officer AbhilashTomy : 1
+Martin Luther King : 1
+Talisman : 1
+Swachhta Hi Sewa : 1
+Ambedkar School : 1
+Clean India Mission : 1
+Gandhi International Sanitation : 1
+Birth Anniversary : 1
+Human Rights : 1
+Durgapuja : 1
+Award : 1
+Bogibeel Bridge : 1
+Jayachandran : 1
+Swachch Bharat Mission : 1
+Hanaya : 1
+Usha Rani Ji : 1
+Vedangi Kulkarni : 1
+Uttarayan : 1
+Calendars : 1
+Tamil PutanduVishnu : 1
+Baisakh : 1
+Kumbhwill : 1
+Mr. Cyril Ramaphosa : 1
+Tolstoy Farms : 1
+Madiba : 1
+Sardar Patel Award : 1
+Karmabhoomi : 1
+Shri Guru TeghBahadurji : 1
+Guru Gobind Singh Ji : 1
+Sikh Gurus : 1
+Gobindsingh : 1
+Shri Guru Gobind Singh : 1
+Food Safety : 1
+Standard Authority : 1
+Healthy Diet : 1
+Rakshabandhan : 1
+Ghoda : 1
+Palki : 1
+Mathematics : 1
+Mattur : 1
+Sanskrit Subhashitas : 1
+Swati Vats : 1
+Swapan Banerjee : 1
+Akhilesh Pandey : 1
+Assembly : 1
+Shri Dhyanchandji : 1
+Namaste Bhawnaji : 1
+Architecture : 1
+Rani Ki Vaav : 1
+Bhoonga : 1
+Ram Niranjanji : 1
+Martyr Ratan Thakur : 1
+Martyr PrasannaSahu : 1
+Martyr Vijay Soren : 1
+Gumla : 1
+Martyr Vijay Maurya : 1
+Martyr Tilakraj : 1
+Martyr Hemraj : 1
+Kota : 1
+Shri Onkar Shetty : 1
+Amar JawanJyoti : 1
+Veerta Chakra : 1
+Para Military : 1
+Jamsetji : 1
+Tata Steel : 1
+Morarjibhai : 1
+Morarjibhai Desai : 1
+Morarji : 1
+Desai : 1
+Morarji Bhai : 1
+Abdul Ghafoor Khatri : 1
+Abdul Gafoor : 1
+Mr. Barack Obama : 1
+Chinna Pillai : 1
+Tao Porchon-Lynch : 1
+Lady Tarzan : 1
+Naxalites : 1
+Jamunaji : 1
+Muktaben : 1
+Rajkumari Devi : 1
+Rajkumari : 1
+Mahashivrartri : 1
+Mann KI Baat : 1
+Kashmir Panchayat Conference : 1
+Pradhans : 1
+Money : 1
+Benami : 1
+Mr. Aashish : 1
+Aashish Paare : 1
+Village Tiraali : 1
+Tehsil Tiraali : 1
+Mr. Yellappa Velankar Ji : 1
+Yellappa Velankar : 1
+Dakshaa Parmar : 1
+Dakshaa : 1
+Mobile App : 1
+Mobile Bank : 1
+App : 1
+Bharat Bhoomi : 1
+Rupay Card : 1
+Kenya : 1
+Shriman Harivansh Rai Bachchan Ji : 1
+Shriman Amitabh Bachchan Ji : 1
+Swachhta Mission : 1
+Amitabh Ji : 1
+Harivansh Rai Bachchan Ji : 1
+Mitti Ka Tann : 1
+Masti Ka Mann : 1
+Kshan Bhar Jeewan : 1
+Swachchh Mann : 1
+Swachchh Bharat : 1
+Aara Keram : 1
+Zeal : 1
+Nidhi Baipotu : 1
+Monish Joshi : 1
+Devanshi Rawat : 1
+Tanush Jain : 1
+Harsh Devdharkar : 1
+Anant Tiwari : 1
+Preeti Nag : 1
+Atharva Deshmukh : 1
+Aronyatesh Ganguli : 1
+Hrithik Alaamandaa : 1
+Sanjiv Haripura : 1
+Mahendra Kumar Daga : 1
+Arvind Rao : 1
+Kilometres : 1
+Chandrayaan II : 1
+Faith : 1
+Lander Vikram : 1
+Rover Pragyan : 1
+Space : 1
+Space Mission : 1
+Chandrayaan : 1
+Shriman Yogesh : 1
+Yogesh : 1
+Lodi Garden : 1
+Prayagraj : 1
+Yogesh Saini : 1
+Brother Muhammad Aslam : 1
+Mohd Aslam : 1
+Kits : 1
+Financial Literacy : 1
+Kulgam : 1
+Gram Sabhas : 1
+Shriman Dattatraya Ramchandra Bendre : 1
+Janamasthmi : 1
+Nag Panchmi : 1
+Chardham Yatra : 1
+Janma Mahotsav : 1
+Sudarshan : 1
+Vande Jagadgurum : 1
+Swantah Sukhaayah : 1
+Ladies : 1
+Dandi : 1
+Champaran : 1
+Bhavan : 1
+Nandlal : 1
+Shramdaan : 1
+District Administration : 1
+Gram Panchayats : 1
+Mutthi Bhar Dhaanya : 1
+Pandey : 1
+Aishwarya Sharma : 1
+Wildlife : 1
+Global Warming : 1
+Jim Corbett National Park : 1
+Gir : 1
+Sukhayah : 1
+Lata : 1
+Garba : 1
+Bhaiya Dooj : 1
+Chhath : 1
+Delivery Out : 1
+Lawyer : 1
+Arunachal : 1
+Rafael Nadal : 1
+Daniil : 1
+Kids : 1
+Sister Mariam Thresia : 1
+Ripudaman Ji : 1
+World Tourism : 1
+Tourism Competitive Index : 1
+Tesu : 1
+Shobha : 1
+Jalan : 1
+Mangalyaan : 1
+Niti Aayog : 1
+Lucky Graahak Yojana : 1
+Vyapari Yojana : 1
+Pooja Nemade : 1
+Vyapar Yojana : 1
+Twin Pit Toilet : 1
+Nitrogen : 1
+Doordarshan : 1
+Samachar : 1
+Child Development Ministry : 1
+River Development : 1
+Ganga Rejuvenation : 1
+Divyang Players : 1
+World Champions : 1
+Sukanya Samridhi Yojana : 1
+Bachao : 1
+Padhao Yojana : 1
+Dastak : 1
+Apna Vidyalaya : 1
+Shubham Karoti Kalyanam : 1
+Aarogyam Dhansampadaa : 1
+Shatrubudhdhi Vinashaay : 1
+Deepajyoti Namostute : 1
+Kodipaka : 1
+Namo : 1
+Geetika : 1
+Major Khushbu Kanwar : 1
+Kavita Tiwari : 1
+Megha Jain : 1
+Megha Ji : 1
+Sanchi Honnamma : 1
+Penninda : 1
+Lord Mount : 1
+Parvati : 1
+Rishi Brighu : 1
+Sita : 1
+Nank Dev : 1
+Nanak Ji : 1
+Udaasi : 1
+Shankar Dev : 1
+Rajgir : 1
+Gurunanak : 1
+Jhira Sahib : 1
+Gurunanak Dev Ji : 1
+Guru Nanak Devji : 1
+Detail : 1
+Junagarh : 1
+Arcot Ramaswamy Mudaliar : 1
+Arcot Laxman Swamy Mudaliar : 1
+Cactus Garden : 1
+Butterfly Garden : 1
+Jungle Safari : 1
+Ekta Nursery : 1
+Shreshth Bharat : 1
+Ek : 1
+Smt Indira : 1
+Swacch Siachen : 1
+Nubra : 1
+Shyok : 1
+Jai Hind Tarannum Khan : 1
+Officer Tarannum Khan : 1
+Tehra : 1
+Mekhla : 1
+Chaat : 1
+Jai Hind Hari : 1
+Officer Sri Hari : 1
+Kristujayanti College : 1
+Bengaluru Sir : 1
+Okay : 1
+Exchange Programme : 1
+Jai Hind Vinole Kiso : 1
+Officer Vinole Kiso : 1
+College : 1
+Sir NCC : 1
+Annual Training Camp : 1
+Kisu : 1
+Officer Akhil : 1
+Haryana Sir : 1
+Physics Honours : 1
+Dayal Singh College : 1
+Delhi University : 1
+Shrestha : 1
+Shri Hari : 1
+Where : 1
+Discovery : 1
+Jai Hind All : 1
+Jai Hind My : 1
+Fit India Week : 1
+Ramesh Sharma : 1
+Weren : 1
+Shri Ramesh : 1
+Pushkaram : 1
+Shweta : 1
+Ram Mandir : 1
+Kali Ganga : 1
+Diwan Singh : 1
+Vaishali Garbyaal : 1
+Hindi Bharatendu Harishchandra : 1
+Memorial : 1
+Alumni Meets : 1
+Phulpur : 1
+Gramin Ajivika Mission : 1
+Parveen : 1
+Fatima : 1
+Fiaz Ahmad : 1
+Fiaz : 1
+Fiyaz : 1
+Ahmed : 1
+Ripun : 1
+Valay Grahan : 1
+Kundal Grahan : 1
+Maadhav : 1
+Kutchi Navigation Techniques : 1
+Voyages : 1
+Guru Shikhar : 1
+Hanle Ladakh : 1
+Devasthal : 1
+Aditya : 1
+Makar : 1
+Maagh Biihu : 1
+Shriman Shailesh : 1
+Fashion : 1
+Drugs : 1
+Society : 1
+Exams : 1
+Bandhan : 1
+Jalore : 1
+Thanawala Panchayats : 1
+Villages : 1
+Village Suniyakot : 1
+Purnima Mandal : 1
+Malvika : 1
+Sujit : 1
+Purnashree : 1
+Prashant : 1
+Singh Kanhaiya : 1
+Bhiwani : 1
+Kareena Shankta : 1
+Khelo India Youth : 1
+Cyclothon : 1
+Mizoram : 1
+Saalumarada Timmakka : 1
+Vriksha Maataa : 1
+Gandhinagar : 1
+Avvaiyar : 1
+Kattat Kemaavoon Kalladaru Udgadvu : 1
+Kaddat Kamiyan Adva Kalladar Olaaadu : 1
+Technology : 1
+Vigyani Karyakram : 1
+Jai Vigyan : 1
+Jai Anusandhaan : 1
+Space Applications : 1
+History : 1
+Leh : 1
+Kushok Bakula Rimpoche Airport : 1
+Indian Bio-jet : 1
+Adarsh : 1
+Mahila Mulberry : 1
+Kamya Karthikeyan : 1
+Mount Aconcagua : 1
+Bhagirathi : 1
+Ismail Khatri : 1
+Design Institutions : 1
+Maha Shivaratri : 1
+Mother Parvati : 1
+Bhole : 1
+Mahashivaratri : 1
+Navami : 1
+Railway Subsidy : 1
+Swachcha Bharat Abhiyan : 1
+Nurses : 1
+Crisis Management : 1
+Mark : 1
+Akshaya : 1
+Patra : 1
+Ramazan : 1
+Bihu : 1
+Vishu : 1
+Fire : 1
+Debt : 1
+Shri RamagampaTeja Ji : 1
+Ramgampa Teja : 1
+Namaste RT : 1
+Namaste PM : 1
+Gandhi Hospital : 1
+Fine Ram : 1
+Shriman Ashok Kapoor : 1
+Ram Manohar Lohiya : 1
+Agra District : 1
+Safdarjung Hospital : 1
+Hello Sir PM Modi : 1
+Namaste Niteshji : 1
+Bhaiya : 1
+Sir Thank : 1
+Namaste Doctor Doctor : 1
+Namaste Namaste PM Modi : 1
+Naidu Hospital : 1
+Fine Doctor : 1
+Acharya Charak : 1
+Acharya : 1
+Charak : 1
+Nurse : 1
+Aasha : 1
+Niranjan Sudhaakar Hebbaale : 1
+Nirupama Harsheya : 1
+Aaryaman : 1
+Veena : 1
+Sewa Paramo Dharmah : 1
+Who : 1
+Literature : 1
+Shaheed Kundan Kumar : 1
+Mohan Ramamurthy : 1
+Siang : 1
+Mirem : 1
+Barabanki : 1
+Pachisi : 1
+Ali Guli Mane : 1
+Moksha Patam : 1
+Parampadam : 1
+Behold : 1
+Gutta : 1
+Herein : 1
+Kamegowda : 1
+Monsoon : 1
+Shri PV Narasimha Rao : 1
+Shriman Narasimha Rao : 1
+Narasimha : 1
+Army : 1
+Sanghe Shakti : 1
+Kalau Yuge : 1
+Doesn : 1
+Gram Treva : 1
+Balbir Kaur Ji : 1
+Quarantine Centre : 1
+Zaitoona : 1
+Mohd Iqbal : 1
+Shriman Iqbal : 1
+Fifty Thousand Rupees : 1
+Madhubani : 1
+Khubani : 1
+Dragon Fruits : 1
+Dragon Fruit : 1
+Begusarai : 1
+Vocal : 1
+Handicrafts : 1
+Nandal : 1
+Namaste Kritika : 1
+Sixty Five : 1
+Ernakulam : 1
+Tamilnadu Modi : 1
+Delhi Vinayak : 1
+Shriman Usman Saifi : 1
+Vedic : 1
+Namakkal : 1
+Sarnami : 1
+Shri Chandrika Parasad Santokhi : 1
+Veda : 1
+Shri Chandrika Prasad Santokhi : 1
+Disaster : 1
+Barna : 1
+Annadaata : 1
+Bow : 1
+Salute : 1
+Child Development : 1
+Medium Enterprises : 1
+Kondaplli : 1
+Dhubari : 1
+Mr. C V Raju : 1
+Nirbhar Bharat App : 1
+Chingari App : 1
+Sarkar : 1
+Step : 1
+Nutriti : 1
+Yatha Annam Tatha Mannam : 1
+Iron : 1
+Calcium : 1
+Covid Pandemic : 1
+Sophie : 1
+Cards : 1
+Vida : 1
+Balaram : 1
+Rocky : 1
+Rescue Missions : 1
+Himachali Hound : 1
+Kanni : 1
+Atmanirbhar Bharat : 1
+Mask Zaroori : 1
+Dussehra : 1
+Durga Pandals : 1
+Sharad Poornima : 1
+Chatthi Maiyya : 1
+Mark Brown : 1
+Marc Brown : 1
+Ram Rajya : 1
+Suman Devi Ji : 1
+Chinmay Patankar : 1
+Pragya Patankar : 1
+Ancient : 1
+Pon Mariyyapan : 1
+Pon Marriyyapan : 1
+Vannakaam : 1
+Usha Dubey : 1
+Didi : 1
+Meena Gurung : 1
+Dewang Hosayi : 1
+Sandeep Kumar : 1
+Vikas Vartul Trust : 1
+Pustak Parab : 1
+Sardar Pate : 1
+Shankracharya Hill : 1
+Shaktipeethas : 1
+Patna Sahib : 1
+Oukhoo : 1
+Manzoor Ahmad Alai : 1
+Apple : 1
+Poplar : 1
+Manzoor Ji : 1
+Ajivika Farm Fresh : 1
+Atul : 1
+Atul Patidar : 1
+Panch Tantra : 1
+Amar Vyas : 1
+Amar : 1
+Vaishali Vyawahare : 1
+Srividya : 1
+Kathalaya : 1
+Ramanujan : 1
+Vikram Sridhar : 1
+Hello Aparna : 1
+Respected : 1
+Namaste Ji Shailaja : 1
+Namaskar Sir : 1
+Namaste Ji : 1
+Soumya Srinivasan : 1
+Namaste Ji Aparna : 1
+Aparna Jaishankar : 1
+Puranas : 1
+Lavanya Prasad : 1
+Namastey : 1
+Aparna : 1
+Krishna Deva Rai : 1
+Maharaj : 1
+Hereafter : 1
+Seedu Dembele : 1
+Sedu Dembele : 1
+Sedu : 1
+Music : 1
+Hindustani : 1
+Shri Kanwar Chauhan : 1
+Azadpur Mandi : 1
+Big Retail Chains : 1
+Five Star Hotels : 1
+Sri Swami Samarth Farm Producer Company : 1
+Farmer Producer : 1
+Bijay : 1
+Shaheed Veer Bhagat Singh : 1
+Shaheed : 1
+Bhagat : 1
+Lala Lajpat Rai : 1
+Ajay SG : 1
+Shahid Bhagat Singh : 1
+Bharati : 1
+Shastriji : 1
+Bharat Ratna Lok Nayak Jayaprakash Narayan : 1
+Bharat Ratna Nanaji Deshmukh : 1
+Rajmata Vijaya Raje Scindia : 1
+Vatsalya Bhava : 1
+Rajmata : 1
+Kanyakumari : 1
+Murli Manohar Joshi : 1
+Shivpuri : 1
+Diksha Katiyal : 1
+Nicobar Islands : 1
+Veer Savarkarji : 1
+Veer : 1
+Veer Savarkarjee : 1
+Kaalaa Paani : 1
+Atharva Veda : 1
+Selfie : 1
+Narendra ModiApp : 1
+Pranam Modi : 1
+Versova Residence : 1
+Afroz Shah : 1
+Shah : 1
+Swachch Bharat Campaign : 1
+Kashi : 1
+Mata Annapurna : 1
+Svalbard : 1
+Arctic World Archive : 1
+Salim Ali : 1
+Salim : 1
+Shaastras : 1
+Jonas Masetti : 1
+Rio De Janeiro : 1
+Mechanical Engineering : 1
+Vedanta Philosophy : 1
+Sahib : 1
+Shri Guru Govind Singh : 1
+Shri Guru Teg Bahadur : 1
+Lakhpat Gurudwara Sahib : 1
+Shri Darbaar Sahib : 1
+Deendayal Petroleum University : 1
+Mysore University : 1
+Scientist : 1
+Tau : 1
+Shutee : 1
+Aurobindo : 1
+Shri Aurobindosaid : 1
+Jitendra Bhoiji : 1
+Bhoiji : 1
+Rupees Three Lakh : 1
+Sub Divisional Magistrate : 1
+Mohammad : 1
+Mohammad Aslam Ji : 1
+Rupees Fifty Lakhs : 1
+Saheb Ambedkar : 1
+Punya Tithi : 1
+Janta : 1
+Self Reliance : 1
+Abhinav Banerjee : 1
+Abhinav : 1
+Venkat Murli Prasad : 1
+Venkatji : 1
+Sahibzade Zorawar Singh : 1
+Fateh Singh : 1
+Gujari : 1
+Shri Guru Tegh Bahadurji : 1
+Gurudwara Rakabganj : 1
+Guru Tegh Bahadurji : 1
+Shri Guru Tegh Bahadur : 1
+Mata Gujari : 1
+Jim Corbett : 1
+Kaushambi : 1
+Veerbhadra Swami : 1
+Will Do : 1
+Hemalata N. K. : 1
+Hiramanji : 1
+Budgam : 1
+Abdul MajeedWani : 1
+Saffron Mission : 1
+Athaato Brahm Jigyasa : 1
+Shri T. Srinivasacharya Swami : 1
+Srinivasacharya Swamiji : 1
+Shriman Pradeedp Sangwan : 1
+Gurugram : 1
+Pradeep Sangwan : 1
+Makar Sankranti : 1
+Rashtrapati : 1
+Covid Vaccine Programme : 1
+Vaccine Programme : 1
+Bhai Himanshu Yadav : 1
+Vande Matram : 1
+Jai Ram Viplava : 1
+Young Writers : 1
+Boinpalli : 1
+Badaut : 1
+Shugu : 1
+Shugu Sheng : 1
+Gombu : 1
+Work : 1
+Meena Rahangadale : 1
+Meena : 1
+Gurleen Chawla : 1
+Gurleen : 1
+Sarmuddin : 1
+Ramayana : 1
+Birbhum : 1
+East Bardhaman : 1
+Art : 1
+José Rafael Estrada : 1
+Rabindranath Quinteros : 1
+Vishwa Kavi Gurudev Rabindranath Tagore : 1
+Swapnil Mantri : 1
+Prahlad Rajgopalan : 1
+Mr. Late : 1
+Road : 1
+Aparna Das : 1
+Babita Rajput : 1
+Agrotha : 1
+Jal Shakti Abhiyan : 1
+Meera : 1
+Urugen Futsog : 1
+Urugen : 1
+Kamraj Bhai Choudhary : 1
+Sargava : 1
+Tejas : 1
+Pramod : 1
+Waterfowls : 1
+Annual Waterfowls Census : 1
+East Asia : 1
+Shri Jadav Payeng : 1
+Jadav Payeng : 1
+Mahaguru Battalion : 1
+Aparna Reddy : 1
+Swami Vedanti Ved Vidyapeeth : 1
+Sri Brahma Veda Vidyalaya : 1
+Aryan Shri : 1
+Devesh : 1
+Sujeet : 1
+Holika Dahan : 1
+Vichar Yatra : 1
+Balidan : 1
+Bhagwan Krishna : 1
+Niyatam Kuru Karma Twam Karma Jyaayo Hyakarmanah : 1
+Janata Curfew : 1
+Curfew : 1
+Pushpa : 1
+Shukla : 1
+Jaunpur UP : 1
+Ram Dulaiya : 1
+Kewal Krishna : 1
+Anandan Nair : 1
+Himanshu : 1
+Mitali : 1
+P V Sindhu : 1
+Guru Prasad : 1
+Museum : 1
+Pallava : 1
+Yamuna Nagar : 1
+Honey Bee Farming : 1
+World Sparrow : 1
+Goraiya : 1
+Goraiyawould : 1
+Goraiyawas : 1
+Indrapal Singh Batra : 1
+Batra Ji : 1
+Bijay Kumar Kabiji : 1
+Cyclone : 1
+Bijoyji : 1
+Bijayji : 1
+Yoganathanji : 1
+Marimuthu Yoganathan : 1
+Boxes : 1
+Automobile Waste Recycling : 1
+Sikari : 1
+Karbi Anglong : 1
+Karbi : 1
+Shriman Sikari Tissau : 1
+Navreh : 1
+Poila : 1
+Chaitra Navratri : 1
+Shashank Joshi : 1
+Mutation : 1
+Heparin : 1
+Nazeer Shah : 1
+Panic Management : 1
+Covid Hospital : 1
+Jammu Kashmir : 1
+Bhavana Dhruv : 1
+care…it : 1
+Hind : 1
+Bhavana Ji : 1
+Sister Surekha : 1
+Bengaluru : 1
+Surekha Ji : 1
+Namaste Surekha : 1
+Modi Ji : 1
+Bhavna Ji : 1
+Ambulance Drivers : 1
+Mr. Prem Verma : 1
+Prem Verma : 1
+Namaste Preeti : 1
+Covid19 Preeti : 1
+Yoga Modi : 1
+Bhagwan Mahavir Jayanti : 1
+Guru Tegh Bahadur : 1
+Dawaibhi : 1
+Kadaibhi : 1
+Vijayi Bhava : 1
+Punch Campaign : 1
+Armed Forces : 1
+Indian National Army : 1
+Col Shaukat Malik : 1
+Bharat Chhoro Andolan : 1
+Always First : 1
+Saayee Praneeth : 1
+Saayee : 1
+Andhra Paradesh : 1
+Praneeth : 1
+Shriman Isaak Munda : 1
+Isaak : 1
+Sandwich Panel System : 1
+Monolithic Concrete : 1
+Shrimati T : 1
+Avungshee Shimre Augasteena : 1
+Avungshee : 1
+Bikramjit : 1
+Dakshina Kannada : 1
+Lakhimpur Kheri : 1
+Riddhima : 1
+Riya : 1
+Sanjay Bhai : 1
+Radhika Shastriji : 1
+Oxygen Cylinder : 1
+First Aid Box : 1
+Sanjay : 1
+Saint Augustine Church : 1
+Ketevan : 1
+Georgia : 1
+Saint : 1
+Augustine Church : 1
+World Heritage Site : 1
+Lee Hsien Loong : 1
+Silat Road Gurudwara : 1
+Gurudwara : 1
+Bhai Maharaj Singh : 1
+Maharaj Singh : 1
+Kalidas : 1
+Taukte : 1
+Yaas : 1
+Shriman Dinesh Upadhyay : 1
+Namaskar Dinesh Upadhyay : 1
+Dinesh Babulnath Upadhyay : 1
+Hasanpur : 1
+Post Jamua : 1
+District Jaunpur : 1
+Inox Company : 1
+Papa : 1
+Dinesh Upadhyaya : 1
+Dinesh : 1
+Shirisha Gajni : 1
+Group Captain Patnaik : 1
+Sir Jai Hind : 1
+Group Captain : 1
+Hindon : 1
+Entire Air Force : 1
+Grp : 1
+Goddess Saraswati : 1
+Urmila : 1
+Prakash Kandpal : 1
+Namaskar Prakash Ji : 1
+Apollo Hospital : 1
+Rajiv Gandhi Cancer Hospital : 1
+Rotary Blood Bank : 1
+Prakash Ji : 1
+Agartala : 1
+Shahi Litchi : 1
+Pradhan Mantri Awas Yojana : 1
+Jeevan Mission : 1
+Tokyo Quiz : 1
+Tokyo Olympics : 1
+Marathon : 1
+Talent : 1
+Sportsman Spirit : 1
+Praveen Jadhav : 1
+Praveen : 1
+Neha : 1
+Deepika Kumari : 1
+Priyanka : 1
+Shivpal : 1
+Shivpalji : 1
+Double Shuttle : 1
+Manish Kaushik : 1
+Tokyo : 1
+Dulariya : 1
+Betul : 1
+Rajesh Hiraawe : 1
+Gram Panchayat Dulariya : 1
+Bhimpur Block : 1
+Weyan : 1
+Ji Sir : 1
+Kishore : 1
+Satchidanand Bharti : 1
+Garhwal : 1
+Chalkhal : 1
+Ufrainkhal : 1
+Nasti Moolam Anoushadham : 1
+Mr. Ramlotan Kushwaha : 1
+Tariq Ahmad Patloo : 1
+Guru Prasad Mohapatra : 1
+Thiru : 1
+Sports : 1
+Bhagwan Somnath : 1
+Bhalaka Teerth : 1
+Jaduarani Dasi : 1
+Jadurani Dasi : 1
+Harey Krishna : 1
+Hare Krishna : 1
+Bhakti Art : 1
+Bhram Sanhita : 1
+Ven : 1
+Omkaraya Patitam : 1
+Barhapeend : 1
+Lord Ram : 1
+Hare : 1
+Happy Janmashtami : 1
+Swachh Bharat Ranking : 1
+Prasad Agricultural University : 1
+Krishi Vigyan Kendra : 1
+Sukhet Model : 1
+Radio Jockeys : 1
+Radio Unity : 1
+Sanskrit That : 1
+Mr. Rutger Kortenhorst : 1
+Kusuma Rakshamani : 1
+Shriman Boris Zakharin : 1
+Sydney Sanskrit School : 1
+Sanskrit Grammar Camp : 1
+Sanskrit Plays : 1
+Vishwakarma Jayanti : 1
+Kaushalya : 1
+Himachal : 1
+Namaste Poonam : 1
+Pranam PM : 1
+Unity : 1
+Bike Rally : 1
+Uri : 1
+Pathankot : 1
+Sahab : 1
+Lori : 1
+Dharati Aaba Bhagwan Birsa Munda : 1
+Lord Birsa Munda : 1
+Rights : 1
+Hansa : 1
+Mehta : 1
+Menon : 1
+Vijaya : 1
+Lakshmi Pandit : 1
+Cobra Battalion : 1
+Drone : 1
+Shrimati Prabha Shukla : 1
+Prabha : 1
+Swachh BharatAbhiyan : 1
+Saparom Naya Sarai : 1
+Ramveer Tanwar : 1
+Chhath Puja : 1
+Pibanti Naddhah : 1
+Swayameva : 1
+Kalpvaas : 1
+Aastha : 1
+Sanskaar : 1
+Ghats : 1
+Namami Gange : 1
+Naagnadi : 1
+Shriman Ramesh Patel : 1
+Jandhan : 1
+Mahesh Nehra : 1
+Akshat Rawat : 1
+Pushpak Gawande : 1
+Ajay Kumar : 1
+Lobsang Chospel : 1
+Major Dwarkesh : 1
+Irfan Ahmed Mir : 1
+Chongjin Ingmo : 1
+Culture : 1
+Attitude : 1
+Deepmala Pandey : 1
+Patayat : 1
+Kalahandi : 1
+Sahu : 1
+Ranchi : 1
+Birsa Agricultural School : 1
+Manju Kachhap : 1
+Patayat Sahu : 1
+Sudha : 1
+Herbal Plants : 1
+Tulsi : 1
+Amla : 1
+Giloy : 1
+Brahmi : 1
+Bilal Ahmed Sheikh : 1
+Munir Ahmed Sheikh : 1
+Bilal Ahmed : 1
+Maryada Purushottam Shri Ram : 1
+Omicron : 1
+Nabhah Sprisham Deeptam : 1
+Group Captain Varun Singh : 1
+Vande Mataram : 1
+Andolan : 1
+Kakori Train : 1
+Netaji Subhash : 1
+Azadi Ka Amrit Mahotsav : 1
+Kurela Vithalacharya : 1
+Book Reading : 1
+Bhandarkar Oriental Research Institute : 1
+Scholar Dr.Momir Nikich : 1
+Pradesh Airgun Surrender Campaign : 1
+Urban Affairs : 1
+Atma Nirbhar Bharat : 1
+Flag : 1
+Armed : 1
+Kahani : 1
+Bachchon Ki Zubani : 1
+Fiji : 1
+Janajati Gaurav Saptah : 1
+Jarwa : 1
+Onge : 1
+Miniature : 1
+Writer Ram Kumar Joshi : 1
+Rani Durgavati : 1
+Goswami Tulsidas : 1
+Sant Kabir : 1
+Bharatendu Harishchandra : 1
+Munshi Premchand : 1
+Jaishankar Prasad : 1
+Kaahu : 1
+Sacred India Gallery : 1
+Tarini Dasi : 1
+Jagat : 1
+Navaadweep : 1
+Bhagwan Shrikrishna : 1
+Jagat Tarini : 1
+Jhansi Laxmibai : 1
+John Lang : 1
+John : 1
+Lang : 1
+Jhalkaribai : 1
+Jyotsna : 1
+Jalaun : 1
+Sukhay : 1
+Rajesh Kumar Prajapati : 1
+Amresh Agarwal : 1
+Sukh Devi : 1
+Unicorn : 1
+Billion Dollars : 1
+Bapu Mahatma Gandhi : 1
+Netaji Subhas Chandra Bose : 1
+Basanti Devi : 1
+Padma Shri : 1
+Shriman Amai Mahalinga Naik : 1
+Riddhima Swargiyari : 1
+Navya Verma : 1
+Mohammed Ibrahim : 1
+Ibrahim : 1
+Bhavna : 1
+Saraswati Vidya Mandir : 1
+Laurencio Pereira : 1
+Shri Shyamji Krishna Varma : 1
+Azaadi : 1
+Applied Arts : 1
+Pandit Madan Mohan Malviya : 1
+Gujarat Vidyapeeth : 1
+Vallabh Vidyanagar : 1
+Bhai Kaka : 1
+Bhikha Bhai : 1
+Gaikwad : 1
+Raja Mahendra Pratap Singh : 1
+Raja : 1
+Mahendra Pratap Singh : 1
+Mathura : 1
+Panchayat Union Middle School : 1
+Taimmal : 1
+Vidyanjali Abhiyan : 1
+Bodyguard : 1
+Horse : 1
+Rashtrapati Bhavan : 1
+Bharat Ratna Bhupen Hazarika : 1
+Eri : 1
+Western Europe : 1
+Professor Aida Albrecht : 1
+Albrecht : 1
+Bhagavad Gita : 1
+Hastinapur : 1
+Goddesses : 1
+Thounaojam : 1
+Astro Turf Football Stadium : 1
+Chandauli : 1
+Baba Sivananda : 1
+Atreya Innovations : 1
+Chandrakishore Patil : 1
+Rahul Maharana : 1
+Mupattam Sri Narayanan : 1
+Mupattam : 1
+Rahiman : 1
+Arun Krishnamurthy : 1
+Rohan Kale : 1
+Rain Water Harvesting : 1
+Sarovars : 1
+Ek Bharat Shreshtha Bharat : 1
+Pauranik : 1
+Lord Krishna : 1
+Rukmani : 1
+Madhavpur : 1
+Gharati : 1
+Martyrs : 1
+Savitribai : 1
+Panch Teerth : 1
+Devi Sthan : 1
+Hanuman : 1
+Annapurna Devi : 1
+Kili Paul : 1
+Azadi : 1
+Marathi Bhasha Gaurav Divas : 1
+Marathi Kaviraj : 1
+Vishnu Vaman Shirvadkar : 1
+Shriman Kusumagraj : 1
+Raila Odinga : 1
+Odinga : 1
+Charles : 1
+Kushal Saar : 1
+Green Kokrajhar : 1
+Single Use Plastic : 1
+Sabka Prayas : 1
+Skill India : 1
+From Parliament : 1
+Gujiya : 1
+Naavika Saagar Parikrama : 1
+Mount Everest : 1
+Pramesh Ale : 1
+Umakant Madhavi : 1
+Kavidas Katmode : 1
+Wardha : 1
+Beti Shivangi : 1
+Ajit : 1
+Sangeeta Bahal : 1
+Chhavi : 1
+Lagori : 1
+Satoriya : 1
+Saat Pathar : 1
+Chomal Isto : 1
+Champal : 1
+Daayaam : 1
+Changaa Po : 1
+Gotibilla : 1
+Gulibadi : 1
+Magar : 1
+Snuff : 1
+Sanskrit Poet Bhartahari : 1
+Shataktrayam : 1
+Pandit Jawaharlal Nehru : 1
+Indians : 1
+Sikar : 1
+Asha Ashvaasan : 1
+Barely : 1
+Neeraj Ji : 1
+Peak : 1
+Satyam : 1
+Asharam Choudhury : 1
+Jodhpur : 1
+Abhay Gupta : 1
+Bitiya Afreen Sheikh : 1
+Nagpur : 1
+Khushi : 1
+Karthik : 1
+Ramesh Sahu : 1
+Gurgaon : 1
+Anushka Panda : 1
+Rae Bareilly Yogesh Sahu : 1
+Rajneesh Bajpayee : 1
+District Magistrate : 1
+Wari : 1
+Saint Gyaneshwar : 1
+Saint Tukaram : 1
+Pandurang : 1
+Vitthal : 1
+Ram Dass : 1
+Tukaram : 1
+Lok Manya : 1
+Bapuji : 1
+Ahmedabad Municipal Corporation : 1
+Swaraj Hamara Janma Sidhha Adhikar Hai : 1
+Tilakji : 1
+Ashfaq Ullah Khan : 1
+Chandrashekhar Azad : 1
+Chandrashekhar : 1
+Chandrasekhar Azad Ji : 1
+Bharat Mata : 1
+Hima Das : 1
+Sundar Singh Gurjar : 1
+Ekta Bhyanji : 1
+Kayakave Kailas : 1
+Kailasha Dham : 1
+Shri Shri Shri Shivakumar Swamiji : 1
+January : 1
+Netaji Subash Chandra Bose : 1
+Singh Dhillon : 1
+Major General Shahnawaz Khan : 1
+Nicobar : 1
+Freedom Struggle : 1
+Dilli Chalo : 1
+Punjabi : 1
+Pashto : 1
+Amrita Shergill : 1
+Raja Ravi Verma : 1
+Avanindranath Tagore : 1
+Gaganendranath Tagore : 1
+Nandalal Bose : 1
+Jamini Roy : 1
+Sailoz Mukherjee : 1
+Ravidas Jayanti : 1
+Kiran Sidar : 1
+Akash Gorkha : 1
+Ramesh Ji : 1
+Sonali Helvi : 1
+Sonali : 1
+Abhinav Shaw : 1
+Akshaya Basavani Kamat : 1
+Kanya Kumari : 1
+Kamrup : 1
+Anshul : 1
+Exam Warriors : 1
+Exam Season : 1
+Pujya Bapu : 1
+Anshu : 1
+Amar Kumar : 1
+Vikas Yadav : 1
+Monica Jain : 1
+Prosenjit Sarkar : 1
+Bardhaman : 1
+Sangeeta Shastri : 1
+Atal Bihari Vajpayee : 1
+Principal Servant : 1
+Facebook Live : 1
+Channels : 1
+Shri Guru Nanak Dev Jayanti : 1
+Guru Nahak Dev Ji : 1
+Union Territories : 1
+Lakhpat Saheb Gurudwara : 1
+Kedar : 1
+Nashaa : 1
+Eeshwari : 1
+Eidgah : 1
+Ameena : 1
+Poos Ki Raat : 1
+Sitanshu Mohan Parida : 1
+Yash Sharma : 1
+Rigveda : 1
+Please : 1
+Sarpanchs : 1
+Katha : 1
+Holistic Health Care : 1
+Awards : 1
+Japan Yoga Niketan : 1
+Sarv Yoga International : 1
+Swami Rajarsrhi : 1
+Lakulish Yoga University : 1
+ : 1

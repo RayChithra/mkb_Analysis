@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:black"></rect>
+<text transform="translate(46,126)" font-size="97" style="fill:rgb(72, 36, 117)">nation</text>
+<text transform="translate(151,184)" font-size="74" style="fill:rgb(40, 174, 128)">world</text>
+<text transform="translate(23,34)" font-size="60" style="fill:rgb(208, 225, 28)">yoga</text>
+<text transform="translate(240,33)" font-size="42" style="fill:rgb(30, 156, 137)">people</text>
+<text transform="translate(1,184)" font-size="35" style="fill:rgb(53, 183, 121)">failure</text>
+<text transform="translate(269,66)" font-size="30" style="fill:rgb(60, 80, 139)">channel</text>
+<text transform="translate(45,160) rotate(-90)" font-size="30" style="fill:rgb(231, 228, 25)">farmer</text>
+<text transform="translate(47,144)" font-size="23" style="fill:rgb(139, 214, 70)">country</text>
+<text transform="translate(184,36)" font-size="23" style="fill:rgb(197, 224, 33)">live</text>
+<text transform="translate(191,105)" font-size="22" style="fill:rgb(71, 16, 99)">life</text>
+<text transform="translate(153,53)" font-size="22" style="fill:rgb(160, 218, 57)">animal</text>
+<text transform="translate(49,67)" font-size="22" style="fill:rgb(92, 200, 99)">issue</text>
+<text transform="translate(382,193) rotate(-90)" font-size="21" style="fill:rgb(65, 66, 135)">mann</text>
+<text transform="translate(17,99) rotate(-90)" font-size="21" style="fill:rgb(52, 182, 121)">baat</text>
+<text transform="translate(211,135)" font-size="12" style="fill:rgb(205, 225, 29)">opportunity</text>
+<text transform="translate(13,142) rotate(-90)" font-size="12" style="fill:rgb(61, 77, 138)">please</text>
+<text transform="translate(133,62)" font-size="12" style="fill:rgb(129, 211, 77)">india</text>
+<text transform="translate(165,9)" font-size="12" style="fill:rgb(149, 216, 64)">government</text>
+<text transform="translate(52,192)" font-size="11" style="fill:rgb(69, 5, 89)">place</text>
+<text transform="translate(172,118) rotate(-90)" font-size="11" style="fill:rgb(50, 101, 142)">act</text>
+<text transform="translate(97,192)" font-size="11" style="fill:rgb(40, 125, 142)">friends</text>
+<text transform="translate(78,155)" font-size="11" style="fill:rgb(45, 113, 142)">success</text>
+<text transform="translate(280,194)" font-size="11" style="fill:rgb(92, 200, 99)">various</text>
+<text transform="translate(192,66)" font-size="11" style="fill:rgb(34, 168, 132)">provide</text>
+<text transform="translate(185,195)" font-size="11" style="fill:rgb(152, 216, 62)">understand</text>
+<text transform="translate(146,135)" font-size="11" style="fill:rgb(44, 177, 126)">important</text>
+<text transform="translate(263,116) rotate(-90)" font-size="11" style="fill:rgb(86, 198, 103)">experience</text>
+<text transform="translate(66,48)" font-size="10" style="fill:rgb(52, 96, 141)">time</text>
+<text transform="translate(258,164)" font-size="10" style="fill:rgb(32, 163, 134)">request</text>
+<text transform="translate(332,193)" font-size="10" style="fill:rgb(31, 161, 136)">passed</text>
+<text transform="translate(325,45)" font-size="10" style="fill:rgb(38, 130, 142)">words</text>
+<text transform="translate(196,112)" font-size="10" style="fill:rgb(92, 200, 99)">others</text>
+<text transform="translate(4,192)" font-size="10" style="fill:rgb(76, 194, 108)">choose</text>
+<text transform="translate(354,40)" font-size="10" style="fill:rgb(82, 197, 105)">path</text>
+<text transform="translate(393,196) rotate(-90)" font-size="10" style="fill:rgb(72, 38, 119)">strength</text>
+<text transform="translate(24,108) rotate(-90)" font-size="10" style="fill:rgb(33, 165, 133)">different</text>
+<text transform="translate(319,137)" font-size="9" style="fill:rgb(197, 224, 33)">speak</text>
+<text transform="translate(2,11)" font-size="9" style="fill:rgb(192, 223, 37)">heat</text>
+<text transform="translate(262,180)" font-size="9" style="fill:rgb(157, 217, 59)">care</text>
+<text transform="translate(251,42)" font-size="9" style="fill:rgb(32, 164, 134)">student</text>
+<text transform="translate(356,120)" font-size="9" style="fill:rgb(65, 68, 135)">exam</text>
+<text transform="translate(131,69)" font-size="9" style="fill:rgb(31, 150, 139)">direction</text>
+<text transform="translate(394,145) rotate(-90)" font-size="9" style="fill:rgb(72, 20, 103)">opportunities</text>
+<text transform="translate(1,30)" font-size="9" style="fill:rgb(241, 229, 29)">always</text>
+<text transform="translate(99,91)" font-size="9" style="fill:rgb(50, 182, 122)">believe</text>
+<text transform="translate(150,193)" font-size="9" style="fill:rgb(32, 163, 134)">dream</text>
+<text transform="translate(354,103)" font-size="9" style="fill:rgb(33, 143, 141)">poor</text>
+<text transform="translate(63,102)" font-size="9" style="fill:rgb(210, 226, 27)">help</text>
+<text transform="translate(128,41)" font-size="9" style="fill:rgb(170, 220, 50)">army</text>
+<text transform="translate(276,102) rotate(-90)" font-size="9" style="fill:rgb(47, 180, 124)">problem</text>
+<text transform="translate(153,90)" font-size="9" style="fill:rgb(31, 153, 138)">visit</text>
+<text transform="translate(162,29)" font-size="8" style="fill:rgb(72, 28, 110)">birds</text>
+<text transform="translate(210,16)" font-size="8" style="fill:rgb(46, 109, 142)">assure</text>
+<text transform="translate(394,39) rotate(-90)" font-size="8" style="fill:rgb(31, 153, 138)">support</text>
+<text transform="translate(1,39)" font-size="8" style="fill:rgb(71, 14, 97)">entire</text>
+<text transform="translate(48,151)" font-size="8" style="fill:rgb(221, 227, 24)">order</text>
+<text transform="translate(1,18)" font-size="8" style="fill:rgb(39, 126, 142)">happy</text>
+<text transform="translate(325,175) rotate(-90)" font-size="8" style="fill:rgb(41, 123, 142)">career</text>
+<text transform="translate(338,118) rotate(-90)" font-size="8" style="fill:rgb(57, 86, 140)">future</text>
+<text transform="translate(257,190)" font-size="8" style="fill:rgb(221, 227, 24)">find</text>
+<text transform="translate(293,100)" font-size="8" style="fill:rgb(41, 122, 142)">field</text>
+<text transform="translate(243,179) rotate(-90)" font-size="8" style="fill:rgb(90, 200, 100)">soldiers</text>
+<text transform="translate(130,158)" font-size="8" style="fill:rgb(40, 174, 128)">part</text>
+<text transform="translate(153,125)" font-size="8" style="fill:rgb(149, 216, 64)">learn</text>
+<text transform="translate(66,123)" font-size="8" style="fill:rgb(36, 170, 131)">hope</text>
+<text transform="translate(21,137) rotate(-90)" font-size="8" style="fill:rgb(132, 212, 75)">heart</text>
+<text transform="translate(80,160)" font-size="6" style="fill:rgb(46, 110, 142)">something</text>
+<text transform="translate(127,47)" font-size="6" style="fill:rgb(72, 27, 109)">rupee</text>
+<text transform="translate(314,175) rotate(-90)" font-size="6" style="fill:rgb(56, 185, 119)">development</text>
+<text transform="translate(102,121) rotate(-90)" font-size="6" style="fill:rgb(39, 128, 142)">farming</text>
+<text transform="translate(261,6)" font-size="6" style="fill:rgb(56, 89, 140)">benefit</text>
+<text transform="translate(258,171)" font-size="6" style="fill:rgb(178, 221, 45)">countries</text>
+<text transform="translate(34,110)" font-size="6" style="fill:rgb(72, 38, 119)">way</text>
+<text transform="translate(168,139)" font-size="5" style="fill:rgb(31, 161, 135)">knowledge</text>
+<text transform="translate(5,148)" font-size="5" style="fill:rgb(70, 52, 128)">step</text>
+<text transform="translate(264,112)" font-size="5" style="fill:rgb(32, 146, 140)">forty</text>
+<text transform="translate(174,13)" font-size="5" style="fill:rgb(31, 154, 138)">travelling</text>
+<text transform="translate(360,44)" font-size="5" style="fill:rgb(34, 139, 141)">travel</text>
+<text transform="translate(303,5)" font-size="5" style="fill:rgb(40, 125, 142)">right path</text>
+<text transform="translate(205,70)" font-size="5" style="fill:rgb(90, 200, 100)">move forward</text>
+<text transform="translate(57,42) rotate(-90)" font-size="5" style="fill:rgb(147, 215, 65)">bima yojna</text>
+<text transform="translate(233,47)" font-size="5" style="fill:rgb(53, 94, 141)">st june</text>
+<text transform="translate(185,56)" font-size="4" style="fill:rgb(147, 215, 65)">countrymen</text>
+<text transform="translate(220,116)" font-size="4" style="fill:rgb(30, 155, 138)">mind</text>
+<text transform="translate(353,70)" font-size="4" style="fill:rgb(32, 146, 140)">weather</text>
+<text transform="translate(119,175)" font-size="4" style="fill:rgb(137, 213, 72)">news</text>
+<text transform="translate(95,74)" font-size="4" style="fill:rgb(226, 228, 24)">amount</text>
+<text transform="translate(163,36)" font-size="4" style="fill:rgb(129, 211, 77)">water</text>
+<text transform="translate(346,197)" font-size="4" style="fill:rgb(210, 226, 27)">children</text>
+<text transform="translate(55,197)" font-size="4" style="fill:rgb(202, 225, 31)">happiness</text>
+<text transform="translate(323,72)" font-size="4" style="fill:rgb(68, 191, 112)">results</text>
+<text transform="translate(294,47)" font-size="4" style="fill:rgb(56, 88, 140)">congratulate</text>
+<text transform="translate(289,37)" font-size="4" style="fill:rgb(86, 198, 103)">significance</text>
+<text transform="translate(351,139) rotate(-90)" font-size="4" style="fill:rgb(65, 68, 135)">behind</text>
+<text transform="translate(287,147)" font-size="4" style="fill:rgb(68, 58, 131)">work</text>
+<text transform="translate(201,85)" font-size="4" style="fill:rgb(65, 68, 135)">family</text>
+<text transform="translate(165,197)" font-size="4" style="fill:rgb(72, 38, 119)">teachers</text>
+<text transform="translate(49,79) rotate(-90)" font-size="4" style="fill:rgb(82, 197, 105)">meet</text>
+<text transform="translate(88,37)" font-size="4" style="fill:rgb(181, 222, 43)">fact</text>
+<text transform="translate(78,197)" font-size="4" style="fill:rgb(248, 230, 33)">capabilities</text>
+<text transform="translate(212,169)" font-size="4" style="fill:rgb(39, 127, 142)">study</text>
+<text transform="translate(166,94)" font-size="4" style="fill:rgb(246, 230, 32)">based</text>
+<text transform="translate(375,139)" font-size="4" style="fill:rgb(129, 211, 77)">talent</text>
+<text transform="translate(113,55)" font-size="4" style="fill:rgb(62, 74, 137)">compared</text>
+<text transform="translate(358,4)" font-size="4" style="fill:rgb(45, 112, 142)">museums</text>
+<text transform="translate(373,4)" font-size="4" style="fill:rgb(65, 66, 135)">sports</text>
+<text transform="translate(72,115)" font-size="4" style="fill:rgb(70, 52, 128)">human</text>
+<text transform="translate(357,93)" font-size="4" style="fill:rgb(221, 227, 24)">chance</text>
+<text transform="translate(326,127)" font-size="4" style="fill:rgb(68, 58, 131)">book</text>
+<text transform="translate(386,74)" font-size="4" style="fill:rgb(39, 126, 142)">trust</text>
+<text transform="translate(341,165)" font-size="4" style="fill:rgb(38, 130, 142)">politics</text>
+<text transform="translate(338,12)" font-size="4" style="fill:rgb(144, 215, 67)">areas</text>
+<text transform="translate(280,94) rotate(-90)" font-size="4" style="fill:rgb(37, 132, 142)">policies</text>
+<text transform="translate(148,73)" font-size="4" style="fill:rgb(119, 209, 83)">launch</text>
+<text transform="translate(251,140)" font-size="4" style="fill:rgb(31, 150, 139)">numbers</text>
+<text transform="translate(207,161)" font-size="4" style="fill:rgb(66, 64, 134)">measures</text>
+<text transform="translate(7,154)" font-size="4" style="fill:rgb(99, 203, 95)">living</text>
+<text transform="translate(196,180) rotate(-90)" font-size="4" style="fill:rgb(202, 225, 31)">adopting</text>
+<text transform="translate(366,196)" font-size="4" style="fill:rgb(46, 109, 142)">poverty</text>
+<text transform="translate(148,197)" font-size="4" style="fill:rgb(78, 195, 107)">milk</text>
+<text transform="translate(125,197)" font-size="4" style="fill:rgb(71, 16, 99)">scientific</text>
+<text transform="translate(357,111)" font-size="4" style="fill:rgb(76, 194, 108)">celebrate</text>
+<text transform="translate(325,142)" font-size="4" style="fill:rgb(110, 206, 88)">seen</text>
+<text transform="translate(11,196)" font-size="4" style="fill:rgb(234, 229, 26)">thought</text>
+<text transform="translate(289,70)" font-size="4" style="fill:rgb(52, 96, 141)">connecting</text>
+<text transform="translate(231,112)" font-size="4" style="fill:rgb(229, 228, 25)">real</text>
+<text transform="translate(276,124)" font-size="4" style="fill:rgb(65, 68, 135)">truth</text>
+<text transform="translate(4,44)" font-size="4" style="fill:rgb(69, 53, 129)">solutions</text>
+<text transform="translate(60,58) rotate(-90)" font-size="4" style="fill:rgb(31, 153, 138)">connect</text>
+<text transform="translate(45,60) rotate(-90)" font-size="4" style="fill:rgb(72, 29, 111)">programme</text>
+<text transform="translate(288,152)" font-size="4" style="fill:rgb(68, 59, 132)">name</text>
+<text transform="translate(294,106)" font-size="4" style="fill:rgb(189, 223, 38)">planning</text>
+<text transform="translate(70,20)" font-size="4" style="fill:rgb(200, 224, 32)">seeing</text>
+<text transform="translate(217,76)" font-size="4" style="fill:rgb(42, 120, 142)">write</text>
+<text transform="translate(71,91)" font-size="4" style="fill:rgb(251, 231, 35)">stories</text>
+<text transform="translate(226,40)" font-size="4" style="fill:rgb(31, 149, 139)">share</text>
+<text transform="translate(259,156)" font-size="4" style="fill:rgb(223, 227, 24)">young friends</text>
+<text transform="translate(74,52)" font-size="4" style="fill:rgb(192, 223, 37)">prime minister</text>
+<text transform="translate(50,119) rotate(-90)" font-size="4" style="fill:rgb(76, 194, 108)">onerank onepension</text>
+</svg>
