@@ -1,7 +1,7 @@
 # Hons_S6
 
 The initial question decided upon for the entirety of the project was to identify and explore primary
-sources of information to see how right wing political parties have used the Babri Masjid iowever,
+sources of information to see how right wing political parties have used the Babri Masjid demolition to cause political influence. However,
 the scope of this question was too large to be finished as an honours project in a single semester and
 as such, the question was alternated to find the contexts implied in the usage of this topic in primary
 sources i.e. what was implied when the Babri Masjid or the Ayodhya Ram temple was brought up in
