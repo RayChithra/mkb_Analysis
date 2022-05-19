@@ -107,13 +107,13 @@ his political party has become famous for through various policies.
 
 - To validate that the time periods mentioned above are accurate, scraping will be done for 2
 national newspapers and the topics discussed will be compared.
-- Name Entity Recognition and Sentiment Analysis tools will be executed on these speeches
+- Named Entity Recognition and Sentiment Analysis tools will be executed on these speeches
 to make further sense of the content discussed.
 - Proper textual analysis will be done on these chosen 15 speeches from three time periods to
 study how they are used to make the people assured in the government while there are
-unresolved issues wreaking hvoc in the background and the popularisation of nationalistic
+unresolved issues wreaking havoc in the background and the popularisation of nationalistic
 politics.
-- Access to a complete database on Inidna political sppeches has been requested from Dr.
+- Access to a complete database on Indian political speeches has been requested from Dr.
 Jean-Thomas Martelli and access to this wide amount of data would further improve the
 validity of this study as comparisons between addresses made by the Prime minister and
-other political leaders addressing solely these events can also be analysed.
+other political leaders focusing solely on these events can also be analysed.
