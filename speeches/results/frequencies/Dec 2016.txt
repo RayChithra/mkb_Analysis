@@ -1,10 +1,8 @@
-people : 34
+ : 49
 government : 21
 countrymen : 17
 rupees : 16
-country : 15
 money : 13
-india : 12
 rewards : 11
 digital : 11
 today : 10
@@ -498,3 +496,5 @@ krishak : 1
 shiromani : 1
 seeds : 1
 entirely : 1
+state : 1
+initiatives : 1

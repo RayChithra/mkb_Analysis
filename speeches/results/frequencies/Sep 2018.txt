@@ -1,9 +1,8 @@
+ : 18
 countrymen : 17
 air : 15
-country : 13
 force : 12
 soldiers : 10
-people : 10
 bapu : 10
 rights : 10
 october : 9
@@ -23,7 +22,6 @@ mantra : 7
 benefit : 7
 feel : 6
 nation : 6
-india : 6
 mahatma : 6
 revered : 6
 unity : 5
@@ -498,3 +496,5 @@ looks : 1
 inner : 1
 self : 1
 useful : 1
+intended : 1
+anyway : 1

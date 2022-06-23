@@ -1,13 +1,12 @@
 modi : 49
-people : 36
 prem : 28
+ : 26
 covid : 24
 corona : 23
 preeti : 22
 dr : 21
 vaccine : 20
 time : 18
-country : 15
 patients : 15
 thank : 12
 family : 12
@@ -28,7 +27,6 @@ patient : 8
 bhavana : 8
 ambulance : 8
 namaskar : 7
-india : 7
 experiences : 7
 fear : 7
 doctor : 7
@@ -498,3 +496,5 @@ management : 1
 began : 1
 designated : 1
 city : 1
+atmosphere : 1
+contracts : 1

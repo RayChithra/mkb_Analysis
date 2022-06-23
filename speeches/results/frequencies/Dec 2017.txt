@@ -1,11 +1,9 @@
-india : 39
+ : 54
 cleanliness : 17
-people : 12
 countrymen : 11
 january : 11
 youth : 11
 service : 10
-country : 10
 resolve : 9
 positive : 9
 women : 9
@@ -498,3 +496,5 @@ indeed : 1
 delightful : 1
 incidents : 1
 left : 1
+sound : 1
+bite : 1

@@ -1,9 +1,7 @@
 yoga : 25
+ : 22
 government : 17
-people : 15
-india : 12
 world : 11
-country : 10
 democracy : 10
 opportunity : 9
 countrymen : 8
@@ -498,3 +496,5 @@ mountains : 1
 welcomed : 1
 rays : 1
 sun : 1
+exist : 1
+threads : 1

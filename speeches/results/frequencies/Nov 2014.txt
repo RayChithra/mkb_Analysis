@@ -1,7 +1,5 @@
-people : 17
 time : 10
 poor : 9
-country : 9
 good : 9
 government : 8
 mann : 7
@@ -11,6 +9,7 @@ diwali : 5
 change : 5
 experience : 5
 commitment : 5
+ : 5
 cleanliness : 5
 social : 5
 talk : 5
@@ -498,3 +497,4 @@ concerns : 1
 carpet : 1
 follow : 1
 instincts : 1
+grand : 1

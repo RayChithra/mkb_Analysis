@@ -19,7 +19,6 @@ teachers : 6
 better : 6
 paper : 6
 results : 6
-people : 6
 friend : 6
 others : 6
 oneself : 6
@@ -28,6 +27,7 @@ important : 5
 everyday : 5
 test : 5
 remember : 5
+ : 5
 someone : 5
 opportunity : 5
 done : 5
@@ -221,7 +221,6 @@ happiness : 2
 attend : 2
 best : 2
 wishes : 2
-india : 2
 defined : 2
 hello : 1
 preoccupied : 1
@@ -498,3 +497,4 @@ ministry : 1
 mention : 1
 arnav : 1
 mohta : 1
+mumbai : 1

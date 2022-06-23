@@ -1,10 +1,8 @@
-india : 19
+ : 25
 government : 18
 countrymen : 15
 technology : 15
 time : 13
-country : 13
-people : 12
 trees : 12
 rio : 10
 entire : 10
@@ -498,3 +496,5 @@ extend : 1
 warmest : 1
 heartiest : 1
 side : 1
+flutters : 1
+skies : 1

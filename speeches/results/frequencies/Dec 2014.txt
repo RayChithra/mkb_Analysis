@@ -1,5 +1,5 @@
+ : 18
 addiction : 13
-people : 11
 concern : 11
 time : 11
 life : 11
@@ -39,7 +39,6 @@ mother : 5
 yoga : 5
 countries : 5
 opportunity : 4
-country : 4
 chance : 4
 work : 4
 together : 4
@@ -160,7 +159,6 @@ remain : 2
 spent : 2
 soldier : 2
 son : 2
-india : 2
 probably : 2
 love : 2
 respect : 2
@@ -498,3 +496,5 @@ frank : 1
 suddenly : 1
 happens : 1
 gradually : 1
+impacts : 1
+happening : 1

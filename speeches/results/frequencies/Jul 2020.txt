@@ -2,14 +2,12 @@ modi : 75
 usman : 24
 vinayak : 22
 friends : 21
-people : 20
-country : 20
 kritika : 20
 kaniga : 19
-india : 15
 time : 15
 corona : 13
 today : 12
+ : 12
 good : 10
 thank : 10
 countrymen : 9
@@ -498,3 +496,5 @@ battles : 1
 fronts : 1
 simultaneously : 1
 countryman : 1
+role : 1
+determine : 1

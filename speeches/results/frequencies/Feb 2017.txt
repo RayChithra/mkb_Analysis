@@ -1,6 +1,4 @@
-country : 18
-india : 17
-people : 15
+ : 19
 farmers : 11
 way : 10
 time : 10
@@ -498,3 +496,5 @@ questioning : 1
 look : 1
 newer : 1
 queries : 1
+create : 1
+realms : 1

@@ -1,11 +1,9 @@
+ : 31
 countrymen : 22
-india : 17
-people : 16
 youth : 14
 programme : 12
 eclipse : 12
 something : 11
-country : 10
 himayat : 10
 today : 9
 solar : 9
@@ -498,3 +496,5 @@ check : 1
 surprised : 1
 thronged : 1
 usual : 1
+organized : 1
+kr : 1

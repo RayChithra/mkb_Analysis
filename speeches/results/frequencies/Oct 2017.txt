@@ -1,6 +1,5 @@
-india : 29
-people : 18
 world : 17
+ : 15
 khadi : 14
 un : 14
 indian : 13
@@ -13,7 +12,6 @@ peace : 9
 efforts : 9
 life : 9
 women : 8
-country : 8
 young : 8
 guru : 8
 festival : 7
@@ -498,3 +496,5 @@ friendly : 1
 played : 1
 leading : 1
 keeping : 1
+female : 1
+unit : 1

@@ -1,7 +1,5 @@
-india : 24
-people : 20
+ : 30
 countrymen : 17
-country : 16
 gandhi : 15
 crore : 13
 depression : 11
@@ -498,3 +496,5 @@ personal : 1
 exploited : 1
 victimised : 1
 deprived : 1
+oppressed : 1
+silently : 1

@@ -1,16 +1,14 @@
-people : 26
 mann : 22
 baat : 22
+ : 21
 great : 15
 government : 14
 khadi : 12
-india : 11
 cleanliness : 11
 october : 10
 family : 10
 power : 9
 suggestions : 9
-country : 9
 prime : 9
 minister : 9
 history : 9
@@ -498,3 +496,5 @@ land : 1
 waters : 1
 skies : 1
 pakistan : 1
+commemorate : 1
+event : 1

@@ -1,6 +1,4 @@
-people : 27
-country : 26
-india : 23
+ : 18
 countrymen : 17
 mann : 17
 baat : 17
@@ -498,3 +496,5 @@ spoiling : 1
 pleased : 1
 lakh : 1
 activities : 1
+initiatives : 1
+continuously : 1

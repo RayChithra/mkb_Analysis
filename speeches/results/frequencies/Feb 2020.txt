@@ -1,8 +1,6 @@
-india : 18
-country : 15
+ : 17
 friends : 10
 indian : 9
-people : 9
 amma : 9
 women : 8
 kamya : 8
@@ -498,3 +496,5 @@ ladakh : 1
 momentous : 1
 event : 1
 january : 1
+history : 1
+air : 1

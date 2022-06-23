@@ -1,18 +1,16 @@
-country : 18
 cleanliness : 17
 countrymen : 14
-people : 13
 festivals : 13
 sports : 13
 festival : 11
 pradhan : 11
 mantri : 11
 rupees : 11
+ : 10
 young : 10
 teacher : 10
 life : 9
 ganesh : 9
-india : 9
 october : 9
 world : 9
 gandhi : 8
@@ -498,3 +496,5 @@ massive : 1
 pleasant : 1
 mentioned : 1
 blessed : 1
+brightest : 1
+brains : 1

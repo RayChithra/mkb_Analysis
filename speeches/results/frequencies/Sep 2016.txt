@@ -1,10 +1,8 @@
+ : 36
 cleanliness : 24
 countrymen : 21
-country : 19
-people : 16
 october : 14
 government : 13
-india : 13
 divyang : 12
 time : 11
 mann : 10
@@ -498,3 +496,5 @@ compared : 1
 normal : 1
 play : 1
 addition : 1
+ability : 1
+skills : 1

@@ -1,9 +1,8 @@
-india : 26
 world : 23
+ : 23
 water : 23
 something : 15
 time : 14
-people : 12
 fifa : 11
 youth : 11
 citizens : 10
@@ -15,7 +14,6 @@ cup : 9
 football : 9
 learn : 9
 done : 9
-country : 8
 tourism : 8
 tb : 8
 best : 7
@@ -498,3 +496,5 @@ keyboard : 1
 proper : 1
 typing : 1
 skills : 1
+overcome : 1
+shortcomings : 1

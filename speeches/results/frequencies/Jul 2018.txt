@@ -1,9 +1,8 @@
-people : 14
+ : 16
 life : 13
 village : 11
 time : 10
 tilak : 10
-india : 9
 lok : 9
 manya : 9
 countrymen : 8
@@ -18,7 +17,6 @@ youth : 7
 great : 7
 sardar : 7
 cave : 6
-country : 6
 neeraj : 6
 father : 6
 ahmedabad : 6
@@ -498,3 +496,5 @@ sake : 1
 studies : 1
 discover : 1
 language : 1
+tourism : 1
+facets : 1

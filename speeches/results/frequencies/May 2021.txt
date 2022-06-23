@@ -1,7 +1,6 @@
-country : 51
 modi : 47
 oxygen : 40
-people : 32
+ : 35
 work : 30
 dinesh : 27
 corona : 22
@@ -11,7 +10,6 @@ countrymen : 14
 shirisha : 12
 lab : 12
 prakash : 12
-india : 11
 air : 11
 tankers : 11
 feel : 11
@@ -498,3 +496,5 @@ view : 1
 caught : 1
 jams : 1
 somewhere : 1
+inner : 1
+eagerness : 1

@@ -1,7 +1,5 @@
 world : 15
-india : 14
-country : 12
-people : 10
+ : 14
 work : 8
 life : 7
 nepal : 6

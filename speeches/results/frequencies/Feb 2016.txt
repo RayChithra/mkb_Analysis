@@ -6,6 +6,7 @@ science : 18
 mind : 16
 going : 16
 sleep : 16
+ : 14
 exam : 14
 good : 13
 yoga : 13
@@ -20,7 +21,6 @@ paper : 10
 inner : 9
 find : 9
 expectations : 9
-country : 9
 positive : 9
 discovery : 9
 children : 8
@@ -28,7 +28,6 @@ teachers : 8
 set : 8
 thing : 8
 question : 8
-india : 8
 app : 7
 today : 7
 world : 7
@@ -41,7 +40,6 @@ experiences : 6
 matter : 6
 achieve : 6
 score : 6
-people : 6
 something : 6
 best : 6
 confidence : 6
@@ -498,3 +496,5 @@ types : 1
 studied : 1
 learnt : 1
 points : 1
+worrying : 1
+type : 1

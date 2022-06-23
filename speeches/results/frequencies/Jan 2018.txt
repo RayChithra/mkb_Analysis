@@ -1,11 +1,9 @@
 women : 34
-people : 20
+ : 21
 society : 16
-india : 14
 today : 11
 woman : 11
 medicines : 11
-country : 10
 social : 10
 time : 9
 countrymen : 8
@@ -498,3 +496,5 @@ stereotype : 1
 presented : 1
 picture : 1
 dantewada : 1
+violence : 1
+torture : 1

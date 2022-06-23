@@ -1,6 +1,4 @@
-india : 25
 barack : 18
-people : 14
 think : 14
 world : 12
 prime : 12
@@ -34,7 +32,6 @@ question : 7
 good : 7
 way : 7
 yeswecan : 7
-country : 6
 family : 6
 societies : 6
 education : 6
@@ -96,6 +93,7 @@ peoples : 3
 better : 3
 opportunity : 3
 shopping : 3
+ : 3
 boys : 3
 girls : 3
 less : 3
@@ -498,3 +496,5 @@ visiting : 1
 relatively : 1
 humble : 1
 beginnings : 1
+notion : 1
+tea : 1

@@ -1,12 +1,10 @@
-india : 24
 world : 21
+ : 19
 indian : 16
 patel : 12
-country : 12
 countrymen : 11
 best : 10
 singh : 10
-people : 9
 sardar : 8
 hockey : 8
 tribal : 8
@@ -498,3 +496,5 @@ dtc : 1
 buses : 1
 waiter : 1
 roadside : 1
+eateries : 1
+observe : 1

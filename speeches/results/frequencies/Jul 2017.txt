@@ -1,6 +1,4 @@
-india : 34
-people : 21
-country : 20
+ : 48
 time : 20
 august : 18
 resolve : 18
@@ -498,3 +496,5 @@ pinnacle : 1
 definitely : 1
 participating : 1
 sharing : 1
+responsibility : 1
+decisions : 1

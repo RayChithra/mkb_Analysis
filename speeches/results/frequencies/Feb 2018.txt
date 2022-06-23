@@ -1,16 +1,14 @@
+ : 24
 safety : 22
 life : 14
 waste : 13
 women : 13
 lives : 11
-india : 10
 part : 10
 festival : 10
 science : 9
-country : 9
 today : 8
 intelligence : 8
-people : 8
 countrymen : 7
 artificial : 7
 disasters : 7
@@ -498,3 +496,5 @@ mitra : 1
 launched : 1
 volunteers : 1
 thousands : 1
+heatwave : 1
+mass : 1

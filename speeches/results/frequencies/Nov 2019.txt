@@ -1,10 +1,8 @@
 prime : 30
 minister : 29
+ : 29
 pm : 26
-india : 25
 ncc : 23
-country : 23
-people : 19
 tarannum : 17
 khan : 16
 hari : 16
@@ -498,3 +496,5 @@ misunderstanding : 1
 crept : 1
 sight : 1
 broken : 1
+rule : 1
+realize : 1

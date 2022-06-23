@@ -1,16 +1,14 @@
-people : 21
 time : 17
 experience : 16
 learn : 15
-india : 14
 suggestions : 13
 something : 13
-country : 12
 life : 11
 world : 11
 society : 9
 government : 9
 feel : 9
+ : 9
 opportunity : 9
 countrymen : 8
 today : 8
@@ -498,3 +496,5 @@ younger : 1
 prefer : 1
 leading : 1
 zones : 1
+raise : 1
+protective : 1

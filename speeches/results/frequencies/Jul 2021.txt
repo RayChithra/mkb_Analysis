@@ -1,7 +1,5 @@
 friends : 22
-people : 18
-country : 17
-india : 15
+ : 18
 mann : 13
 baat : 13
 today : 12
@@ -498,3 +496,5 @@ revered : 1
 quit : 1
 chhoro : 1
 steered : 1
+leadership : 1
+countryman : 1

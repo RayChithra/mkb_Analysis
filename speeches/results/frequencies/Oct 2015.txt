@@ -1,7 +1,5 @@
-india : 32
 gold : 31
-people : 21
-country : 15
+ : 29
 village : 14
 organ : 13
 donation : 13
@@ -498,3 +496,5 @@ bio : 1
 natural : 1
 resources : 1
 indians : 1
+settled : 1
+shares : 1

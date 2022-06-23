@@ -1,7 +1,6 @@
 water : 40
-people : 27
 yoga : 25
-country : 21
+ : 24
 mann : 18
 baat : 18
 countrymen : 12
@@ -14,7 +13,6 @@ today : 10
 time : 10
 life : 9
 society : 9
-india : 9
 collective : 8
 stories : 8
 story : 7
@@ -498,3 +496,5 @@ pangs : 1
 savour : 1
 unless : 1
 citizen : 1
+getting : 1
+belonged : 1

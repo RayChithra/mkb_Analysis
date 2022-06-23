@@ -1,8 +1,6 @@
-people : 30
-country : 27
 poonam : 26
-india : 21
 pm : 19
+ : 18
 drone : 16
 police : 15
 today : 14
@@ -498,3 +496,5 @@ good : 1
 wishes : 1
 side : 1
 behalf : 1
+baat…and : 1
+myself…i : 1

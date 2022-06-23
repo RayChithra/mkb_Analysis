@@ -1,11 +1,9 @@
 water : 45
-people : 20
+ : 20
 world : 16
 states : 14
 yog : 14
 life : 13
-india : 10
-country : 10
 pradesh : 10
 money : 10
 use : 9
@@ -498,3 +496,5 @@ forgiveness : 1
 remorse : 1
 storage : 1
 proper : 1
+equal : 1
+implementing : 1

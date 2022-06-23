@@ -1,12 +1,10 @@
+ : 24
 poor : 11
-country : 10
 government : 9
 brothers : 9
 opportunity : 8
 today : 8
 farmers : 8
-people : 7
-india : 7
 sisters : 7
 youth : 7
 mann : 6
@@ -498,3 +496,5 @@ rushes : 1
 seems : 1
 reason : 1
 levels : 1
+speech : 1
+least : 1

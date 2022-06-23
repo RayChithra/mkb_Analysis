@@ -1,10 +1,9 @@
 government : 16
-country : 15
 work : 11
 road : 11
-people : 10
 suggestions : 10
 safety : 10
+ : 8
 villages : 7
 quite : 7
 sisters : 6
@@ -43,7 +42,6 @@ really : 4
 operation : 4
 toilet : 4
 campaign : 4
-india : 4
 electricity : 4
 countrymen : 3
 pulses : 3
@@ -498,3 +496,5 @@ immense : 1
 exists : 1
 keshla : 1
 rajnandgaon : 1
+chhattisgarh : 1
+inhabitants : 1

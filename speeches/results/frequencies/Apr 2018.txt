@@ -1,9 +1,7 @@
-india : 46
+ : 33
 water : 27
 buddha : 23
-people : 20
 world : 15
-country : 13
 conservation : 13
 lord : 13
 countrymen : 11
@@ -498,3 +496,5 @@ heartening : 1
 eminent : 1
 personalities : 1
 encouraging : 1
+interesting : 1
+cine : 1

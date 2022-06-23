@@ -1,7 +1,5 @@
 world : 14
 yoga : 14
-people : 13
-country : 11
 nation : 11
 farmers : 11
 life : 10
@@ -13,13 +11,13 @@ path : 9
 failure : 9
 opportunity : 8
 please : 8
-india : 8
 success : 7
 various : 7
 provide : 7
 understand : 7
 government : 7
 important : 7
+ : 7
 issue : 7
 time : 6
 request : 6
@@ -498,3 +496,5 @@ land : 1
 reducing : 1
 critical : 1
 grow : 1
+crops : 1
+efficiently : 1

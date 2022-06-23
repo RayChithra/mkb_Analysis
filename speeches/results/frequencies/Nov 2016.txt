@@ -1,5 +1,4 @@
-people : 33
-country : 21
+ : 44
 money : 18
 today : 13
 bank : 13
@@ -7,7 +6,6 @@ poor : 13
 nation : 12
 mobile : 12
 society : 11
-india : 11
 great : 11
 countrymen : 10
 world : 10
@@ -498,3 +496,5 @@ kith : 1
 kin : 1
 teachers : 1
 gram : 1
+depths : 1
+echoed : 1

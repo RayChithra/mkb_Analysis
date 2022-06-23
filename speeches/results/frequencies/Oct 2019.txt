@@ -1,7 +1,5 @@
-india : 23
 unity : 19
-people : 18
-country : 13
+ : 16
 sardar : 13
 guru : 12
 countrymen : 11
@@ -498,3 +496,5 @@ approximately : 1
 eightyfive : 1
 amritsar : 1
 golden : 1
+temple : 1
+commemorating : 1

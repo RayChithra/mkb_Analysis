@@ -1,10 +1,8 @@
 games : 22
+ : 17
 savarkar : 15
-india : 14
 world : 11
 daughters : 10
-country : 10
-people : 10
 everest : 9
 sports : 9
 game : 9
@@ -498,3 +496,5 @@ karrabillain : 1
 odisha : 1
 gulibadi : 1
 vittidaaloo : 1
+seasonal : 1
+kites : 1

@@ -1,14 +1,12 @@
-people : 52
 kishorilal : 39
 pm : 37
 rajesh : 31
-country : 23
 village : 23
 corona : 21
 prime : 20
 minister : 19
-india : 16
 tokyo : 16
+ : 14
 olympics : 13
 water : 13
 mann : 12
@@ -498,3 +496,5 @@ hesitancy : 1
 organizations : 1
 civil : 1
 society : 1
+forward…and : 1
+wonderful : 1

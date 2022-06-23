@@ -1,9 +1,8 @@
 toys : 28
-country : 25
 friends : 19
 toy : 15
 nutrition : 15
-india : 13
+ : 13
 children : 12
 time : 11
 indian : 11
@@ -13,7 +12,6 @@ movement : 10
 games : 10
 students : 10
 countrymen : 8
-people : 8
 food : 8
 child : 8
 independence : 7
@@ -498,3 +496,5 @@ dhubari : 1
 assam : 1
 varanasi : 1
 uttar : 1
+count : 1
+names : 1

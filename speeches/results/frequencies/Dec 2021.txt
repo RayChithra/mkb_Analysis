@@ -1,11 +1,9 @@
-people : 27
-country : 23
+ : 25
 started : 13
 friends : 12
 today : 11
 efforts : 11
 countrymen : 10
-india : 9
 life : 8
 time : 8
 students : 8
@@ -498,3 +496,5 @@ personalities : 1
 strengthen : 1
 endowed : 1
 talents : 1
+whose : 1
+inspires : 1

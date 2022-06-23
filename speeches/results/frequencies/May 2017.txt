@@ -1,4 +1,3 @@
-people : 26
 waste : 23
 yoga : 20
 cleanliness : 16
@@ -12,7 +11,6 @@ baat : 9
 freedom : 9
 movement : 9
 june : 8
-india : 7
 life : 7
 great : 7
 state : 7
@@ -20,7 +18,7 @@ environment : 7
 connected : 7
 bins : 7
 countrymen : 6
-country : 6
+ : 6
 given : 6
 started : 6
 visit : 6
@@ -498,3 +496,5 @@ rituals : 1
 worshiping : 1
 affection : 1
 everyday : 1
+true : 1
+case : 1

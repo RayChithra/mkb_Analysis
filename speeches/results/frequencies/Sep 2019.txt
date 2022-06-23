@@ -1,6 +1,4 @@
-india : 25
-country : 18
-people : 18
+ : 15
 countrymen : 12
 young : 12
 today : 10
@@ -498,3 +496,5 @@ writing : 1
 reading : 1
 special : 1
 pointing : 1
+shortcomings : 1
+entrusted : 1

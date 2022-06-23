@@ -1,5 +1,5 @@
 nation : 20
-people : 10
+ : 10
 countrymen : 8
 suggestions : 8
 thoughts : 7
@@ -84,7 +84,6 @@ habits : 2
 individuals : 2
 end : 2
 dirt : 2
-country : 2
 yesterday : 2
 nd : 2
 october : 2
@@ -421,7 +420,6 @@ mann : 1
 baat : 1
 intention : 1
 serve : 1
-india : 1
 heights : 1
 takes : 1
 steps : 1

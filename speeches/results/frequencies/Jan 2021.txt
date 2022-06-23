@@ -1,8 +1,6 @@
-india : 24
-country : 21
+ : 20
 time : 14
 world : 10
-people : 9
 started : 9
 yoga : 9
 january : 8
@@ -498,3 +496,5 @@ preserve : 1
 struggles : 1
 sake : 1
 alive : 1
+generations : 1
+appeal : 1

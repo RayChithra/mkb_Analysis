@@ -1,9 +1,7 @@
-india : 25
-country : 19
+ : 27
 netaji : 13
 countrymen : 11
 life : 10
-people : 10
 space : 10
 young : 9
 ravidas : 9
@@ -498,3 +496,5 @@ fought : 1
 aware : 1
 inside : 1
 structures : 1
+lay : 1
+locked : 1

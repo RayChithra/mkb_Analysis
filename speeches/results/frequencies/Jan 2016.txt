@@ -1,13 +1,11 @@
-people : 26
 khadi : 22
+ : 21
 baat : 12
 mann : 11
-country : 11
 good : 11
 farmers : 10
 startup : 10
 send : 9
-india : 8
 government : 7
 countrymen : 6
 way : 6
@@ -498,3 +496,5 @@ harvesting : 1
 assurances : 1
 support : 1
 focus : 1
+fast : 1
+track : 1

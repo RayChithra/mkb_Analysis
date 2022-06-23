@@ -1,11 +1,9 @@
-country : 25
 light : 23
+ : 21
 time : 16
 today : 16
-people : 15
 house : 15
 countrymen : 13
-india : 13
 honey : 12
 farmers : 11
 mann : 10
@@ -498,3 +496,5 @@ touch : 1
 jaunpur : 1
 dulaiya : 1
 kewal : 1
+dose : 1
+jai : 1

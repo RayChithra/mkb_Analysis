@@ -1,16 +1,14 @@
 deepawali : 18
 great : 18
-india : 18
 sardar : 18
 diwali : 17
-country : 16
 festival : 14
 free : 13
 darkness : 12
-people : 12
 countrymen : 11
 village : 11
 unity : 11
+ : 10
 saheb : 10
 message : 9
 campaign : 9
@@ -498,3 +496,5 @@ postage : 1
 stamp : 1
 canada : 1
 twitter : 1
+british : 1
+premier : 1

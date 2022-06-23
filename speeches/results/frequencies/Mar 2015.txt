@@ -2,11 +2,11 @@ farmers : 55
 government : 42
 land : 41
 law : 36
+ : 30
 farmer : 28
 village : 24
 sisters : 20
 brothers : 17
-country : 16
 villages : 14
 states : 13
 provide : 12
@@ -26,7 +26,6 @@ today : 7
 speak : 7
 assure : 7
 poor : 7
-people : 7
 change : 7
 proper : 7
 betterment : 7
@@ -498,3 +497,4 @@ post : 1
 lastly : 1
 started : 1
 finding : 1
+priority : 1

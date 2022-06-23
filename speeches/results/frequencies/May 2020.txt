@@ -1,8 +1,5 @@
-country : 54
-people : 48
 corona : 34
 yoga : 30
-india : 26
 life : 26
 scheme : 26
 bharat : 24
@@ -31,6 +28,7 @@ products : 10
 medical : 10
 free : 10
 nature : 10
+ : 9
 mann : 8
 baat : 8
 masks : 8
@@ -498,3 +496,5 @@ ever : 2
 offered : 2
 accorded : 2
 priority : 2
+inner : 2
+considering : 2

@@ -1,10 +1,7 @@
-india : 15
 guru : 15
 world : 13
 sahib : 13
 farmers : 13
-people : 12
-country : 11
 alumni : 11
 students : 10
 heritage : 9
@@ -35,6 +32,7 @@ nanak : 6
 sri : 6
 virendra : 6
 idol : 5
+ : 5
 working : 5
 nature : 5
 bird : 5
@@ -498,3 +496,5 @@ mentioned : 1
 granth : 1
 ko : 1
 seva : 1
+bun : 1
+aayee : 1

@@ -1,11 +1,9 @@
 water : 28
-people : 23
-india : 20
-country : 17
 ravidas : 13
 way : 12
 world : 11
 time : 9
+ : 9
 youth : 9
 science : 9
 selfreliant : 9
@@ -498,3 +496,5 @@ hesitate : 1
 stand : 1
 feet : 1
 fair : 1
+dependant : 1
+dreams : 1
